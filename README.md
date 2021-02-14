@@ -1,1 +1,1 @@
-"# FuncLogicProgramming" 
+# FuncLogicProgramming
