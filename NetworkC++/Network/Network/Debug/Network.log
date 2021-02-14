@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\mtara\Desktop\NetworkC++\Network\Network\NNetwork.h(31,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mtara\Desktop\NetworkC++\Network\Network\NNetwork.h(50,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mtara\Desktop\NetworkC++\Network\Network\NNetwork.h(59,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mtara\Desktop\NetworkC++\Network\Network\NNetwork.h(77,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\mtara\Desktop\NetworkC++\Network\Network\NNetwork.h(78,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\mtara\Desktop\NetworkC++\Network\Network\NNetwork.h(116,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mtara\Desktop\NetworkC++\Network\Network\Source.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Network.vcxproj -> C:\Users\mtara\Desktop\NetworkC++\Network\Debug\Network.exe

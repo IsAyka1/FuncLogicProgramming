@@ -71,8 +71,8 @@ class OurNeuralNetwork:
     - all_y_trues - массив numpy с n элементами.
       Элементы all_y_trues соответствуют наблюдениям в data.
     '''
-    learn_rate = 0.5
-    epochs = 100 # сколько раз пройти по всему набору данных
+    learn_rate = 5.0
+    epochs = 100000  # сколько раз пройти по всему набору данных
 
     for epoch in range(epochs):
       for x, y_true in zip(data, all_y_trues):

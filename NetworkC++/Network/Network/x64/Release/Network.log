@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\mtara\Desktop\NetworkC++\Network\Network\NNetwork.h(77,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\mtara\Desktop\NetworkC++\Network\Network\NNetwork.h(78,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\mtara\Desktop\NetworkC++\Network\Network\NNetwork.h(104,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mtara\Desktop\NetworkC++\Network\Network\NNetwork.h(126,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mtara\Desktop\NetworkC++\Network\Network\NNetwork.h(134,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mtara\Desktop\NetworkC++\Network\Network\Source.cpp(9,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  parser.cpp
+  Generating code
+  1 of 311 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Network.vcxproj -> C:\Users\mtara\Desktop\NetworkC++\Network\x64\Release\Network.exe
