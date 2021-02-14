@@ -38,7 +38,7 @@ class OurNeuralNetwork:
     self.w6 = np.random.normal()
 
     # Улучшение
-    self.W = np.random.random(3*Num)
+    self.W = np.random.random(4*Num)
 
     # Пороги
     self.b1 = np.random.normal()
@@ -56,12 +56,12 @@ class OurNeuralNetwork:
     # Улучшение
     H = np.zeros(self.N)
     for i in range(self.N):
-      H[i] = sigmoid(self.W[i*2] * x[0] + self.W[i*2+1] * x[1] + self.B[i])
+      H[i] = sigmoid(self.W[i*3] * x[0] + self.W[i*3+1] * x[1] + self.W[i*3+2] * x[2] + self.B[i])
 
     o1 = sigmoid(self.w5 * h1 + self.w6 * h2 + self.b3)
 
     # Улучшение
-    O1 = sigmoid((self.W[2*self.N:] * H).sum() + self.B[len(self.B) - 1])
+    O1 = sigmoid((self.W[3*self.N:] * H).sum() + self.B[len(self.B) - 1])
 
     return O1
 
@@ -71,8 +71,8 @@ class OurNeuralNetwork:
     - all_y_trues - массив numpy с n элементами.
       Элементы all_y_trues соответствуют наблюдениям в data.
     '''
-    learn_rate = 5.0
-    epochs = 1000 # сколько раз пройти по всему набору данных
+    learn_rate = 0.5
+    epochs = 100 # сколько раз пройти по всему набору данных
 
     for epoch in range(epochs):
       for x, y_true in zip(data, all_y_trues):
@@ -87,7 +87,7 @@ class OurNeuralNetwork:
         sum_H = np.zeros(self.N)
         H = np.zeros(self.N)
         for i in range(self.N):
-          sum_H[i] = self.W[i*2] * x[0] + self.W[i*2+1] * x[1] + self.B[i]
+          sum_H[i] = self.W[i*3] * x[0] + self.W[i*3+1] * x[1] + self.W[i*3+2] * x[2] + self.B[i]
           H[i] = sigmoid(sum_H[i])
 
         sum_o1 = self.w5 * h1 + self.w6 * h2 + self.b3
@@ -95,7 +95,7 @@ class OurNeuralNetwork:
         #y_pred = o1
 
         # Улучшение
-        sum_O1 = (self.W[2*self.N:] * H).sum() + self.B[len(self.B)-1]
+        sum_O1 = (self.W[3*self.N:] * H).sum() + self.B[len(self.B)-1]
         O1 = sigmoid(sum_O1)
         y_pred = O1
 
@@ -109,8 +109,8 @@ class OurNeuralNetwork:
         d_ypred_d_b3 = deriv_sigmoid(sum_o1)
 
         # Улучшение
-        d_W = np.zeros(self.N * 3)
-        d_W[self.N*2:] = H * deriv_sigmoid(sum_O1)
+        d_W = np.zeros(self.N * 4)
+        d_W[self.N*3:] = H * deriv_sigmoid(sum_O1)
         d_B = np.zeros(self.N + 1)
         d_B[self.N] = deriv_sigmoid(sum_O1)
 
@@ -118,7 +118,7 @@ class OurNeuralNetwork:
         d_ypred_d_h2 = self.w6 * deriv_sigmoid(sum_o1)
 
         # Улучшение
-        d_ypred_d_H = self.W[self.N*2:] * deriv_sigmoid(sum_O1)
+        d_ypred_d_H = self.W[self.N*3:] * deriv_sigmoid(sum_O1)
 
         # Нейрон h1
         d_h1_d_w1 = x[0] * deriv_sigmoid(sum_h1)
@@ -131,9 +131,10 @@ class OurNeuralNetwork:
         d_h2_d_b2 = deriv_sigmoid(sum_h2)
 
         # Улучшение
-        for i, j in zip(range(0, self.N * 2, 2), range(self.N)):
+        for i, j in zip(range(0, self.N * 3, 3), range(self.N)):
           d_W[i] = x[0] * deriv_sigmoid(sum_H[j])
           d_W[i+1] = x[1] * deriv_sigmoid(sum_H[j])
+          d_W[i+2] = x[2] * deriv_sigmoid(sum_H[j])
           d_B[j] = deriv_sigmoid(sum_H[j])
 
         # --- Обновляем веса и пороги
@@ -148,9 +149,10 @@ class OurNeuralNetwork:
         self.b2 -= learn_rate * d_L_d_ypred * d_ypred_d_h2 * d_h2_d_b2
 
         # Улучшение
-        for i, j in zip(range(0, self.N * 2, 2), range(self.N)):
+        for i, j in zip(range(0, self.N * 3, 3), range(self.N)):
           self.W[i] -= learn_rate * d_L_d_ypred * d_ypred_d_H[j] * d_W[i]
           self.W[i+1] -= learn_rate * d_L_d_ypred * d_ypred_d_H[j] * d_W[i+1]
+          self.W[i+2] -= learn_rate * d_L_d_ypred * d_ypred_d_H[j] * d_W[i+2]
           self.B[j] -= learn_rate * d_L_d_ypred * d_ypred_d_H[j] * d_B[j]
 
         # Нейрон o1
@@ -159,7 +161,7 @@ class OurNeuralNetwork:
         self.b3 -= learn_rate * d_L_d_ypred * d_ypred_d_b3
 
         # Улучшение
-        for i in range(self.N * 2, self.N * 3, 1):
+        for i in range(self.N * 3, self.N * 4, 1):
           self.W[i] -= learn_rate * d_L_d_ypred * d_W[i]
         self.B[self.N] -= learn_rate * d_L_d_ypred * d_B[self.N]
 
@@ -168,4 +170,4 @@ class OurNeuralNetwork:
         y_preds = np.apply_along_axis(self.feedforward, 1, data)
         loss = mse_loss(all_y_trues, y_preds)
         print("Epoch %d loss: %.8f" % (epoch, loss))
-        # print(self.W)
+        #print(self.W)

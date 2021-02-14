@@ -52,7 +52,7 @@ def get_tests_data():
         for i in range(1, len(testsData)):
             values = testsData[i].split(':')
             data.append([float(values[0]), float(values[1]), float(values[2])])
-            gender.append(values[3] == 'Female')
+            gender.append(values[3] == 'Female\n')
 
     return data, gender
 
@@ -68,25 +68,33 @@ def show_results_after_tests(resultsFileName: str):
         results = file.readlines()
     for i in range(len(results)):
         values = results[i].split(':')
-        networkAnswer = float(values[0]) > 0.8
-        realValue = values[4]
+
+        networkAnswer = None
+        if float(values[0]) > 0.8:
+            networkAnswer = 'Female'
+        elif float(values[0]) < 0.2:
+            networkAnswer = 'Male'
+        else:
+            networkAnswer = 'closer to ' + ('Female' if float(values[0]) <= 0.5 else 'Male')
+
+        realValue = 'Female' if values[4][1:] == 'True\n' else 'Male'
         if networkAnswer == realValue:
             yes += 1
         else:
             no += 1
             mistakes.append('Height: {height} Mass:{mass} Age:{age} Gender:{gender} Neural answer:{neuralAnswer}'.format
-            (
+                (
                 height=values[1],
                 mass=values[2],
                 age=values[3],
-                gender='Female' if int(values[4]) else 'Male',
-                neuralAnswer='Female' if int(values[0]) else 'Male'
+                gender=realValue,
+                neuralAnswer=networkAnswer
             ))
 
     # show results
     if no == 0:
         print('All {count} was successes defined'.format(count=yes))
     else:
-        print('Fail is {percent}\n'.format(percent=len(results) / 100 * no))
+        print('Fail is {percent}%\n'.format(percent=no / (len(results) / 100)))
         for i in range(len(mistakes)):
             print(mistakes[i])

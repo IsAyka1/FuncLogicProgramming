@@ -24,7 +24,7 @@ def main():
     testsResultFile = 'tests_result.txt'
     with open(testsResultFile, 'w') as file:
         for i in range(len(data)):
-            file.write('{networkAnswer:0.3f} : {height} : {mass} : {age} : {realValue}'.format(
+            file.write('{networkAnswer:0.3f} : {height} : {mass} : {age} : {realValue}\n'.format(
                 networkAnswer=network.feedforward(data[i]),
                 height=data[i][0],
                 mass=data[i][1],
