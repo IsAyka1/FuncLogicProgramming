@@ -1,6 +1,4 @@
  height   mass   age   gender
- 151.76  47.83   63.0  Female
- 139.70  36.49   63.0   Male 
  136.53  31.86   65.0   Male 
  156.84  53.04   41.0  Female
  145.41  41.28   51.0   Male 

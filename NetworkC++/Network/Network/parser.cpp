@@ -5,8 +5,8 @@
 
 void ReadData(std::vector<std::vector<double>>& matrix, std::vector<double>& gender)
 {
-	//std::string fileName = "dataFile.txt";
-	std::string fileName = "NewData.txt";
+	std::string fileName = "dataFile.txt";
+	//std::string fileName = "NewData.txt";
 	std::ifstream file(fileName);
 
 	matrix.clear();
@@ -30,8 +30,8 @@ void ReadData(std::vector<std::vector<double>>& matrix, std::vector<double>& gen
 			v.push_back(value);
 			file >> value;
 			v.push_back(value);
-			/*file >> value;		// Закомментировано при отсутствии возраста в данных
-			v.push_back(value);*/
+			file >> value;		// Закомментировано при отсутствии возраста в данных
+			v.push_back(value);
 			matrix.push_back(v);
 
 			std::string sex;
