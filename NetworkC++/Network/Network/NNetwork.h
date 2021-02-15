@@ -8,9 +8,11 @@
 
 class NNetwork
 {
+public:
 	int m_HiddenNeurons;
 	std::vector<double> m_Weights = {}, m_Bias = {};
 
+private:
 	// Сигмоидная функция активации: f(x) = 1 / (1 + e^(-x))
 	double sigmoid(double in_x)
 	{
@@ -48,7 +50,7 @@ class NNetwork
 	{
 		std::vector<double> result;
 		for (int i = 0; i < in_V1.size(); i++)
-			result.push_back(in_V1[i] * in_V2[1]);
+			result.push_back(in_V1[i] * in_V2[i]);
 		return result;
 	}
 
@@ -106,10 +108,10 @@ public:
 		return O1;
 	}
 
-	void train(const std::vector<std::vector<double>>& data, const std::vector<double>& all_y_trues)
+	void train(const std::vector<std::vector<double>>& data, const std::vector<double>& all_y_trues, double learn_rate, int epochs)
 	{
-		double learn_rate = 0.5;
-		int epochs = 100000;
+		//double learn_rate = 1.0;
+		//int epochs = 100000;
 
 		for (int epoch = 0; epoch < epochs; epoch++)
 		{
@@ -176,6 +178,16 @@ public:
 				std::cout << "Epoch " << epoch << " loss: " << loss << std::endl;
 			}
 		}
+	}
+
+	std::vector<std::vector<double>> TranslationAndNormalization(const std::vector<std::vector<double>>& data)
+	{
+		std::vector<std::vector<double>> result = {};
+		for (const auto& var : data)
+		{
+			result.push_back({ round(var[0] / 2.54 - 66), round(var[1] * 2.205 - 135), var[2] });
+		}
+		return result;
 	}
 
 };
