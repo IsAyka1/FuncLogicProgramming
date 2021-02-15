@@ -98,3 +98,11 @@ def show_results_after_tests(resultsFileName: str):
         print('Fail is {percent}%\n'.format(percent=no / (len(results) / 100)))
         for i in range(len(mistakes)):
             print(mistakes[i])
+
+
+def read_trainings_data():
+    weights = []
+    with open("trainingsWeights.txt", 'r') as file:
+        for value in file.readlines():
+            weights.append(float(value))
+    return weights

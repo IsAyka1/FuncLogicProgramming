@@ -1,8 +1,9 @@
 import numpy as np
+import os
 
 from SiteParser import site_parser
 from NeuralNetwork import OurNeuralNetwork
-from FilePlitter import get_training_data, get_tests_data, show_results_after_tests
+from FilePlitter import *
 
 
 def main():
@@ -15,8 +16,8 @@ def main():
     gender = np.array(gender)
 
     #  create network and train it
-    network = OurNeuralNetwork(10)
-    network.train(data, gender)
+    os.system("Network.exe")
+    read_trainings_data()  # here initialize network
 
     # tests
     data, gender = get_tests_data()

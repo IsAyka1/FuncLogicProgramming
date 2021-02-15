@@ -1,8 +1,0 @@
-﻿  Source.cpp
-C:\Users\Mihail\Documents\GitHub\FuncLogicProgramming\NetworkC++\Network\Network\NNetwork.h(77,23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\Mihail\Documents\GitHub\FuncLogicProgramming\NetworkC++\Network\Network\NNetwork.h(78,23): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-C:\Users\Mihail\Documents\GitHub\FuncLogicProgramming\NetworkC++\Network\Network\NNetwork.h(104,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Mihail\Documents\GitHub\FuncLogicProgramming\NetworkC++\Network\Network\NNetwork.h(126,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Mihail\Documents\GitHub\FuncLogicProgramming\NetworkC++\Network\Network\NNetwork.h(134,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Mihail\Documents\GitHub\FuncLogicProgramming\NetworkC++\Network\Network\Source.cpp(9,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-  Network.vcxproj -> C:\Users\Mihail\Documents\GitHub\FuncLogicProgramming\NetworkC++\Network\x64\Debug\Network.exe
