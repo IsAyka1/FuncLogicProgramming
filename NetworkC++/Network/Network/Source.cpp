@@ -29,12 +29,12 @@ void main()
 
     data = network.TranslationAndNormalization(data);
 
-    network.train(data, all_y_trues, 0.001, 10000);
+    network.train(data, all_y_trues, 0.00001, 4010);
 
     //std::vector<double> Weights = network.m_Weights, Bias = network.m_Bias;
 
-    std::vector<double> emily = { -6, -30, 63 };  //{ 151.76, 47.83, 63.0 };  //{ -6, -30, 63 };
-    std::vector<double> frank = { -11, -54, 63 };   //{ 139.70, 36.49, 63.0 };  //{ -11, -54, 63 };
+    std::vector<double> emily = { -7, -33, 20 };  //{ 151.76, 47.83, 63.0 };  //{ -6, -30, 63 };
+    std::vector<double> frank = { 4, 64, 20 };   //{ 139.70, 36.49, 63.0 };  //{ -11, -54, 63 };
     std::cout << "Emily: " << network.feedforward(emily) << std::endl;
     std::cout << "Frank: " << network.feedforward(frank) << std::endl;
 }

@@ -185,7 +185,7 @@ public:
 		std::vector<std::vector<double>> result = {};
 		for (const auto& var : data)
 		{
-			result.push_back({ round(var[0] / 2.54 - 66), round(var[1] * 2.205 - 135), var[2] });
+			result.push_back({ round(var[0] / 2.54 - 66), round(var[1] * 2.205 - 135), (var.size() < 3 ? 20 : var[2]) });
 		}
 		return result;
 	}
