@@ -96,10 +96,10 @@ public:
 		std::vector<double> hide = {};
 		for (int i = 0; i < m_HiddenNeurons; i++)
 		{
-			hide.push_back(sigmoid(m_Weights[i * 3] * in_X[0] + m_Weights[i * 3 + 1] * in_X[1] + m_Weights[i * 3 + 2] * in_X[2] + m_Bias[i]));
+			hide.push_back(sigmoid(m_Weights[i * 2] * in_X[0] + m_Weights[i * 2 + 1] * in_X[1] + m_Bias[i]));
 		}
 
-		double O1 = sigmoid(sumVec(multVec(cutVec(m_Weights, 3 * m_HiddenNeurons, m_Weights.size()), hide)) + m_Bias[m_Bias.size() - 1]);
+		double O1 = sigmoid(sumVec(multVec(cutVec(m_Weights, 2 * m_HiddenNeurons, m_Weights.size()), hide)) + m_Bias[m_Bias.size() - 1]);
 
 		return O1;
 	}
@@ -117,11 +117,11 @@ public:
 				std::vector<double> hide = {};
 				for (int i = 0; i < m_HiddenNeurons; ++i)
 				{
-					sum_H.push_back(m_Weights[i * 3] * data[k][0] + m_Weights[i * 3 + 1] * data[k][1] + m_Weights[i * 3 + 2] * data[k][2] + m_Bias[i]);
+					sum_H.push_back(m_Weights[i * 2] * data[k][0] + m_Weights[i * 2 + 1] * data[k][1] + m_Bias[i]);
 					hide.push_back(sigmoid(sum_H[i]));
 				}
 
-				double sum_O1 = sumVec(multVec(cutVec(m_Weights, 3 * m_HiddenNeurons, m_Weights.size()), hide)) + m_Bias[m_Bias.size() - 1];
+				double sum_O1 = sumVec(multVec(cutVec(m_Weights, 2 * m_HiddenNeurons, m_Weights.size()), hide)) + m_Bias[m_Bias.size() - 1];
 				double O1 = sigmoid(sum_O1);
 				double y_pred = O1;
 
@@ -129,7 +129,7 @@ public:
 				// --- Имена: d_L_d_w1 = "частная производная L по w1"
 				double d_L_d_ypred = -2 * (all_y_trues[k] - y_pred);
 
-				std::vector<double> d_ypred_d_H = multVec(cutVec(m_Weights, 3 * m_HiddenNeurons, m_Weights.size()), deriv_sigmoid(sum_O1));
+				std::vector<double> d_ypred_d_H = multVec(cutVec(m_Weights, 2 * m_HiddenNeurons, m_Weights.size()), deriv_sigmoid(sum_O1));
 				
 				std::vector<double> d_W = {};
 				std::vector<double> d_B = {};
@@ -137,7 +137,6 @@ public:
 				{
 					d_W.push_back(data[k][0] * deriv_sigmoid(sum_H[i]));
 					d_W.push_back(data[k][1] * deriv_sigmoid(sum_H[i]));
-					d_W.push_back(data[k][2] * deriv_sigmoid(sum_H[i]));
 					d_B.push_back(deriv_sigmoid(sum_H[i]));
 				}
 
@@ -151,13 +150,12 @@ public:
 				// --- Обновляем веса и пороги
 				for (int i = 0; i < m_HiddenNeurons; ++i)
 				{
-					m_Weights[i * 3] -= learn_rate * d_L_d_ypred * d_ypred_d_H[i] * d_W[i * 3];
-					m_Weights[i * 3 + 1] -= learn_rate * d_L_d_ypred * d_ypred_d_H[i] * d_W[i * 3 + 1];
-					m_Weights[i * 3 + 2] -= learn_rate * d_L_d_ypred * d_ypred_d_H[i] * d_W[i * 3 + 2];
+					m_Weights[i * 2] -= learn_rate * d_L_d_ypred * d_ypred_d_H[i] * d_W[i * 2];
+					m_Weights[i * 2 + 1] -= learn_rate * d_L_d_ypred * d_ypred_d_H[i] * d_W[i * 2 + 1];
 					m_Bias[i] -= learn_rate * d_L_d_ypred * d_ypred_d_H[i] * d_B[i];
 				}
 
-				for (int i = m_HiddenNeurons * 3; i < m_HiddenNeurons * 4; ++i)
+				for (int i = m_HiddenNeurons * 2; i < m_HiddenNeurons * 3; ++i)
 					m_Weights[i] -= learn_rate * d_L_d_ypred * d_W[i];
 				m_Bias[m_HiddenNeurons] -= learn_rate * d_L_d_ypred * d_B[m_HiddenNeurons];
 			}
@@ -181,7 +179,7 @@ public:
 		std::vector<std::vector<double>> result = {};
 		for (const auto& var : data)
 		{
-			result.push_back({ round(var[0] / 2.54 - 66), round(var[1] * 2.205 - 135), (var.size() < 3 ? 20 : var[2]) });
+			result.push_back({ var[0] / 2.54 - 66, var[1] * 2.205 - 135 });
 		}
 		return result;
 	}

@@ -3,4 +3,4 @@
 pip install bs4
 pip install lxml
 pip install numpy
-pip install request
+pip install requests
