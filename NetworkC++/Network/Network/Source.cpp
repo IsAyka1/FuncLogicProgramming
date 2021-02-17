@@ -9,7 +9,7 @@ void ReadData(std::vector<std::vector<double>>& matrix, std::vector<double>& gen
 
 int main(int argc, char* argv[])
 {
-    std::size_t count;
+    std::size_t count = 4;
     if (argc > 1)
     {
         std::istringstream iss(argv[1]);

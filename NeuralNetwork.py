@@ -18,15 +18,15 @@ class OurNeuralNetwork:
   def __init__(self, Num):
     # Количество скрытых нейронов
     self.N = Num
-    self.W = np.random.random(4*Num)
+    self.W = np.random.random(3*Num)
     self.B = np.random.random(Num+1)
 
   def feedforward(self, x):
     H = np.zeros(self.N)
     for i in range(self.N):
-      H[i] = sigmoid(self.W[i*3] * x[0] + self.W[i*3+1] * x[1] + self.W[i*3+2] * x[2] + self.B[i])
+      H[i] = sigmoid(self.W[i*2] * x[0] + self.W[i*2+1] * x[1] + self.B[i])
 
-    O1 = sigmoid((self.W[3*self.N:] * H).sum() + self.B[len(self.B) - 1])
+    O1 = sigmoid((self.W[2*self.N:] * H).sum() + self.B[len(self.B) - 1])
 
     return O1
 
@@ -40,7 +40,7 @@ class OurNeuralNetwork:
         sum_H = np.zeros(self.N)
         H = np.zeros(self.N)
         for i in range(self.N):
-          sum_H[i] = self.W[i*3] * x[0] + self.W[i*3+1] * x[1] + self.W[i*3+2] * x[2] + self.B[i]
+          sum_H[i] = self.W[i*3] * x[0] + self.W[i*3+1] * x[1] + self.B[i]
           H[i] = sigmoid(sum_H[i])
 
         sum_O1 = (self.W[3*self.N:] * H).sum() + self.B[len(self.B)-1]
@@ -61,7 +61,6 @@ class OurNeuralNetwork:
         for i, j in zip(range(0, self.N * 3, 3), range(self.N)):
           d_W[i] = x[0] * deriv_sigmoid(sum_H[j])
           d_W[i+1] = x[1] * deriv_sigmoid(sum_H[j])
-          d_W[i+2] = x[2] * deriv_sigmoid(sum_H[j])
           d_B[j] = deriv_sigmoid(sum_H[j])
 
         # --- Обновляем веса и пороги

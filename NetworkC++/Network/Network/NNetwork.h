@@ -79,7 +79,7 @@ public:
 		std::srand(std::time(nullptr)); // use current time as seed for random generator
 		int random_variable = ((double)std::rand() / RAND_MAX) * 2 - 0.5;
 
-		for (int i = 0; i < 4 * in_HidNeu; i++)
+		for (int i = 0; i < 3 * in_HidNeu; i++)
 		{
 			m_Weights.push_back(((double)std::rand() / RAND_MAX));
 		}
