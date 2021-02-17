@@ -82,15 +82,11 @@ public:
 		for (int i = 0; i < 4 * in_HidNeu; i++)
 		{
 			m_Weights.push_back(((double)std::rand() / RAND_MAX));
-			//m_Weights.push_back(0);
-			//std::cout << m_Weights[i] << ' ';
 		}
 		std::cout << std::endl;
 		for (int i = 0; i < in_HidNeu + 1; i++)
 		{
 			m_Bias.push_back(((double)std::rand() / RAND_MAX));
-			//m_Bias.push_back(0);
-			//std::cout << m_Bias[i] << ' ';
 		}
 		std::cout << std::endl;
 	}
