@@ -102,7 +102,11 @@ def show_results_after_tests(resultsFileName: str):
 
 def read_trainings_data():
     weights = []
-    with open("trainingsWeights.txt", 'r') as file:
+    bias = []
+    with open("trainingsWeights", 'r') as file:
         for value in file.readlines():
             weights.append(float(value))
-    return weights
+    with open("trainingsBias", 'r') as file:
+        for value in file.readlines():
+            bias.append(float(value))
+    return weights, bias

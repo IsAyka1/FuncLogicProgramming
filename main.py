@@ -15,9 +15,16 @@ def main():
     data = np.array(data)
     gender = np.array(gender)
 
+    hiddenNeurons = '4'
     #  create network and train it
-    os.system("Network.exe")
-    read_trainings_data()  # here initialize network
+    network = OurNeuralNetwork(int(hiddenNeurons))
+
+    # With Python
+    # network.train(data, gender)
+
+    # With C ++
+    os.system("Network.exe " + hiddenNeurons)
+    network.W, network.B = read_trainings_data()  # here initialize network
 
     # tests
     data, gender = get_tests_data()
