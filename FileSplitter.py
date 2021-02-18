@@ -63,19 +63,11 @@ def show_results_after_tests(resultsFileName: str):
     yes = 0
     no = 0
 
-    # My vision of error
-    sumValues = 0.0
-
     # read results data
     with open(resultsFileName, 'r') as file:
         results = file.readlines()
     for i in range(len(results)):
         values = results[i].split(':')
-
-        # My vision of error
-        # sumValues += float(values[0])
-        # Or
-        sumValues += round(float(values[0]))
 
         networkAnswer = None
         if float(values[0]) > 0.8:
@@ -102,8 +94,7 @@ def show_results_after_tests(resultsFileName: str):
     if no == 0:
         print('All {count} was successes defined'.format(count=yes))
     else:
-        # print('Fail is {percent}%\n'.format(percent=no / (len(results) / 100)))
-        print('Fail is {percent}%\n'.format(percent=100 - sumValues / (len(results) / 100)))
+        print('Fail is {percent}%\n'.format(percent=no / (len(results) / 100)))
     for i in range(len(mistakes)):
         print(mistakes[i])
 
