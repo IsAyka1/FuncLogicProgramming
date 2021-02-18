@@ -70,9 +70,9 @@ def show_results_after_tests(resultsFileName: str):
         values = results[i].split(':')
 
         networkAnswer = None
-        if float(values[0]) > 0.8:
+        if float(values[0]) >= 0.5:
             networkAnswer = 'Female'
-        elif float(values[0]) < 0.2:
+        elif float(values[0]) < 0.5:
             networkAnswer = 'Male'
         else:
             networkAnswer = 'closer to ' + ('Female' if float(values[0]) >= 0.5 else 'Male')
@@ -82,6 +82,10 @@ def show_results_after_tests(resultsFileName: str):
             yes += 1
         else:
             no += 1
+
+        if 0.8 > float(values[0]) > 0.2:
+            networkAnswer = 'closer to ' + networkAnswer
+
         mistakes.append('Height: {height} Mass:{mass} Gender:{gender} Neural answer:{neuralAnswer}'.format
             (
             height=values[1],

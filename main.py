@@ -23,7 +23,7 @@ def main():
     # network.train(data, gender)
 
     # With C ++
-    os.system('Network.exe ' + hiddenNeurons)
+    # os.system('Network.exe ' + hiddenNeurons)
     network.W, network.B = read_trainings_data()  # here initialize network
 
     # tests
