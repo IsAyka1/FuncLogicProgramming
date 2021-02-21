@@ -82,25 +82,24 @@ def show_results_after_tests(resultsFileName: str):
             yes += 1
         else:
             no += 1
+            mistakes.append('Height: {height} Mass:{mass} Gender:{gender} Neural answer:{neuralAnswer}'.format
+                (
+                height=values[1],
+                mass=values[2],
+                gender=realValue,
+                neuralAnswer=networkAnswer
+            ))
 
         if 0.8 > float(values[0]) > 0.2:
             networkAnswer = 'closer to ' + networkAnswer
-
-        mistakes.append('Height: {height} Mass:{mass} Gender:{gender} Neural answer:{neuralAnswer}'.format
-            (
-            height=values[1],
-            mass=values[2],
-            gender=realValue,
-            neuralAnswer=networkAnswer
-        ))
 
     # show results
     if no == 0:
         print('All {count} was successes defined'.format(count=yes))
     else:
         print('Fail is {percent}%\n'.format(percent=no / (len(results) / 100)))
-    for i in range(len(mistakes)):
-        print(mistakes[i])
+        for i in range(len(mistakes)):
+            print(mistakes[i])
 
 
 def read_trainings_data():

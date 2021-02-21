@@ -1,2502 +1,2502 @@
  height   mass  gender
- 145.16 :41.56 :Female
- 163.89 :58.59 :Female
- 152.29 :46.03 :Female
- 164.96 :56.34 :Female
- 178.95 :79.39 :Female
- 168.99 :68.86 :Female
- 158.92 :64.57 :Female
- 158.40 :65.11 :Female
- 158.39 :55.38 :Female
- 170.02 :70.76 :Female
- 164.48 :62.29 :Female
- 166.81 :62.80 :Female
- 170.44 :72.38 :Female
- 156.00 :58.06 :Female
- 152.78 :45.69 :Female
- 155.63 :47.04 :Female
- 160.88 :59.74 :Female
- 154.58 :48.70 :Female
- 169.76 :74.87 :Female
- 164.47 :64.12 :Female
- 145.47 :42.86 :Female
- 166.60 :68.32 :Female
- 157.90 :59.97 :Female
- 148.90 :44.69 :Female
- 160.62 :55.43 :Female
- 168.19 :64.70 :Female
- 159.18 :67.47 :Female
- 165.21 :64.33 :Female
- 179.93 :87.15 :Female
- 153.86 :52.98 :Female
- 157.44 :62.98 :Female
- 146.42 :45.08 :Female
- 149.05 :41.52 :Female
- 150.07 :45.05 :Female
- 164.08 :64.16 :Female
- 160.96 :67.63 :Female
- 166.54 :62.14 :Female
- 158.34 :58.62 :Female
- 161.16 :61.83 :Female
- 148.67 :50.15 :Female
- 161.97 :65.94 :Female
- 159.51 :59.46 :Female
- 175.69 :78.37 :Female
- 165.49 :66.98 :Female
- 144.12 :46.96 :Female
- 158.49 :60.87 :Female
- 159.94 :57.52 :Female
- 153.21 :50.81 :Female
- 165.62 :64.59 :Female
- 164.13 :67.88 :Female
- 149.64 :52.80 :Female
- 165.16 :67.84 :Female
- 167.51 :70.68 :Female
- 156.59 :48.85 :Female
- 162.28 :60.45 :Female
- 164.99 :56.75 :Female
- 154.14 :45.87 :Female
- 155.28 :49.66 :Female
- 157.67 :55.31 :Female
- 156.27 :56.70 :Female
- 152.83 :51.27 :Female
- 164.02 :67.76 :Female
- 174.52 :68.63 :Female
- 161.22 :59.09 :Female
- 158.84 :57.22 :Female
- 156.81 :66.01 :Female
- 168.88 :62.82 :Female
- 146.19 :49.05 :Female
- 158.30 :56.22 :Female
- 166.02 :66.18 :Female
- 170.73 :75.94 :Female
- 165.74 :65.26 :Female
- 172.11 :67.34 :Female
- 154.80 :61.98 :Female
- 149.45 :46.64 :Female
- 161.38 :59.15 :Female
- 170.22 :66.01 :Female
- 155.83 :56.19 :Female
- 159.99 :64.65 :Female
- 157.59 :51.92 :Female
- 153.18 :48.97 :Female
- 158.99 :62.02 :Female
- 166.77 :63.92 :Female
- 162.38 :64.49 :Female
- 162.65 :63.19 :Female
- 164.44 :66.79 :Female
- 170.36 :74.13 :Female
- 144.11 :41.54 :Female
- 177.53 :78.06 :Female
- 161.22 :62.09 :Female
- 163.52 :57.77 :Female
- 159.54 :53.14 :Female
- 159.27 :57.59 :Female
- 166.12 :65.65 :Female
- 172.37 :73.93 :Female
- 172.14 :75.64 :Female
- 167.86 :70.66 :Female
- 167.10 :71.14 :Female
- 153.00 :56.17 :Female
- 167.30 :70.41 :Female
- 155.42 :52.03 :Female
- 177.85 :75.88 :Female
- 169.07 :75.25 :Female
- 163.75 :57.98 :Female
- 161.59 :62.82 :Female
- 168.22 :64.22 :Female
- 150.99 :53.14 :Female
- 157.91 :57.51 :Female
- 165.66 :70.00 :Female
- 160.31 :60.55 :Female
- 151.47 :46.01 :Female
- 149.79 :51.24 :Female
- 168.40 :74.84 :Female
- 176.89 :84.45 :Female
- 168.72 :69.54 :Female
- 166.72 :64.05 :Female
- 165.28 :66.06 :Female
- 163.72 :65.69 :Female
- 140.08 :40.28 :Female
- 163.88 :62.94 :Female
- 161.68 :60.18 :Female
- 162.27 :61.61 :Female
- 161.85 :59.00 :Female
- 169.16 :69.04 :Female
- 172.81 :68.99 :Female
- 164.16 :70.39 :Female
- 174.62 :75.24 :Female
- 162.89 :65.87 :Female
- 165.12 :66.13 :Female
- 154.32 :50.98 :Female
- 151.11 :46.63 :Female
- 157.40 :60.44 :Female
- 157.44 :53.61 :Female
- 160.25 :57.08 :Female
- 153.47 :46.05 :Female
- 152.66 :48.47 :Female
- 166.03 :74.08 :Female
- 162.37 :68.04 :Female
- 163.66 :61.35 :Female
- 156.72 :54.90 :Female
- 172.56 :69.89 :Female
- 152.78 :47.16 :Female
- 172.10 :73.88 :Female
- 176.08 :75.57 :Female
- 175.22 :71.35 :Female
- 169.20 :67.39 :Female
- 160.26 :64.66 :Female
- 160.15 :58.15 :Female
- 154.04 :56.17 :Female
- 168.87 :73.04 :Female
- 160.23 :60.89 :Female
- 161.94 :61.10 :Female
- 169.66 :65.69 :Female
- 159.92 :62.24 :Female
- 167.92 :74.69 :Female
- 154.50 :47.27 :Female
- 159.40 :59.54 :Female
- 156.06 :56.35 :Female
- 157.78 :62.01 :Female
- 147.54 :43.06 :Female
- 154.14 :51.72 :Female
- 158.47 :58.79 :Female
- 168.11 :70.92 :Female
- 156.65 :60.40 :Female
- 154.79 :50.99 :Female
- 166.05 :62.13 :Female
- 158.31 :50.32 :Female
- 156.68 :53.85 :Female
- 162.43 :64.56 :Female
- 167.39 :72.49 :Female
- 151.33 :45.20 :Female
- 160.13 :53.81 :Female
- 166.85 :63.12 :Female
- 164.22 :73.74 :Female
- 168.24 :66.92 :Female
- 169.39 :79.06 :Female
- 156.83 :56.89 :Female
- 163.43 :62.72 :Female
- 162.52 :63.98 :Female
- 153.25 :59.43 :Female
- 165.79 :66.04 :Female
- 164.87 :64.65 :Female
- 158.10 :63.22 :Female
- 150.72 :54.96 :Female
- 159.94 :46.65 :Female
- 162.99 :65.04 :Female
- 160.52 :51.76 :Female
- 163.62 :60.97 :Female
- 156.20 :55.00 :Female
- 174.08 :71.07 :Female
- 156.53 :49.15 :Female
- 167.49 :69.43 :Female
- 150.48 :52.04 :Female
- 162.45 :62.76 :Female
- 163.08 :68.33 :Female
- 150.91 :46.89 :Female
- 168.92 :75.20 :Female
- 170.15 :74.18 :Female
- 154.88 :55.67 :Female
- 167.18 :68.46 :Female
- 162.20 :66.96 :Female
- 170.47 :75.06 :Female
- 167.26 :74.15 :Female
- 169.29 :70.77 :Female
- 154.82 :54.05 :Female
- 166.14 :64.81 :Female
- 161.07 :53.86 :Female
- 162.23 :58.77 :Female
- 155.43 :50.20 :Female
- 164.13 :66.46 :Female
- 158.46 :53.96 :Female
- 179.49 :83.68 :Female
- 160.68 :57.34 :Female
- 169.90 :73.65 :Female
- 167.84 :65.57 :Female
- 149.85 :47.82 :Female
- 164.90 :57.46 :Female
- 165.88 :64.12 :Female
- 167.92 :71.17 :Female
- 175.58 :75.21 :Female
- 156.98 :59.16 :Female
- 169.01 :74.42 :Female
- 166.40 :76.80 :Female
- 162.54 :70.92 :Female
- 150.86 :59.58 :Female
- 155.91 :57.03 :Female
- 162.30 :62.67 :Female
- 157.41 :60.28 :Female
- 160.65 :59.70 :Female
- 176.39 :80.85 :Female
- 161.68 :58.18 :Female
- 155.46 :56.43 :Female
- 157.45 :57.33 :Female
- 152.96 :54.62 :Female
- 163.00 :63.41 :Female
- 161.81 :60.81 :Female
- 165.77 :68.76 :Female
- 161.21 :60.03 :Female
- 159.34 :49.28 :Female
- 157.53 :61.68 :Female
- 156.40 :49.47 :Female
- 164.00 :64.96 :Female
- 156.09 :55.32 :Female
- 161.48 :58.30 :Female
- 155.15 :55.53 :Female
- 164.28 :59.71 :Female
- 166.50 :63.21 :Female
- 154.39 :51.52 :Female
- 162.08 :67.95 :Female
- 165.00 :64.44 :Female
- 152.89 :43.70 :Female
- 156.24 :53.44 :Female
- 169.43 :67.28 :Female
- 157.77 :50.30 :Female
- 169.97 :82.35 :Female
- 168.50 :64.12 :Female
- 148.82 :47.99 :Female
- 165.95 :59.22 :Female
- 160.16 :58.23 :Female
- 157.30 :52.97 :Female
- 164.91 :64.45 :Female
- 173.46 :74.46 :Female
- 159.23 :55.78 :Female
- 159.21 :57.09 :Female
- 168.45 :68.58 :Female
- 165.28 :61.50 :Female
- 158.58 :62.21 :Female
- 163.03 :59.00 :Female
- 168.99 :71.62 :Female
- 157.94 :50.73 :Female
- 156.59 :48.99 :Female
- 164.64 :60.13 :Female
- 155.99 :56.22 :Female
- 165.83 :65.02 :Female
- 170.97 :69.80 :Female
- 168.50 :70.60 :Female
- 158.19 :55.57 :Female
- 159.87 :57.71 :Female
- 155.14 :56.60 :Female
- 165.73 :70.25 :Female
- 172.68 :69.59 :Female
- 153.60 :57.45 :Female
- 164.46 :61.92 :Female
- 160.57 :63.56 :Female
- 171.16 :69.45 :Female
- 156.52 :65.14 :Female
- 167.55 :68.77 :Female
- 158.60 :58.16 :Female
- 168.62 :69.27 :Female
- 155.39 :57.69 :Female
- 155.53 :46.78 :Female
- 159.64 :55.18 :Female
- 160.90 :66.00 :Female
- 163.65 :64.04 :Female
- 173.37 :78.69 :Female
- 165.74 :68.81 :Female
- 172.79 :73.43 :Female
- 163.03 :69.05 :Female
- 172.98 :75.65 :Female
- 158.42 :64.35 :Female
- 164.30 :61.55 :Female
- 164.03 :57.34 :Female
- 171.16 :70.97 :Female
- 163.17 :62.32 :Female
- 159.20 :62.43 :Female
- 168.99 :72.40 :Female
- 152.59 :57.32 :Female
- 175.73 :75.35 :Female
- 158.52 :66.58 :Female
- 160.89 :63.77 :Female
- 163.82 :64.34 :Female
- 160.33 :60.15 :Female
- 163.12 :59.73 :Female
- 149.99 :50.81 :Female
- 168.02 :69.27 :Female
- 160.11 :59.85 :Female
- 159.45 :51.77 :Female
- 158.68 :54.50 :Female
- 167.32 :70.55 :Female
- 168.16 :78.18 :Female
- 161.09 :61.22 :Female
- 164.93 :70.16 :Female
- 165.77 :45.80 :Female
- 166.04 :61.89 :Female
- 166.05 :65.31 :Female
- 158.16 :62.87 :Female
- 168.37 :76.60 :Female
- 173.75 :75.09 :Female
- 163.90 :62.02 :Female
- 147.97 :53.29 :Female
- 155.76 :52.26 :Female
- 163.32 :58.72 :Female
- 162.03 :63.64 :Female
- 164.41 :69.11 :Female
- 171.99 :66.97 :Female
- 158.80 :58.44 :Female
- 167.53 :64.97 :Female
- 161.84 :62.67 :Female
- 161.81 :60.33 :Female
- 158.93 :57.56 :Female
- 164.73 :68.21 :Female
- 162.59 :58.03 :Female
- 157.01 :56.67 :Female
- 158.84 :58.21 :Female
- 171.80 :68.95 :Female
- 174.52 :79.09 :Female
- 170.53 :70.30 :Female
- 169.90 :66.11 :Female
- 153.98 :61.98 :Female
- 153.46 :57.46 :Female
- 169.94 :71.02 :Female
- 159.00 :56.98 :Female
- 163.58 :65.53 :Female
- 158.40 :50.92 :Female
- 157.96 :56.77 :Female
- 165.71 :56.87 :Female
- 157.84 :52.12 :Female
- 183.55 :85.46 :Female
- 153.92 :56.51 :Female
- 158.16 :50.45 :Female
- 148.08 :41.86 :Female
- 163.49 :61.50 :Female
- 159.17 :59.41 :Female
- 171.26 :73.42 :Female
- 172.28 :78.62 :Female
- 149.52 :45.74 :Female
- 157.65 :56.10 :Female
- 162.82 :66.51 :Female
- 153.01 :55.10 :Female
- 158.02 :61.77 :Female
- 165.82 :68.38 :Female
- 172.65 :66.79 :Female
- 172.01 :72.33 :Female
- 162.87 :62.07 :Female
- 160.27 :61.65 :Female
- 166.90 :62.11 :Female
- 165.43 :63.06 :Female
- 157.60 :59.95 :Female
- 161.61 :65.97 :Female
- 155.11 :47.76 :Female
- 175.27 :80.20 :Female
- 159.84 :67.87 :Female
- 160.07 :64.13 :Female
- 153.56 :53.71 :Female
- 164.77 :65.41 :Female
- 169.30 :69.25 :Female
- 152.51 :58.57 :Female
- 160.98 :56.20 :Female
- 161.20 :54.13 :Female
- 157.46 :51.13 :Female
- 175.89 :76.93 :Female
- 159.10 :52.21 :Female
- 167.06 :67.00 :Female
- 175.01 :87.37 :Female
- 161.71 :58.99 :Female
- 164.11 :64.92 :Female
- 156.29 :48.21 :Female
- 159.32 :55.20 :Female
- 168.45 :69.50 :Female
- 170.33 :67.03 :Female
- 152.76 :50.27 :Female
- 168.02 :72.91 :Female
- 163.35 :65.98 :Female
- 155.20 :61.24 :Female
- 161.13 :61.24 :Female
- 172.67 :72.69 :Female
- 150.08 :48.90 :Female
- 170.43 :60.42 :Female
- 162.22 :72.08 :Female
- 171.07 :74.99 :Female
- 165.12 :62.54 :Female
- 157.43 :53.04 :Female
- 153.80 :52.27 :Female
- 168.26 :69.56 :Female
- 169.44 :69.64 :Female
- 146.94 :43.66 :Female
- 152.25 :50.17 :Female
- 156.89 :55.75 :Female
- 171.21 :73.22 :Female
- 161.96 :65.27 :Female
- 165.83 :57.61 :Female
- 157.43 :53.89 :Female
- 179.40 :88.78 :Female
- 158.31 :50.78 :Female
- 177.68 :88.09 :Female
- 181.04 :73.61 :Female
- 164.13 :54.28 :Female
- 176.45 :78.98 :Female
- 154.32 :46.87 :Female
- 173.67 :83.52 :Female
- 157.60 :63.09 :Female
- 161.00 :58.83 :Female
- 171.35 :71.78 :Female
- 155.14 :52.80 :Female
- 164.23 :63.04 :Female
- 159.07 :65.20 :Female
- 147.86 :35.16 :Female
- 160.15 :58.07 :Female
- 161.63 :60.67 :Female
- 169.82 :69.39 :Female
- 157.37 :49.98 :Female
- 167.93 :71.53 :Female
- 159.60 :62.55 :Female
- 161.37 :59.60 :Female
- 164.31 :67.03 :Female
- 163.93 :66.92 :Female
- 174.04 :70.92 :Female
- 154.60 :57.33 :Female
- 155.05 :52.19 :Female
- 160.24 :59.45 :Female
- 156.24 :60.77 :Female
- 174.99 :82.26 :Female
- 163.47 :62.97 :Female
- 155.42 :60.31 :Female
- 161.41 :55.64 :Female
- 166.69 :61.58 :Female
- 168.70 :63.38 :Female
- 166.16 :66.86 :Female
- 164.73 :66.53 :Female
- 155.83 :59.08 :Female
- 166.01 :65.26 :Female
- 165.72 :61.03 :Female
- 170.78 :70.16 :Female
- 159.68 :73.14 :Female
- 160.65 :56.75 :Female
- 164.67 :68.36 :Female
- 152.41 :51.09 :Female
- 153.63 :47.36 :Female
- 155.51 :57.97 :Female
- 170.38 :65.69 :Female
- 172.50 :76.51 :Female
- 167.34 :58.51 :Female
- 156.23 :47.35 :Female
- 156.57 :55.01 :Female
- 157.25 :53.85 :Female
- 153.98 :43.72 :Female
- 153.83 :54.51 :Female
- 157.22 :51.27 :Female
- 172.07 :73.61 :Female
- 158.91 :64.07 :Female
- 160.73 :53.90 :Female
- 157.14 :61.85 :Female
- 156.29 :58.03 :Female
- 159.20 :60.85 :Female
- 149.93 :44.61 :Female
- 160.46 :58.09 :Female
- 150.69 :45.56 :Female
- 169.74 :62.18 :Female
- 163.33 :60.71 :Female
- 161.47 :55.23 :Female
- 165.47 :70.65 :Female
- 170.94 :71.87 :Female
- 159.55 :61.59 :Female
- 155.13 :59.56 :Female
- 156.39 :57.15 :Female
- 167.98 :69.66 :Female
- 147.69 :50.81 :Female
- 149.28 :46.96 :Female
- 159.58 :53.90 :Female
- 157.99 :60.57 :Female
- 155.79 :57.89 :Female
- 156.75 :53.75 :Female
- 155.05 :55.58 :Female
- 152.09 :48.43 :Female
- 142.51 :39.59 :Female
- 149.77 :50.26 :Female
- 159.08 :58.74 :Female
- 152.19 :53.72 :Female
- 167.73 :64.85 :Female
- 150.48 :47.58 :Female
- 160.89 :57.52 :Female
- 173.22 :80.81 :Female
- 159.57 :62.77 :Female
- 169.35 :73.34 :Female
- 168.51 :74.30 :Female
- 159.30 :58.02 :Female
- 159.71 :56.67 :Female
- 173.08 :73.97 :Female
- 156.33 :48.76 :Female
- 162.54 :60.93 :Female
- 174.58 :69.72 :Female
- 159.02 :72.84 :Female
- 162.50 :61.32 :Female
- 162.43 :57.06 :Female
- 154.89 :57.73 :Female
- 161.34 :58.56 :Female
- 165.40 :66.41 :Female
- 164.34 :66.76 :Female
- 151.07 :45.75 :Female
- 159.59 :60.34 :Female
- 160.76 :61.30 :Female
- 163.17 :68.78 :Female
- 163.70 :58.14 :Female
- 162.28 :72.83 :Female
- 171.00 :66.66 :Female
- 168.26 :65.21 :Female
- 169.20 :76.70 :Female
- 160.67 :62.17 :Female
- 163.58 :59.58 :Female
- 156.94 :55.85 :Female
- 159.31 :55.24 :Female
- 172.76 :67.90 :Female
- 157.88 :57.30 :Female
- 173.05 :62.98 :Female
- 164.89 :60.41 :Female
- 163.64 :68.74 :Female
- 167.05 :61.43 :Female
- 160.57 :63.20 :Female
- 159.34 :48.47 :Female
- 149.76 :43.43 :Female
- 161.63 :65.75 :Female
- 158.28 :55.56 :Female
- 145.13 :44.95 :Female
- 162.20 :65.16 :Female
- 156.90 :54.09 :Female
- 172.50 :72.34 :Female
- 156.93 :53.58 :Female
- 157.34 :54.33 :Female
- 156.94 :54.92 :Female
- 155.70 :55.66 :Female
- 155.51 :49.54 :Female
- 160.45 :56.46 :Female
- 165.40 :66.51 :Female
- 162.07 :63.90 :Female
- 153.13 :45.42 :Female
- 167.14 :72.31 :Female
- 159.11 :52.57 :Female
- 166.42 :73.49 :Female
- 154.74 :50.51 :Female
- 151.00 :49.03 :Female
- 158.54 :54.89 :Female
- 165.26 :59.68 :Female
- 163.47 :65.10 :Female
- 159.26 :55.23 :Female
- 163.14 :66.26 :Female
- 155.34 :55.94 :Female
- 162.60 :62.03 :Female
- 163.11 :70.04 :Female
- 156.29 :63.94 :Female
- 146.59 :42.81 :Female
- 178.87 :79.19 :Female
- 175.66 :73.07 :Female
- 164.50 :59.57 :Female
- 157.72 :59.09 :Female
- 171.27 :70.78 :Female
- 169.83 :71.06 :Female
- 157.04 :46.57 :Female
- 172.16 :75.49 :Female
- 165.87 :64.98 :Female
- 166.43 :68.19 :Female
- 162.18 :54.92 :Female
- 154.10 :50.21 :Female
- 157.79 :55.34 :Female
- 153.45 :56.56 :Female
- 164.02 :64.44 :Female
- 152.85 :52.79 :Female
- 162.10 :57.48 :Female
- 159.07 :59.93 :Female
- 149.73 :46.88 :Female
- 157.66 :51.00 :Female
- 153.55 :51.84 :Female
- 163.80 :57.43 :Female
- 166.67 :72.84 :Female
- 169.84 :70.98 :Female
- 178.72 :74.35 :Female
- 152.98 :43.51 :Female
- 160.80 :57.95 :Female
- 151.35 :47.19 :Female
- 165.92 :66.15 :Female
- 157.39 :64.58 :Female
- 156.55 :59.69 :Female
- 152.96 :48.86 :Female
- 158.61 :60.98 :Female
- 156.05 :55.80 :Female
- 165.18 :69.57 :Female
- 169.76 :68.90 :Female
- 155.65 :64.04 :Female
- 158.15 :66.82 :Female
- 161.77 :55.16 :Female
- 155.52 :48.11 :Female
- 150.49 :48.10 :Female
- 165.30 :68.97 :Female
- 160.87 :61.71 :Female
- 165.43 :68.09 :Female
- 168.57 :69.43 :Female
- 151.45 :57.60 :Female
- 169.53 :76.58 :Female
- 169.08 :62.86 :Female
- 165.59 :72.01 :Female
- 161.86 :56.88 :Female
- 164.19 :61.43 :Female
- 173.28 :69.43 :Female
- 154.34 :50.51 :Female
- 165.30 :70.19 :Female
- 151.83 :56.43 :Female
- 170.20 :68.63 :Female
- 181.74 :84.20 :Female
- 166.63 :65.54 :Female
- 171.99 :74.07 :Female
- 160.56 :64.66 :Female
- 155.59 :52.56 :Female
- 166.72 :62.26 :Female
- 150.49 :50.15 :Female
- 160.69 :64.25 :Female
- 160.74 :53.97 :Female
- 168.93 :69.13 :Female
- 169.76 :73.01 :Female
- 153.83 :52.73 :Female
- 163.78 :68.88 :Female
- 161.88 :70.14 :Female
- 173.09 :69.13 :Female
- 166.07 :63.53 :Female
- 160.92 :54.26 :Female
- 161.51 :58.27 :Female
- 169.01 :73.08 :Female
- 169.28 :69.19 :Female
- 158.60 :57.38 :Female
- 151.35 :52.25 :Female
- 157.62 :55.63 :Female
- 172.72 :73.16 :Female
- 164.17 :72.61 :Female
- 152.77 :54.82 :Female
- 156.21 :55.35 :Female
- 153.58 :51.18 :Female
- 156.18 :62.17 :Female
- 166.45 :67.14 :Female
- 146.91 :47.95 :Female
- 165.20 :60.90 :Female
- 163.02 :67.09 :Female
- 161.11 :62.67 :Female
- 158.73 :63.77 :Female
- 171.16 :76.25 :Female
- 164.50 :60.43 :Female
- 161.50 :62.69 :Female
- 162.05 :62.34 :Female
- 154.88 :54.72 :Female
- 156.81 :50.12 :Female
- 163.05 :55.28 :Female
- 153.80 :50.02 :Female
- 170.64 :74.73 :Female
- 167.32 :63.95 :Female
- 153.25 :37.28 :Female
- 150.18 :41.05 :Female
- 173.20 :80.53 :Female
- 159.06 :48.07 :Female
- 164.50 :64.52 :Female
- 161.84 :62.58 :Female
- 159.48 :54.25 :Female
- 168.51 :70.85 :Female
- 164.71 :72.91 :Female
- 167.02 :62.35 :Female
- 168.42 :70.25 :Female
- 163.16 :66.76 :Female
- 160.29 :60.38 :Female
- 159.46 :66.12 :Female
- 161.22 :70.52 :Female
- 169.54 :75.68 :Female
- 168.98 :67.91 :Female
- 164.95 :61.40 :Female
- 163.21 :65.02 :Female
- 166.73 :72.17 :Female
- 169.32 :72.33 :Female
- 152.93 :50.36 :Female
- 163.96 :62.50 :Female
- 166.43 :74.61 :Female
- 162.98 :55.97 :Female
- 161.10 :69.47 :Female
- 174.18 :69.53 :Female
- 171.35 :79.50 :Female
- 166.59 :71.27 :Female
- 171.15 :73.01 :Female
- 165.86 :64.64 :Female
- 174.49 :77.96 :Female
- 159.72 :53.23 :Female
- 163.84 :60.79 :Female
- 170.51 :60.90 :Female
- 162.29 :61.52 :Female
- 162.43 :62.98 :Female
- 155.53 :53.13 :Female
- 158.41 :62.88 :Female
- 162.26 :62.21 :Female
- 170.84 :68.59 :Female
- 157.43 :51.69 :Female
- 157.32 :54.96 :Female
- 165.41 :74.35 :Female
- 152.27 :50.45 :Female
- 149.02 :44.68 :Female
- 156.10 :59.73 :Female
- 168.50 :73.01 :Female
- 171.66 :71.08 :Female
- 167.93 :72.28 :Female
- 159.35 :62.70 :Female
- 159.35 :51.19 :Female
- 153.91 :53.86 :Female
- 163.23 :66.85 :Female
- 161.52 :63.35 :Female
- 153.73 :51.37 :Female
- 166.75 :66.82 :Female
- 163.50 :63.29 :Female
- 172.96 :64.05 :Female
- 155.96 :56.23 :Female
- 161.68 :67.23 :Female
- 142.66 :35.33 :Female
- 154.58 :45.88 :Female
- 166.35 :61.18 :Female
- 152.63 :53.47 :Female
- 165.50 :67.28 :Female
- 153.87 :46.34 :Female
- 152.01 :50.86 :Female
- 152.85 :44.11 :Female
- 162.07 :63.31 :Female
- 165.51 :65.96 :Female
- 155.53 :53.00 :Female
- 168.29 :67.31 :Female
- 158.24 :63.04 :Female
- 171.05 :65.73 :Female
- 163.79 :59.78 :Female
- 166.14 :68.72 :Female
- 160.83 :60.27 :Female
- 177.80 :81.06 :Female
- 154.38 :51.65 :Female
- 159.29 :56.54 :Female
- 162.72 :61.96 :Female
- 170.84 :70.12 :Female
- 158.06 :54.85 :Female
- 150.43 :59.48 :Female
- 148.26 :51.65 :Female
- 152.34 :50.25 :Female
- 158.07 :59.81 :Female
- 155.97 :55.79 :Female
- 169.40 :69.64 :Female
- 154.51 :52.72 :Female
- 166.71 :72.15 :Female
- 152.89 :52.17 :Female
- 167.89 :59.53 :Female
- 163.59 :58.02 :Female
- 164.83 :58.56 :Female
- 162.21 :58.18 :Female
- 155.49 :56.47 :Female
- 177.80 :80.19 :Female
- 163.80 :59.25 :Female
- 170.15 :70.86 :Female
- 148.08 :43.14 :Female
- 163.46 :70.01 :Female
- 171.22 :74.19 :Female
- 170.02 :64.75 :Female
- 154.26 :54.41 :Female
- 165.60 :60.32 :Female
- 152.29 :54.37 :Female
- 166.98 :74.90 :Female
- 160.46 :61.19 :Female
- 155.99 :59.66 :Female
- 157.36 :63.26 :Female
- 164.43 :62.48 :Female
- 145.37 :45.07 :Female
- 167.64 :70.34 :Female
- 167.73 :68.88 :Female
- 167.96 :73.80 :Female
- 152.08 :48.82 :Female
- 163.22 :55.75 :Female
- 163.89 :66.49 :Female
- 178.81 :75.98 :Female
- 171.92 :68.61 :Female
- 154.89 :49.19 :Female
- 165.00 :51.58 :Female
- 159.58 :58.63 :Female
- 160.49 :57.68 :Female
- 164.96 :61.98 :Female
- 159.22 :56.44 :Female
- 164.66 :68.97 :Female
- 161.90 :60.82 :Female
- 177.35 :79.21 :Female
- 160.87 :57.46 :Female
- 167.13 :64.47 :Female
- 157.07 :62.03 :Female
- 151.25 :53.90 :Female
- 157.80 :51.77 :Female
- 165.93 :66.00 :Female
- 169.20 :70.70 :Female
- 161.89 :66.65 :Female
- 152.82 :54.53 :Female
- 166.86 :68.93 :Female
- 163.55 :62.80 :Female
- 165.97 :58.16 :Female
- 168.36 :70.24 :Female
- 162.92 :60.98 :Female
- 164.82 :60.90 :Female
- 164.34 :66.40 :Female
- 152.17 :42.89 :Female
- 158.58 :56.37 :Female
- 164.52 :65.05 :Female
- 159.78 :47.19 :Female
- 158.15 :56.25 :Female
- 167.74 :64.74 :Female
- 175.80 :66.69 :Female
- 155.75 :48.74 :Female
- 152.61 :56.13 :Female
- 175.22 :69.37 :Female
- 156.95 :48.73 :Female
- 159.79 :64.04 :Female
- 164.08 :59.25 :Female
- 153.72 :63.38 :Female
- 169.99 :70.64 :Female
- 160.19 :60.62 :Female
- 166.45 :54.81 :Female
- 165.15 :66.71 :Female
- 153.29 :49.11 :Female
- 168.07 :70.07 :Female
- 172.95 :73.27 :Female
- 162.03 :69.94 :Female
- 157.21 :58.76 :Female
- 166.92 :71.52 :Female
- 164.95 :64.19 :Female
- 158.91 :56.03 :Female
- 162.74 :75.54 :Female
- 164.20 :64.86 :Female
- 158.20 :60.13 :Female
- 172.90 :74.54 :Female
- 152.40 :43.37 :Female
- 156.70 :53.61 :Female
- 177.30 :78.92 :Female
- 161.49 :57.38 :Female
- 161.30 :69.25 :Female
- 158.75 :60.12 :Female
- 150.90 :45.90 :Female
- 153.86 :45.03 :Female
- 170.32 :72.99 :Female
- 163.24 :67.23 :Female
- 167.99 :68.85 :Female
- 163.35 :62.96 :Female
- 159.60 :60.05 :Female
- 154.22 :56.43 :Female
- 165.83 :63.52 :Female
- 157.00 :62.28 :Female
- 154.89 :59.96 :Female
- 166.10 :66.31 :Female
- 165.78 :74.40 :Female
- 165.42 :64.57 :Female
- 161.29 :56.05 :Female
- 160.04 :57.84 :Female
- 157.10 :55.52 :Female
- 155.15 :64.17 :Female
- 168.69 :76.07 :Female
- 177.11 :85.16 :Female
- 171.27 :67.40 :Female
- 163.71 :61.02 :Female
- 163.93 :63.99 :Female
- 153.55 :55.40 :Female
- 164.67 :71.18 :Female
- 162.95 :60.59 :Female
- 176.81 :76.07 :Female
- 154.28 :53.70 :Female
- 166.43 :65.52 :Female
- 167.95 :65.73 :Female
- 155.15 :53.51 :Female
- 161.78 :62.08 :Female
- 162.52 :64.16 :Female
- 169.52 :67.37 :Female
- 162.86 :64.42 :Female
- 164.52 :64.78 :Female
- 159.52 :58.57 :Female
- 163.85 :61.22 :Female
- 162.94 :67.41 :Female
- 153.21 :52.05 :Female
- 157.96 :56.51 :Female
- 169.96 :76.49 :Female
- 162.42 :61.24 :Female
- 164.57 :64.64 :Female
- 165.13 :61.01 :Female
- 164.63 :61.66 :Female
- 164.81 :69.33 :Female
- 160.35 :64.36 :Female
- 165.94 :65.67 :Female
- 158.18 :66.21 :Female
- 155.33 :52.27 :Female
- 160.88 :65.17 :Female
- 156.32 :53.53 :Female
- 164.18 :60.49 :Female
- 170.99 :69.62 :Female
- 166.77 :63.25 :Female
- 168.71 :65.25 :Female
- 160.64 :54.88 :Female
- 162.75 :56.93 :Female
- 158.23 :60.33 :Female
- 156.52 :49.34 :Female
- 161.39 :59.08 :Female
- 159.04 :53.26 :Female
- 158.02 :61.84 :Female
- 151.22 :51.77 :Female
- 160.56 :57.15 :Female
- 163.39 :70.54 :Female
- 174.44 :74.33 :Female
- 164.06 :68.12 :Female
- 161.49 :54.73 :Female
- 154.69 :53.14 :Female
- 162.56 :67.74 :Female
- 166.89 :67.90 :Female
- 162.67 :64.35 :Female
- 149.24 :50.64 :Female
- 152.13 :52.95 :Female
- 169.06 :73.78 :Female
- 156.62 :55.65 :Female
- 157.82 :60.01 :Female
- 155.75 :44.04 :Female
- 178.25 :82.60 :Female
- 157.88 :58.48 :Female
- 165.42 :63.66 :Female
- 162.97 :71.61 :Female
- 151.25 :48.91 :Female
- 149.85 :48.91 :Female
- 168.09 :68.86 :Female
- 161.68 :57.98 :Female
- 157.52 :60.61 :Female
- 161.84 :65.20 :Female
- 167.92 :63.15 :Female
- 165.38 :62.10 :Female
- 147.80 :47.38 :Female
- 158.26 :54.73 :Female
- 162.12 :60.88 :Female
- 162.53 :66.35 :Female
- 157.00 :60.10 :Female
- 165.22 :63.87 :Female
- 170.05 :70.20 :Female
- 173.52 :72.76 :Female
- 165.35 :69.12 :Female
- 180.52 :82.58 :Female
- 175.62 :84.72 :Female
- 158.04 :58.96 :Female
- 159.62 :58.62 :Female
- 170.75 :71.89 :Female
- 153.09 :55.17 :Female
- 159.90 :64.36 :Female
- 175.26 :81.47 :Female
- 161.30 :58.65 :Female
- 158.89 :59.87 :Female
- 162.42 :62.51 :Female
- 170.24 :72.22 :Female
- 164.29 :68.82 :Female
- 152.49 :51.23 :Female
- 151.04 :50.66 :Female
- 171.55 :62.82 :Female
- 156.90 :50.91 :Female
- 161.41 :61.59 :Female
- 167.03 :77.49 :Female
- 175.72 :74.95 :Female
- 164.59 :65.23 :Female
- 170.69 :72.97 :Female
- 156.52 :51.04 :Female
- 167.68 :73.06 :Female
- 155.79 :52.03 :Female
- 156.49 :50.83 :Female
- 168.22 :70.82 :Female
- 157.97 :59.89 :Female
- 162.95 :68.61 :Female
- 149.59 :47.36 :Female
- 163.32 :67.66 :Female
- 171.59 :77.49 :Female
- 155.93 :63.09 :Female
- 167.29 :63.67 :Female
- 155.20 :50.60 :Female
- 167.75 :60.75 :Female
- 157.54 :56.92 :Female
- 163.26 :66.17 :Female
- 151.79 :54.04 :Female
- 159.46 :57.06 :Female
- 156.28 :58.34 :Female
- 162.32 :62.06 :Female
- 164.83 :66.49 :Female
- 156.98 :52.10 :Female
- 175.51 :79.23 :Female
- 165.06 :65.42 :Female
- 158.30 :56.94 :Female
- 165.92 :66.55 :Female
- 163.16 :62.36 :Female
- 155.76 :54.31 :Female
- 147.72 :43.39 :Female
- 158.99 :56.12 :Female
- 164.28 :55.79 :Female
- 162.45 :53.92 :Female
- 171.88 :70.52 :Female
- 161.64 :56.92 :Female
- 158.92 :65.63 :Female
- 172.45 :69.59 :Female
- 172.60 :75.78 :Female
- 165.19 :67.06 :Female
- 151.99 :48.24 :Female
- 168.64 :72.79 :Female
- 165.99 :71.15 :Female
- 163.56 :65.13 :Female
- 166.39 :74.58 :Female
- 165.54 :58.52 :Female
- 160.46 :60.63 :Female
- 164.69 :69.65 :Female
- 153.15 :52.66 :Female
- 151.93 :59.39 :Female
- 160.44 :58.81 :Female
- 163.28 :70.41 :Female
- 159.10 :61.72 :Female
- 166.76 :62.63 :Female
- 151.21 :56.60 :Female
- 168.90 :74.80 :Female
- 153.78 :61.09 :Female
- 156.40 :55.17 :Female
- 166.34 :66.24 :Female
- 160.31 :62.79 :Female
- 165.08 :65.16 :Female
- 164.86 :68.10 :Female
- 171.71 :69.10 :Female
- 150.53 :53.24 :Female
- 158.03 :60.12 :Female
- 156.62 :54.87 :Female
- 153.63 :50.14 :Female
- 161.10 :58.92 :Female
- 166.58 :70.72 :Female
- 171.27 :68.79 :Female
- 154.74 :59.53 :Female
- 154.54 :52.84 :Female
- 164.01 :62.18 :Female
- 171.68 :73.37 :Female
- 168.77 :61.50 :Female
- 148.65 :47.06 :Female
- 161.97 :63.42 :Female
- 171.96 :70.62 :Female
- 157.17 :46.04 :Female
- 159.98 :51.05 :Female
- 157.12 :60.22 :Female
- 151.08 :48.92 :Female
- 159.87 :54.63 :Female
- 164.67 :68.79 :Female
- 164.03 :65.44 :Female
- 156.94 :57.60 :Female
- 165.71 :58.38 :Female
- 163.50 :63.01 :Female
- 162.02 :63.97 :Female
- 164.85 :68.37 :Female
- 162.85 :65.99 :Female
- 163.38 :69.40 :Female
- 163.74 :65.82 :Female
- 170.43 :70.52 :Female
- 155.71 :47.55 :Female
- 167.55 :68.81 :Female
- 167.50 :73.33 :Female
- 173.21 :77.48 :Female
- 157.25 :58.32 :Female
- 165.05 :61.32 :Female
- 149.29 :51.05 :Female
- 156.43 :57.20 :Female
- 173.29 :73.03 :Female
- 168.22 :63.33 :Female
- 169.21 :72.18 :Female
- 162.22 :64.63 :Female
- 161.26 :58.63 :Female
- 170.40 :71.91 :Female
- 169.40 :73.83 :Female
- 171.06 :70.24 :Female
- 162.64 :61.81 :Female
- 160.17 :55.39 :Female
- 155.22 :51.29 :Female
- 157.92 :61.80 :Female
- 158.55 :55.24 :Female
- 163.05 :61.66 :Female
- 162.44 :66.00 :Female
- 160.99 :60.31 :Female
- 159.79 :63.25 :Female
- 179.18 :82.08 :Female
- 175.54 :74.33 :Female
- 162.87 :64.72 :Female
- 165.18 :68.24 :Female
- 165.79 :66.11 :Female
- 174.65 :79.77 :Female
- 164.79 :67.94 :Female
- 165.81 :65.09 :Female
- 156.30 :58.78 :Female
- 169.61 :78.39 :Female
- 156.60 :57.35 :Female
- 160.00 :63.22 :Female
- 146.30 :44.53 :Female
- 167.33 :64.79 :Female
- 157.43 :62.17 :Female
- 163.19 :56.66 :Female
- 164.17 :61.35 :Female
- 145.91 :40.55 :Female
- 157.31 :46.47 :Female
- 153.24 :51.91 :Female
- 162.86 :63.30 :Female
- 171.50 :71.75 :Female
- 169.46 :73.89 :Female
- 152.06 :53.39 :Female
- 154.24 :55.56 :Female
- 159.80 :56.38 :Female
- 174.76 :78.59 :Female
- 173.79 :76.86 :Female
- 151.85 :53.68 :Female
- 164.30 :58.16 :Female
- 159.92 :62.04 :Female
- 170.85 :73.61 :Female
- 183.11 :87.32 :Female
- 162.84 :63.15 :Female
- 163.83 :61.51 :Female
- 159.02 :57.09 :Female
- 168.05 :62.43 :Female
- 160.34 :67.45 :Female
- 162.65 :62.32 :Female
- 162.11 :58.64 :Female
- 157.89 :49.09 :Female
- 164.37 :64.10 :Female
- 156.95 :61.97 :Female
- 158.49 :66.58 :Female
- 158.41 :59.92 :Female
- 154.84 :49.60 :Female
- 161.28 :63.96 :Female
- 148.19 :49.96 :Female
- 155.30 :51.23 :Female
- 151.98 :46.83 :Female
- 153.51 :61.95 :Female
- 168.45 :69.23 :Female
- 176.23 :76.30 :Female
- 168.72 :69.39 :Female
- 158.89 :57.37 :Female
- 162.66 :60.23 :Female
- 174.18 :74.03 :Female
- 159.01 :53.12 :Female
- 167.79 :66.52 :Female
- 151.43 :52.27 :Female
- 159.76 :59.67 :Female
- 160.48 :61.49 :Female
- 176.03 :68.62 :Female
- 159.95 :59.94 :Female
- 157.94 :46.76 :Female
- 157.62 :56.63 :Female
- 161.74 :57.74 :Female
- 162.51 :60.91 :Female
- 162.17 :66.02 :Female
- 171.23 :68.25 :Female
- 157.97 :45.91 :Female
- 152.78 :50.48 :Female
- 164.03 :57.77 :Female
- 164.10 :65.50 :Female
- 154.58 :63.15 :Female
- 168.75 :69.42 :Female
- 175.74 :78.11 :Female
- 157.71 :59.38 :Female
- 156.67 :52.80 :Female
- 164.11 :63.00 :Female
- 168.13 :74.29 :Female
- 168.04 :58.14 :Female
- 155.15 :59.13 :Female
- 162.04 :66.42 :Female
- 159.64 :57.16 :Female
- 162.29 :57.55 :Female
- 157.55 :53.79 :Female
- 160.28 :59.77 :Female
- 154.07 :54.06 :Female
- 141.36 :38.83 :Female
- 165.03 :66.47 :Female
- 156.44 :56.92 :Female
- 153.94 :52.35 :Female
- 156.28 :57.90 :Female
- 172.16 :71.50 :Female
- 170.12 :71.48 :Female
- 166.91 :66.76 :Female
- 161.35 :62.03 :Female
- 169.54 :73.74 :Female
- 165.25 :67.90 :Female
- 168.46 :66.17 :Female
- 163.60 :59.65 :Female
- 169.30 :69.85 :Female
- 159.47 :59.84 :Female
- 154.12 :54.70 :Female
- 159.76 :58.30 :Female
- 172.11 :70.74 :Female
- 167.52 :75.63 :Female
- 158.84 :56.61 :Female
- 162.32 :66.53 :Female
- 167.62 :70.48 :Female
- 157.18 :52.93 :Female
- 154.37 :51.90 :Female
- 164.44 :58.41 :Female
- 167.92 :63.94 :Female
- 153.25 :46.37 :Female
- 172.05 :72.20 :Female
- 168.17 :70.99 :Female
- 171.22 :77.22 :Female
- 165.17 :71.12 :Female
- 157.24 :61.13 :Female
- 168.18 :70.28 :Female
- 168.43 :63.42 :Female
- 164.41 :65.28 :Female
- 163.32 :62.86 :Female
- 162.62 :53.01 :Female
- 167.17 :67.34 :Female
- 164.17 :60.50 :Female
- 151.27 :52.69 :Female
- 179.88 :83.84 :Female
- 169.28 :70.94 :Female
- 159.66 :55.69 :Female
- 156.02 :53.81 :Female
- 180.21 :87.63 :Female
- 165.28 :60.05 :Female
- 160.71 :64.85 :Female
- 170.48 :72.08 :Female
- 158.93 :62.30 :Female
- 153.52 :53.62 :Female
- 155.45 :46.34 :Female
- 169.67 :66.93 :Female
- 162.91 :65.90 :Female
- 169.87 :69.71 :Female
- 156.40 :67.30 :Female
- 176.44 :76.70 :Female
- 179.57 :88.00 :Female
- 158.36 :55.10 :Female
- 159.31 :55.73 :Female
- 163.38 :63.03 :Female
- 159.74 :66.91 :Female
- 164.09 :61.51 :Female
- 154.70 :59.74 :Female
- 158.64 :56.46 :Female
- 154.20 :51.33 :Female
- 169.77 :69.54 :Female
- 161.01 :58.33 :Female
- 167.18 :63.26 :Female
- 171.99 :71.30 :Female
- 156.45 :53.21 :Female
- 167.36 :64.86 :Female
- 159.72 :54.42 :Female
- 164.69 :54.92 :Female
- 174.29 :74.23 :Female
- 170.95 :75.61 :Female
- 148.26 :41.74 :Female
- 171.70 :72.55 :Female
- 173.16 :81.10 :Female
- 169.65 :64.79 :Female
- 158.42 :62.91 :Female
- 161.08 :55.40 :Female
- 168.66 :71.58 :Female
- 154.56 :54.22 :Female
- 168.72 :67.27 :Female
- 153.89 :52.63 :Female
- 161.01 :67.61 :Female
- 166.02 :65.32 :Female
- 168.51 :66.82 :Female
- 158.98 :56.07 :Female
- 156.03 :59.49 :Female
- 165.32 :66.57 :Female
- 159.22 :59.01 :Female
- 166.81 :58.55 :Female
- 156.23 :44.59 :Female
- 162.36 :66.39 :Female
- 155.44 :46.98 :Female
- 164.41 :66.90 :Female
- 164.21 :69.51 :Female
- 154.59 :50.02 :Female
- 171.38 :70.12 :Female
- 158.01 :57.87 :Female
- 156.55 :58.30 :Female
- 160.48 :67.12 :Female
- 168.71 :68.81 :Female
- 157.75 :60.26 :Female
- 166.21 :54.95 :Female
- 161.10 :56.47 :Female
- 157.98 :49.90 :Female
- 160.55 :54.37 :Female
- 157.06 :58.17 :Female
- 150.97 :44.79 :Female
- 155.18 :56.65 :Female
- 154.06 :53.99 :Female
- 163.52 :64.24 :Female
- 166.77 :68.43 :Female
- 154.71 :47.29 :Female
- 160.22 :63.96 :Female
- 162.47 :69.72 :Female
- 159.35 :56.59 :Female
- 149.45 :53.19 :Female
- 166.62 :63.44 :Female
- 158.81 :61.79 :Female
- 162.50 :64.26 :Female
- 169.01 :67.95 :Female
- 160.32 :62.95 :Female
- 154.40 :54.06 :Female
- 155.40 :59.14 :Female
- 146.89 :37.65 :Female
- 163.48 :63.44 :Female
- 163.43 :58.34 :Female
- 168.62 :72.30 :Female
- 168.83 :68.95 :Female
- 159.70 :55.61 :Female
- 161.19 :52.55 :Female
- 162.82 :56.74 :Female
- 161.71 :62.17 :Female
- 164.23 :61.14 :Female
- 165.73 :67.32 :Female
- 165.28 :66.06 :Female
- 153.37 :56.89 :Female
- 156.64 :58.69 :Female
- 161.34 :56.45 :Female
- 157.66 :65.67 :Female
- 160.47 :62.33 :Female
- 165.06 :64.57 :Female
- 159.64 :60.52 :Female
- 168.11 :66.83 :Female
- 153.39 :57.46 :Female
- 165.59 :66.00 :Female
- 147.89 :52.14 :Female
- 164.69 :68.90 :Female
- 167.58 :73.04 :Female
- 154.24 :47.02 :Female
- 154.16 :52.21 :Female
- 154.63 :58.99 :Female
- 159.52 :65.26 :Female
- 167.88 :59.48 :Female
- 164.58 :78.32 :Female
- 173.07 :76.64 :Female
- 157.30 :53.15 :Female
- 162.87 :52.97 :Female
- 143.63 :41.20 :Female
- 167.08 :71.10 :Female
- 158.52 :57.60 :Female
- 164.78 :65.65 :Female
- 160.04 :59.59 :Female
- 151.93 :48.79 :Female
- 152.37 :58.69 :Female
- 167.46 :63.27 :Female
- 170.60 :69.94 :Female
- 160.63 :63.10 :Female
- 165.47 :62.76 :Female
- 159.74 :55.96 :Female
- 165.11 :66.23 :Female
- 155.43 :64.55 :Female
- 165.14 :62.39 :Female
- 160.01 :63.70 :Female
- 168.54 :70.11 :Female
- 165.93 :68.89 :Female
- 163.24 :63.63 :Female
- 157.14 :56.24 :Female
- 161.91 :61.84 :Female
- 155.99 :46.59 :Female
- 169.77 :72.74 :Female
- 150.88 :49.44 :Female
- 153.04 :56.84 :Female
- 153.29 :59.93 :Female
- 164.15 :65.73 :Female
- 173.33 :75.94 :Female
- 175.83 :70.73 :Female
- 174.33 :75.34 :Female
- 163.16 :63.96 :Female
- 166.81 :67.83 :Female
- 172.01 :68.86 :Female
- 166.68 :61.86 :Female
- 157.64 :55.14 :Female
- 160.53 :66.68 :Female
- 157.31 :60.53 :Female
- 162.38 :64.04 :Female
- 162.78 :64.10 :Female
- 168.62 :65.74 :Female
- 172.50 :74.10 :Female
- 167.47 :66.97 :Female
- 168.92 :73.13 :Female
- 159.01 :52.07 :Female
- 163.05 :63.82 :Female
- 157.40 :57.50 :Female
- 156.47 :56.77 :Female
- 156.15 :64.63 :Female
- 168.24 :70.75 :Female
- 150.76 :51.34 :Female
- 168.78 :71.17 :Female
- 152.54 :50.94 :Female
- 148.85 :46.40 :Female
- 159.35 :58.85 :Female
- 153.88 :49.27 :Female
- 166.75 :62.35 :Female
- 162.60 :58.02 :Female
- 167.93 :72.48 :Female
- 164.21 :58.04 :Female
- 160.07 :51.32 :Female
- 157.78 :53.45 :Female
- 156.21 :53.88 :Female
- 168.44 :65.61 :Female
- 159.37 :53.33 :Female
- 177.33 :76.10 :Female
- 166.02 :66.03 :Female
- 157.77 :66.44 :Female
- 172.38 :72.98 :Female
- 152.12 :43.37 :Female
- 171.11 :69.86 :Female
- 149.26 :46.47 :Female
- 165.22 :67.57 :Female
- 167.45 :76.55 :Female
- 163.65 :62.40 :Female
- 163.59 :56.93 :Female
- 169.85 :71.53 :Female
- 165.38 :64.13 :Female
- 158.43 :55.21 :Female
- 161.13 :75.09 :Female
- 161.85 :60.87 :Female
- 159.51 :63.41 :Female
- 172.79 :69.94 :Female
- 168.05 :64.20 :Female
- 155.12 :46.44 :Female
- 157.63 :56.15 :Female
- 176.46 :81.17 :Female
- 154.53 :52.43 :Female
- 174.26 :78.29 :Female
- 156.34 :60.04 :Female
- 156.20 :56.88 :Female
- 160.76 :58.50 :Female
- 171.29 :76.32 :Female
- 155.73 :55.23 :Female
- 172.36 :79.29 :Female
- 173.07 :70.14 :Female
- 168.30 :71.15 :Female
- 167.86 :75.05 :Female
- 168.38 :59.35 :Female
- 156.38 :59.97 :Female
- 149.30 :51.77 :Female
- 156.91 :58.21 :Female
- 157.44 :62.31 :Female
- 156.66 :56.27 :Female
- 169.38 :68.64 :Female
- 158.69 :53.16 :Female
- 166.54 :61.78 :Female
- 166.41 :69.30 :Female
- 170.54 :65.80 :Female
- 173.11 :77.99 :Female
- 148.87 :46.85 :Female
- 163.41 :73.35 :Female
- 164.73 :67.00 :Female
- 158.87 :59.23 :Female
- 163.28 :62.02 :Female
- 166.69 :63.30 :Female
- 150.16 :48.74 :Female
- 163.61 :64.84 :Female
- 161.24 :68.24 :Female
- 149.47 :53.39 :Female
- 162.64 :60.67 :Female
- 151.14 :49.87 :Female
- 165.27 :61.57 :Female
- 159.63 :68.14 :Female
- 160.52 :63.64 :Female
- 158.81 :64.70 :Female
- 171.22 :74.86 :Female
- 160.46 :58.65 :Female
+ 160.83 :54.11 :Female
+ 181.61 :88.65 : Male 
+ 173.26 :65.98 :Female
  167.43 :72.11 :Female
- 159.12 :53.60 :Female
- 160.06 :56.99 :Female
- 178.00 :83.54 :Female
- 159.86 :56.44 :Female
- 170.23 :67.27 :Female
- 153.06 :45.62 :Female
- 166.63 :74.47 :Female
- 168.73 :56.85 :Female
- 162.38 :66.50 :Female
- 158.88 :57.77 :Female
- 162.06 :59.59 :Female
- 163.41 :56.21 :Female
- 171.55 :83.33 :Female
- 158.25 :54.02 :Female
- 156.25 :60.31 :Female
- 159.45 :55.22 :Female
- 168.18 :78.63 :Female
- 174.35 :68.57 :Female
- 160.77 :62.55 :Female
- 148.65 :48.89 :Female
- 153.27 :50.38 :Female
- 156.04 :44.02 :Female
- 166.31 :70.04 :Female
- 153.63 :55.24 :Female
- 157.48 :53.08 :Female
- 151.56 :51.88 :Female
- 162.06 :56.60 :Female
- 159.69 :60.18 :Female
- 168.67 :73.10 :Female
- 158.89 :51.45 :Female
- 176.95 :75.70 :Female
- 157.88 :55.16 :Female
- 159.24 :51.40 :Female
- 169.36 :62.47 :Female
- 156.65 :51.20 :Female
- 152.43 :49.46 :Female
- 164.15 :64.92 :Female
- 152.35 :51.84 :Female
- 164.65 :70.30 :Female
- 170.01 :74.68 :Female
- 164.13 :63.23 :Female
- 158.84 :61.96 :Female
- 149.62 :43.07 :Female
- 162.17 :66.39 :Female
- 171.79 :77.01 :Female
- 162.70 :63.27 :Female
- 152.21 :44.64 :Female
- 167.44 :73.35 :Female
- 163.29 :65.08 :Female
- 161.00 :60.24 :Female
- 164.80 :63.52 :Female
- 162.76 :58.56 :Female
- 170.85 :81.18 :Female
- 148.20 :50.00 :Female
- 162.20 :60.31 :Female
- 163.62 :64.03 :Female
- 157.22 :48.71 :Female
- 161.88 :54.00 :Female
- 169.87 :70.62 :Female
- 160.59 :55.00 :Female
- 156.28 :57.51 :Female
- 160.84 :59.68 :Female
- 158.12 :60.67 :Female
- 162.06 :59.49 :Female
- 167.90 :72.62 :Female
- 164.96 :67.85 :Female
- 155.43 :58.85 :Female
- 166.57 :70.21 :Female
- 163.67 :68.93 :Female
- 154.99 :51.88 :Female
- 152.04 :55.27 :Female
- 161.90 :59.72 :Female
- 169.15 :68.55 :Female
- 153.89 :58.13 :Female
- 163.73 :62.83 :Female
- 160.37 :57.62 :Female
- 154.34 :56.70 :Female
- 144.33 :46.25 :Female
- 176.18 :76.85 :Female
- 158.30 :62.95 :Female
- 167.27 :73.72 :Female
- 157.81 :62.46 :Female
- 164.23 :68.69 :Female
- 169.43 :72.42 :Female
- 173.51 :76.36 :Female
- 164.03 :59.72 :Female
- 162.57 :64.14 :Female
- 171.29 :67.95 :Female
- 161.25 :58.53 :Female
- 155.48 :61.20 :Female
- 170.50 :66.10 :Female
- 170.07 :68.40 :Female
- 176.21 :71.86 :Female
- 158.19 :65.41 :Female
- 166.27 :66.55 :Female
- 178.66 :78.93 :Female
- 162.31 :64.78 :Female
- 156.23 :46.67 :Female
- 155.01 :55.16 :Female
- 170.38 :76.14 :Female
- 171.51 :63.46 :Female
- 161.47 :62.49 :Female
- 150.68 :46.28 :Female
- 166.55 :62.59 :Female
- 164.60 :68.50 :Female
- 162.57 :63.37 :Female
- 153.56 :55.73 :Female
- 164.97 :64.54 :Female
- 169.35 :73.61 :Female
- 158.26 :60.82 :Female
- 165.43 :71.16 :Female
- 152.63 :48.08 :Female
- 154.45 :50.33 :Female
- 157.86 :62.21 :Female
- 168.27 :63.85 :Female
- 167.46 :68.02 :Female
- 157.25 :64.77 :Female
- 156.83 :59.09 :Female
- 158.09 :60.95 :Female
- 160.04 :55.14 :Female
- 162.44 :65.21 :Female
- 163.65 :59.27 :Female
- 156.74 :58.39 :Female
- 151.07 :55.40 :Female
- 165.63 :68.19 :Female
- 168.82 :60.21 :Female
- 164.78 :71.38 :Female
- 162.16 :58.68 :Female
- 150.26 :49.52 :Female
- 160.01 :60.30 :Female
- 164.00 :64.89 :Female
- 158.12 :53.97 :Female
- 170.36 :78.21 :Female
- 162.60 :66.61 :Female
- 170.61 :70.85 :Female
- 166.02 :60.35 :Female
- 158.11 :62.05 :Female
- 163.59 :66.17 :Female
- 171.89 :78.27 :Female
- 165.59 :59.19 :Female
- 153.89 :56.40 :Female
- 157.32 :57.81 :Female
- 169.65 :73.48 :Female
- 162.46 :65.62 :Female
- 167.41 :66.40 :Female
- 166.98 :69.31 :Female
- 161.53 :60.70 :Female
- 166.70 :54.06 :Female
- 168.44 :63.10 :Female
- 160.50 :66.99 :Female
- 165.16 :56.49 :Female
- 162.41 :67.68 :Female
- 164.40 :59.14 :Female
- 159.53 :57.46 :Female
- 165.12 :57.67 :Female
- 166.09 :67.10 :Female
- 155.40 :53.98 :Female
- 160.68 :62.50 :Female
- 154.93 :51.09 :Female
- 163.43 :57.20 :Female
- 167.64 :72.17 :Female
- 155.34 :57.37 :Female
- 171.92 :68.91 :Female
- 161.00 :68.05 :Female
- 168.34 :69.04 :Female
- 160.08 :63.15 :Female
- 167.42 :68.93 :Female
- 166.11 :67.99 :Female
- 166.26 :64.61 :Female
- 166.75 :70.14 :Female
- 162.36 :63.81 :Female
- 158.33 :57.28 :Female
- 163.02 :65.24 :Female
- 164.96 :64.52 :Female
- 163.25 :64.07 :Female
- 169.57 :67.56 :Female
- 163.55 :66.16 :Female
- 165.39 :70.05 :Female
- 154.52 :47.48 :Female
- 159.26 :58.07 :Female
- 161.67 :61.06 :Female
- 159.98 :60.47 :Female
- 148.89 :51.32 :Female
- 163.65 :59.08 :Female
- 165.79 :70.08 :Female
- 158.71 :56.53 :Female
- 170.12 :68.67 :Female
- 163.71 :69.25 :Female
- 164.27 :67.54 :Female
- 158.16 :60.92 :Female
- 156.56 :58.30 :Female
- 163.03 :59.95 :Female
- 161.09 :60.92 :Female
- 170.48 :70.99 :Female
- 157.80 :54.58 :Female
- 162.22 :62.86 :Female
- 163.77 :62.57 :Female
- 165.75 :62.42 :Female
- 148.43 :51.47 :Female
- 174.95 :82.23 :Female
- 172.26 :74.90 :Female
- 164.53 :61.31 :Female
- 162.67 :67.95 :Female
- 153.99 :53.76 :Female
- 157.10 :62.88 :Female
- 169.55 :76.39 :Female
- 167.19 :72.98 :Female
- 155.22 :50.67 :Female
- 165.46 :63.41 :Female
- 156.51 :56.70 :Female
- 169.17 :66.97 :Female
- 163.81 :74.37 :Female
- 153.86 :57.53 :Female
- 155.38 :61.06 :Female
- 158.03 :50.96 :Female
- 161.79 :59.23 :Female
- 163.42 :59.72 :Female
- 173.64 :75.54 :Female
- 154.01 :62.08 :Female
- 162.12 :58.46 :Female
- 160.18 :56.37 :Female
- 166.34 :61.23 :Female
- 161.76 :59.68 :Female
- 162.96 :62.44 :Female
- 160.27 :60.30 :Female
- 155.39 :52.69 :Female
- 166.94 :59.21 :Female
- 154.69 :59.47 :Female
- 163.57 :59.35 :Female
- 155.70 :52.17 :Female
- 158.07 :68.52 :Female
- 166.98 :69.41 :Female
- 163.40 :65.99 :Female
- 162.38 :60.35 :Female
- 169.26 :66.40 :Female
- 152.68 :44.48 :Female
- 169.32 :68.58 :Female
- 164.18 :71.16 :Female
- 168.46 :65.92 :Female
- 175.11 :76.37 :Female
- 166.91 :63.20 :Female
- 166.15 :54.32 :Female
- 162.61 :60.37 :Female
- 162.78 :62.35 :Female
- 153.47 :44.11 :Female
- 161.40 :55.13 :Female
- 160.66 :61.73 :Female
- 161.48 :55.58 :Female
- 154.01 :49.75 :Female
- 156.91 :55.28 :Female
- 170.47 :59.74 :Female
- 157.65 :52.12 :Female
- 158.75 :65.04 :Female
- 161.20 :62.60 :Female
- 169.68 :68.49 :Female
- 160.90 :61.70 :Female
- 161.92 :62.20 :Female
- 164.96 :59.73 :Female
- 167.38 :69.63 :Female
- 149.75 :44.98 :Female
- 172.42 :65.72 :Female
- 169.57 :75.39 :Female
- 154.91 :55.79 :Female
- 160.90 :61.21 :Female
- 154.63 :58.06 :Female
- 155.45 :64.58 :Female
- 173.24 :75.60 :Female
- 163.97 :56.28 :Female
- 158.33 :60.45 :Female
- 159.46 :59.17 :Female
- 164.55 :65.42 :Female
- 156.82 :59.32 :Female
- 165.01 :64.49 :Female
- 155.93 :54.73 :Female
- 159.42 :58.12 :Female
- 158.25 :63.10 :Female
- 148.30 :45.75 :Female
- 155.27 :50.16 :Female
- 161.15 :61.18 :Female
- 171.71 :64.69 :Female
- 162.65 :61.85 :Female
- 167.34 :59.69 :Female
- 161.79 :66.02 :Female
- 166.37 :60.00 :Female
- 151.60 :49.09 :Female
- 166.61 :70.12 :Female
- 158.57 :66.41 :Female
- 163.09 :67.28 :Female
- 159.41 :60.83 :Female
- 152.09 :45.30 :Female
- 162.32 :61.95 :Female
- 164.83 :65.58 :Female
- 165.30 :68.68 :Female
- 169.42 :59.98 :Female
- 162.35 :71.10 :Female
- 164.09 :75.00 :Female
- 165.37 :60.47 :Female
- 155.98 :52.10 :Female
- 167.23 :72.68 :Female
- 164.11 :70.23 :Female
- 157.08 :62.08 :Female
- 166.72 :71.62 :Female
- 162.71 :68.71 :Female
- 164.68 :68.58 :Female
- 137.83 :29.34 :Female
- 162.87 :73.30 :Female
- 162.87 :56.87 :Female
- 155.78 :54.29 :Female
- 159.61 :62.82 :Female
- 170.52 :67.98 :Female
- 157.52 :66.32 :Female
- 158.08 :55.07 :Female
- 169.16 :61.65 :Female
- 162.20 :62.06 :Female
- 154.00 :55.07 :Female
- 164.50 :70.78 :Female
- 157.94 :58.66 :Female
- 164.45 :64.88 :Female
- 167.52 :65.69 :Female
- 159.72 :67.85 :Female
- 157.85 :59.21 :Female
- 157.50 :53.95 :Female
- 153.96 :48.39 :Female
- 160.77 :62.90 :Female
- 160.58 :57.99 :Female
- 154.75 :54.67 :Female
- 161.99 :55.54 :Female
- 159.90 :55.24 :Female
- 152.48 :42.27 :Female
- 172.64 :85.66 :Female
- 145.20 :48.07 :Female
- 168.05 :65.15 :Female
- 159.93 :55.88 :Female
- 161.97 :58.80 :Female
- 163.83 :68.83 :Female
- 158.70 :56.37 :Female
- 161.61 :58.50 :Female
- 146.81 :50.95 :Female
- 162.07 :62.58 :Female
- 157.47 :67.66 :Female
- 158.08 :53.00 :Female
- 161.15 :59.10 :Female
- 158.00 :59.77 :Female
- 165.39 :67.27 :Female
- 154.88 :55.06 :Female
- 169.61 :65.20 :Female
- 162.05 :60.59 :Female
- 163.59 :56.77 :Female
- 161.54 :68.78 :Female
- 157.49 :59.80 :Female
- 162.84 :67.69 :Female
- 163.36 :64.14 :Female
- 164.67 :64.05 :Female
- 161.18 :58.14 :Female
- 170.02 :68.43 :Female
- 164.46 :65.59 :Female
- 159.00 :63.92 :Female
- 179.46 :72.01 :Female
- 170.04 :76.47 :Female
- 159.51 :73.02 :Female
- 164.05 :68.40 :Female
- 163.00 :69.47 :Female
- 157.97 :53.11 :Female
- 157.73 :62.86 :Female
- 172.14 :67.85 :Female
- 160.99 :60.10 :Female
- 167.71 :63.72 :Female
- 157.16 :54.87 :Female
- 165.20 :63.70 :Female
- 154.43 :50.75 :Female
- 153.88 :46.14 :Female
- 160.67 :57.43 :Female
- 155.84 :58.94 :Female
- 164.42 :59.19 :Female
- 164.22 :67.56 :Female
- 154.47 :51.79 :Female
- 153.85 :45.48 :Female
- 170.46 :76.22 :Female
- 153.98 :52.68 :Female
- 157.26 :61.90 :Female
- 162.92 :65.34 :Female
- 168.31 :67.61 :Female
- 159.11 :55.35 :Female
- 153.17 :49.56 :Female
- 154.43 :54.66 :Female
- 162.42 :59.60 :Female
- 158.20 :51.46 :Female
- 159.29 :65.92 :Female
- 163.72 :67.56 :Female
- 154.80 :51.49 :Female
- 156.51 :58.81 :Female
- 162.76 :55.78 :Female
- 156.58 :50.76 :Female
- 164.39 :65.67 :Female
- 153.74 :55.55 :Female
- 162.72 :63.68 :Female
- 153.72 :53.98 :Female
- 164.77 :67.79 :Female
- 164.21 :63.90 :Female
- 158.50 :60.69 :Female
- 155.72 :59.97 :Female
- 159.68 :51.20 :Female
- 150.17 :48.92 :Female
- 161.69 :56.62 :Female
- 161.01 :65.55 :Female
- 158.83 :48.08 :Female
- 159.90 :64.02 :Female
- 163.74 :70.87 :Female
- 166.31 :67.63 :Female
- 164.35 :67.10 :Female
- 165.52 :66.10 :Female
- 164.72 :65.56 :Female
- 163.20 :68.67 :Female
- 164.40 :62.62 :Female
- 173.01 :75.64 :Female
- 167.75 :65.96 :Female
- 159.82 :66.31 :Female
- 159.90 :64.98 :Female
- 167.29 :67.97 :Female
- 170.84 :74.45 :Female
- 158.62 :62.95 :Female
- 164.01 :62.36 :Female
- 157.78 :60.83 :Female
- 158.07 :60.40 :Female
- 173.33 :66.61 :Female
- 148.79 :44.71 :Female
- 167.80 :66.65 :Female
- 164.86 :61.78 :Female
- 156.93 :54.66 :Female
- 163.54 :65.92 :Female
- 169.41 :71.10 :Female
- 172.46 :69.51 :Female
- 161.97 :60.67 :Female
- 158.49 :49.16 :Female
- 160.94 :61.20 :Female
- 152.75 :49.50 :Female
- 166.85 :68.15 :Female
- 166.95 :62.47 :Female
- 154.24 :58.70 :Female
- 165.00 :60.79 :Female
- 160.67 :55.84 :Female
- 167.18 :71.43 :Female
- 161.21 :62.51 :Female
- 180.65 :79.84 :Female
- 161.00 :64.38 :Female
- 151.48 :57.78 :Female
- 153.93 :52.69 :Female
- 159.33 :60.13 :Female
- 154.02 :52.80 :Female
- 168.04 :72.75 :Female
- 172.13 :70.70 :Female
- 153.72 :54.67 :Female
- 176.02 :83.99 :Female
- 162.63 :60.85 :Female
- 165.42 :65.55 :Female
- 161.45 :59.77 :Female
- 160.80 :60.31 :Female
- 171.67 :68.89 :Female
- 159.18 :65.23 :Female
- 173.72 :67.71 :Female
- 155.71 :56.06 :Female
- 164.39 :67.62 :Female
- 170.14 :78.04 :Female
- 162.03 :59.92 :Female
- 156.49 :58.11 :Female
- 153.82 :54.18 :Female
- 168.18 :69.97 :Female
- 157.56 :48.19 :Female
- 160.17 :60.54 :Female
- 158.95 :64.66 :Female
- 161.44 :60.34 :Female
- 167.12 :63.57 :Female
- 154.51 :57.84 :Female
- 169.30 :72.09 :Female
- 161.47 :59.34 :Female
- 172.59 :77.69 :Female
- 158.49 :63.42 :Female
- 166.97 :76.04 :Female
- 159.35 :66.83 :Female
- 161.03 :63.58 :Female
- 162.97 :62.73 :Female
- 144.77 :38.28 :Female
- 163.74 :63.27 :Female
- 156.03 :46.75 :Female
- 156.94 :50.09 :Female
- 164.32 :62.30 :Female
- 160.17 :55.53 :Female
- 150.13 :56.71 :Female
- 174.46 :71.62 :Female
- 172.24 :73.30 :Female
- 158.74 :57.38 :Female
- 160.48 :61.58 :Female
- 160.47 :64.42 :Female
- 167.08 :64.92 :Female
- 165.67 :63.29 :Female
- 160.00 :58.18 :Female
- 165.56 :64.46 :Female
- 158.91 :55.80 :Female
- 164.29 :61.61 :Female
- 157.53 :55.40 :Female
- 172.03 :70.01 :Female
- 157.39 :51.17 :Female
- 158.31 :51.87 :Female
- 165.72 :67.66 :Female
- 165.07 :59.15 :Female
- 152.18 :51.57 :Female
- 161.62 :58.56 :Female
- 161.86 :64.60 :Female
- 152.43 :51.27 :Female
- 167.32 :67.82 :Female
- 158.46 :61.13 :Female
- 146.94 :44.01 :Female
- 172.17 :73.56 :Female
- 157.21 :56.38 :Female
- 151.81 :50.46 :Female
- 158.82 :53.36 :Female
- 153.23 :56.33 :Female
- 168.11 :71.51 :Female
- 169.80 :69.88 :Female
- 166.59 :57.14 :Female
- 156.74 :52.09 :Female
- 152.50 :52.39 :Female
- 166.95 :65.33 :Female
- 166.68 :60.66 :Female
- 152.47 :46.89 :Female
- 162.06 :57.96 :Female
- 146.78 :48.46 :Female
- 160.12 :54.41 :Female
- 154.16 :40.90 :Female
- 155.31 :47.79 :Female
- 151.95 :55.40 :Female
- 162.19 :66.13 :Female
- 166.27 :67.41 :Female
- 161.01 :67.84 :Female
- 162.14 :60.95 :Female
- 159.27 :63.13 :Female
- 158.49 :59.12 :Female
- 166.08 :66.25 :Female
- 162.46 :67.23 :Female
- 161.96 :61.78 :Female
- 159.86 :65.52 :Female
- 165.99 :62.32 :Female
- 158.89 :48.86 :Female
- 169.47 :67.31 :Female
- 158.76 :65.61 :Female
- 152.64 :47.35 :Female
- 168.41 :73.36 :Female
- 168.76 :66.06 :Female
- 162.44 :63.86 :Female
- 153.03 :47.60 :Female
- 160.10 :55.35 :Female
- 154.87 :47.55 :Female
- 160.84 :58.87 :Female
- 166.34 :55.03 :Female
- 155.97 :56.69 :Female
- 159.43 :60.41 :Female
- 152.88 :52.42 :Female
- 165.12 :68.50 :Female
- 178.36 :79.71 :Female
- 159.20 :61.90 :Female
- 154.70 :58.51 :Female
- 154.33 :51.84 :Female
- 161.89 :59.08 :Female
- 161.42 :62.23 :Female
- 158.84 :56.95 :Female
- 166.53 :74.63 :Female
- 148.99 :49.89 :Female
- 171.50 :74.15 :Female
- 167.82 :69.12 :Female
- 161.48 :59.15 :Female
- 168.03 :68.43 :Female
- 163.11 :66.13 :Female
- 167.68 :65.10 :Female
- 159.93 :60.97 :Female
- 157.50 :57.61 :Female
- 151.25 :45.04 :Female
- 166.33 :63.03 :Female
- 170.07 :74.42 :Female
- 163.45 :58.81 :Female
- 165.08 :68.89 :Female
- 161.62 :76.38 :Female
- 158.24 :61.88 :Female
- 162.61 :64.03 :Female
- 149.12 :43.83 :Female
- 170.58 :68.44 :Female
- 145.68 :32.99 :Female
- 162.01 :57.89 :Female
- 161.20 :57.30 :Female
- 151.82 :50.27 :Female
- 173.44 :71.90 :Female
- 164.79 :66.52 :Female
- 160.91 :60.81 :Female
- 168.69 :72.77 :Female
- 168.27 :70.23 :Female
- 149.98 :47.79 :Female
- 168.44 :74.14 :Female
- 158.78 :60.67 :Female
- 176.32 :77.38 :Female
- 162.16 :58.86 :Female
- 174.85 :73.31 :Female
- 166.72 :60.51 :Female
- 158.63 :55.90 :Female
- 165.16 :63.18 :Female
- 156.41 :55.58 :Female
- 167.07 :60.77 :Female
- 166.70 :71.58 :Female
- 152.77 :50.43 :Female
- 153.04 :56.91 :Female
- 169.41 :75.48 :Female
- 151.79 :54.29 :Female
- 171.86 :73.45 :Female
- 158.78 :63.24 :Female
- 150.65 :47.12 :Female
- 167.59 :72.89 :Female
- 170.74 :76.56 :Female
- 160.65 :62.65 :Female
- 158.90 :61.75 :Female
- 163.60 :63.31 :Female
- 158.70 :55.60 :Female
- 165.52 :71.15 :Female
- 157.47 :67.08 :Female
- 162.77 :57.98 :Female
- 165.63 :63.76 :Female
- 165.34 :54.80 :Female
- 160.86 :65.91 :Female
- 150.92 :56.42 :Female
- 155.98 :57.36 :Female
- 160.30 :60.48 :Female
- 169.00 :62.43 :Female
- 156.04 :59.60 :Female
- 165.69 :72.90 :Female
- 159.86 :61.49 :Female
- 148.99 :51.65 :Female
- 162.68 :65.84 :Female
- 157.28 :59.37 :Female
- 155.53 :56.43 :Female
- 164.32 :61.47 :Female
- 158.66 :57.73 :Female
- 163.85 :64.20 :Female
- 169.96 :65.65 :Female
- 157.74 :65.96 :Female
- 170.87 :62.42 :Female
- 166.90 :70.78 :Female
- 164.67 :71.16 :Female
- 147.40 :42.08 :Female
- 164.38 :66.37 :Female
- 155.46 :57.68 :Female
- 165.28 :64.69 :Female
- 148.63 :52.60 :Female
- 169.48 :74.60 :Female
- 171.01 :73.00 :Female
- 149.96 :49.02 :Female
- 178.69 :91.72 :Female
- 167.29 :64.84 :Female
- 161.00 :63.12 :Female
- 166.72 :73.74 :Female
- 159.09 :55.32 :Female
- 161.79 :59.19 :Female
- 159.44 :64.31 :Female
- 168.87 :62.86 :Female
- 167.28 :73.42 :Female
- 171.66 :81.19 :Female
- 147.67 :52.45 :Female
- 154.24 :52.71 :Female
- 165.45 :69.57 :Female
- 170.57 :67.58 :Female
- 157.23 :59.42 :Female
- 165.28 :62.42 :Female
- 162.33 :59.66 :Female
- 158.14 :58.25 :Female
- 163.60 :61.10 :Female
- 165.77 :70.84 :Female
- 170.71 :69.01 :Female
- 156.95 :61.51 :Female
- 170.29 :69.73 :Female
- 160.29 :61.95 :Female
- 163.09 :65.37 :Female
- 162.03 :58.66 :Female
- 158.54 :59.57 :Female
- 156.45 :53.59 :Female
- 164.20 :67.43 :Female
- 169.16 :59.41 :Female
- 164.23 :64.35 :Female
- 162.20 :69.95 :Female
- 154.65 :63.12 :Female
- 158.95 :58.58 :Female
- 153.92 :47.55 :Female
- 152.80 :49.04 :Female
- 155.31 :50.56 :Female
- 156.19 :52.45 :Female
- 158.76 :58.59 :Female
- 161.90 :66.59 :Female
- 154.32 :44.84 :Female
- 160.86 :55.31 :Female
- 166.03 :70.79 :Female
- 161.86 :73.49 :Female
- 162.26 :62.31 :Female
- 169.39 :72.68 :Female
- 156.45 :49.64 :Female
- 151.86 :49.81 :Female
- 164.19 :57.29 :Female
- 162.96 :62.95 :Female
- 172.24 :66.33 :Female
- 163.83 :70.85 :Female
- 166.09 :63.09 :Female
- 174.41 :72.75 :Female
- 170.58 :73.74 :Female
- 169.41 :65.14 :Female
- 167.23 :65.22 :Female
- 147.31 :43.50 :Female
- 155.18 :52.26 :Female
- 169.44 :74.80 :Female
- 163.13 :56.59 :Female
- 168.33 :64.83 :Female
- 151.88 :53.86 :Female
- 156.39 :46.86 :Female
- 163.79 :60.30 :Female
- 156.22 :55.46 :Female
- 158.53 :64.67 :Female
- 159.77 :68.73 :Female
- 160.58 :56.72 :Female
- 173.43 :75.89 :Female
- 159.63 :59.47 :Female
- 171.23 :72.37 :Female
- 166.46 :67.24 :Female
- 154.83 :47.48 :Female
- 165.22 :65.70 :Female
- 146.56 :41.82 :Female
- 157.63 :62.72 :Female
- 172.99 :74.60 :Female
- 169.01 :65.15 :Female
- 160.11 :65.29 :Female
- 172.16 :74.02 :Female
- 154.65 :58.29 :Female
- 169.78 :72.58 :Female
- 165.29 :64.94 :Female
- 168.54 :71.10 :Female
- 164.19 :63.98 :Female
- 155.84 :61.82 :Female
- 158.47 :56.98 :Female
- 166.83 :71.41 :Female
- 157.48 :64.95 :Female
- 156.98 :62.31 :Female
- 160.11 :57.89 :Female
- 170.51 :66.47 :Female
- 151.87 :58.17 :Female
- 165.20 :62.80 :Female
- 157.07 :52.79 :Female
- 159.94 :56.59 :Female
- 158.20 :59.14 :Female
- 162.06 :65.74 :Female
- 159.68 :62.78 :Female
- 167.53 :69.59 :Female
- 173.45 :67.96 :Female
- 169.40 :68.85 :Female
- 155.22 :53.87 :Female
- 168.34 :63.88 :Female
- 161.84 :65.76 :Female
- 150.97 :47.02 :Female
- 168.02 :66.34 :Female
- 149.06 :46.19 :Female
- 169.12 :70.70 :Female
- 169.24 :64.80 :Female
- 160.48 :59.77 :Female
- 167.32 :57.18 :Female
- 158.44 :52.41 :Female
- 171.27 :76.61 :Female
- 159.48 :54.43 :Female
- 172.87 :79.93 :Female
- 169.56 :62.42 :Female
- 167.41 :62.45 :Female
- 166.10 :66.54 :Female
- 155.55 :61.56 :Female
- 163.83 :59.99 :Female
- 163.38 :58.30 :Female
- 159.92 :62.87 :Female
- 161.76 :58.51 :Female
- 165.88 :71.84 :Female
- 164.66 :68.04 :Female
- 143.60 :44.33 :Female
- 144.72 :40.97 :Female
- 175.44 :71.83 :Female
- 162.19 :62.74 :Female
- 161.76 :64.24 :Female
- 155.05 :51.65 :Female
- 168.45 :72.12 :Female
- 151.99 :49.03 :Female
- 166.78 :65.28 :Female
- 156.20 :66.10 :Female
- 151.47 :50.55 :Female
- 155.82 :51.86 :Female
- 162.17 :69.50 :Female
- 165.55 :65.55 :Female
- 167.17 :50.11 :Female
- 152.47 :39.47 :Female
- 174.82 :74.12 :Female
- 158.89 :65.44 :Female
- 156.79 :53.23 :Female
- 164.36 :62.47 :Female
+ 163.19 :56.66 :Female
+ 173.25 :83.46 : Male 
+ 164.46 :56.48 :Female
+ 175.25 :82.95 : Male 
+ 173.95 :84.54 : Male 
+ 187.35 :100.12: Male 
+ 170.55 :84.26 : Male 
+ 180.34 :98.01 : Male 
+ 159.89 :68.33 : Male 
+ 174.44 :87.16 : Male 
+ 154.14 :45.87 :Female
  166.79 :63.32 :Female
- 168.86 :72.47 :Female
- 157.99 :58.89 :Female
- 156.22 :52.98 :Female
- 156.54 :59.65 :Female
- 159.31 :61.74 :Female
- 161.50 :58.15 :Female
- 154.32 :62.50 :Female
- 167.94 :72.67 :Female
- 165.71 :66.32 :Female
- 164.14 :62.61 :Female
- 164.17 :60.58 :Female
- 163.85 :61.82 :Female
- 170.74 :78.09 :Female
- 162.01 :67.73 :Female
- 156.34 :57.63 :Female
- 161.88 :64.94 :Female
- 155.45 :52.56 :Female
- 159.37 :62.84 :Female
- 169.03 :71.24 :Female
- 159.73 :58.21 :Female
- 156.42 :63.76 :Female
- 161.34 :62.57 :Female
- 156.46 :52.00 :Female
- 159.75 :54.70 :Female
- 163.00 :61.28 :Female
- 158.58 :59.64 :Female
- 167.53 :69.47 :Female
- 165.69 :69.37 :Female
- 147.98 :47.56 :Female
- 152.47 :57.35 :Female
- 162.07 :62.65 :Female
- 153.85 :61.26 :Female
- 163.70 :63.53 :Female
- 153.52 :56.11 :Female
- 156.23 :52.64 :Female
- 165.18 :71.13 :Female
- 163.35 :64.77 :Female
- 167.68 :69.97 :Female
- 166.88 :72.94 :Female
- 167.24 :73.37 :Female
- 160.99 :60.12 :Female
- 174.83 :73.92 :Female
- 161.90 :59.83 :Female
- 162.54 :64.69 :Female
- 142.19 :38.74 :Female
- 175.20 :81.01 :Female
- 155.15 :53.85 :Female
- 167.59 :68.25 :Female
- 165.08 :68.21 :Female
- 156.98 :56.79 :Female
- 159.97 :55.02 :Female
- 159.45 :60.70 :Female
- 157.71 :62.87 :Female
- 165.01 :66.83 :Female
- 169.14 :66.92 :Female
- 164.84 :71.75 :Female
- 150.48 :49.30 :Female
- 160.98 :57.39 :Female
- 164.56 :62.94 :Female
- 167.80 :77.98 :Female
- 165.23 :68.07 :Female
- 168.70 :67.22 :Female
- 155.14 :57.64 :Female
- 164.83 :60.71 :Female
- 157.80 :62.03 :Female
- 179.71 :87.34 :Female
- 164.39 :67.81 :Female
- 160.76 :60.45 :Female
- 176.17 :81.38 :Female
- 157.18 :60.67 :Female
- 154.82 :54.44 :Female
- 166.33 :61.35 :Female
- 167.94 :62.41 :Female
- 164.33 :73.82 :Female
- 173.07 :79.20 :Female
- 156.28 :52.08 :Female
- 162.96 :57.54 :Female
- 168.16 :68.49 :Female
- 172.64 :76.27 :Female
- 166.79 :58.80 :Female
- 161.44 :67.33 :Female
- 157.11 :53.87 :Female
- 158.79 :59.91 :Female
- 152.08 :59.50 :Female
- 164.48 :63.74 :Female
- 161.37 :59.61 :Female
- 166.68 :68.70 :Female
- 163.44 :61.06 :Female
- 165.74 :61.36 :Female
- 150.74 :51.44 :Female
- 170.40 :65.03 :Female
- 164.55 :56.90 :Female
- 161.82 :60.21 :Female
- 163.76 :58.14 :Female
- 154.01 :54.71 :Female
- 175.19 :75.27 :Female
- 155.42 :50.91 :Female
- 153.93 :60.47 :Female
- 157.15 :56.71 :Female
- 166.79 :63.37 :Female
- 151.80 :48.17 :Female
- 169.86 :68.30 :Female
- 154.08 :51.74 :Female
- 156.99 :55.03 :Female
- 158.86 :64.62 :Female
- 154.90 :54.44 :Female
- 170.27 :68.39 :Female
- 165.37 :67.89 :Female
- 154.91 :51.53 :Female
- 164.51 :64.76 :Female
- 169.99 :73.79 :Female
- 155.30 :57.80 :Female
- 167.55 :61.56 :Female
- 156.12 :65.50 :Female
- 146.66 :42.47 :Female
- 159.27 :64.50 :Female
- 154.23 :55.88 :Female
- 159.49 :59.97 :Female
- 167.64 :72.08 :Female
- 167.25 :66.65 :Female
- 167.50 :68.01 :Female
- 166.15 :56.14 :Female
- 169.59 :71.20 :Female
- 144.85 :45.90 :Female
- 154.29 :55.64 :Female
- 160.79 :54.90 :Female
- 157.95 :59.98 :Female
- 165.96 :59.87 :Female
- 159.89 :64.55 :Female
- 150.89 :50.73 :Female
- 160.87 :68.89 :Female
- 169.68 :66.96 :Female
- 148.21 :49.94 :Female
- 164.98 :69.39 :Female
- 152.56 :46.67 :Female
- 168.51 :73.17 :Female
- 170.87 :65.32 :Female
- 167.63 :68.28 :Female
- 169.65 :58.69 :Female
- 166.48 :67.12 :Female
- 170.63 :75.56 :Female
- 149.23 :48.46 :Female
- 157.88 :59.86 :Female
- 160.24 :56.61 :Female
- 166.23 :62.21 :Female
- 160.46 :64.74 :Female
- 160.95 :70.10 :Female
- 158.19 :50.54 :Female
- 151.17 :49.62 :Female
- 174.10 :67.50 :Female
- 159.91 :59.37 :Female
- 158.38 :58.74 :Female
- 161.66 :66.75 :Female
- 173.38 :78.98 :Female
- 163.00 :56.98 :Female
- 164.54 :62.55 :Female
- 160.36 :55.12 :Female
- 155.13 :54.66 :Female
- 152.15 :52.84 :Female
- 161.56 :66.49 :Female
- 157.35 :56.53 :Female
- 168.38 :63.64 :Female
- 157.94 :61.66 :Female
- 153.53 :52.35 :Female
- 157.26 :56.22 :Female
- 169.23 :67.95 :Female
- 150.02 :56.21 :Female
- 164.75 :62.80 :Female
- 162.80 :60.63 :Female
- 155.22 :55.96 :Female
- 162.83 :62.92 :Female
- 160.08 :60.77 :Female
- 155.65 :60.11 :Female
- 151.64 :50.41 :Female
- 165.84 :64.31 :Female
- 159.69 :63.63 :Female
- 159.78 :65.34 :Female
- 159.94 :57.23 :Female
- 172.58 :73.14 :Female
- 165.65 :68.32 :Female
- 169.61 :73.52 :Female
- 167.02 :69.06 :Female
- 156.65 :63.50 :Female
- 159.33 :54.60 :Female
- 165.53 :61.55 :Female
- 157.04 :57.57 :Female
- 164.61 :70.79 :Female
- 162.56 :70.57 :Female
- 173.23 :74.20 :Female
- 166.67 :68.71 :Female
- 164.19 :70.44 :Female
- 154.06 :55.82 :Female
- 154.27 :54.84 :Female
- 166.10 :64.86 :Female
+ 157.46 :59.60 :Female
+ 167.49 :69.43 :Female
+ 164.69 :62.45 :Female
+ 160.48 :53.07 :Female
+ 172.67 :72.69 :Female
+ 159.20 :54.83 :Female
+ 160.00 :58.18 :Female
+ 176.56 :87.63 : Male 
+ 174.31 :85.92 : Male 
+ 178.95 :91.13 : Male 
+ 170.31 :72.90 :Female
+ 147.64 :44.63 :Female
+ 169.37 :73.82 : Male 
+ 169.85 :77.24 : Male 
+ 183.97 :85.80 : Male 
+ 169.82 :80.46 : Male 
  168.28 :56.24 :Female
- 156.15 :55.05 :Female
- 163.82 :67.76 :Female
- 145.73 :51.79 :Female
- 157.62 :56.75 :Female
- 153.60 :50.24 :Female
- 153.53 :61.48 :Female
- 177.47 :80.72 :Female
- 167.21 :60.24 :Female
- 149.98 :50.66 :Female
- 172.82 :77.33 :Female
- 160.92 :64.36 :Female
+ 164.59 :66.23 :Female
+ 192.09 :109.39: Male 
+ 173.79 :80.80 : Male 
+ 164.95 :60.55 : Male 
+ 162.24 :59.05 :Female
+ 174.94 :90.70 : Male 
+ 170.78 :69.58 :Female
+ 156.97 :48.18 :Female
+ 168.52 :71.11 :Female
+ 156.65 :61.09 :Female
+ 162.42 :62.51 :Female
+ 185.67 :93.04 : Male 
+ 172.33 :76.22 : Male 
+ 174.67 :85.19 : Male 
+ 172.58 :80.24 : Male 
+ 183.12 :93.94 : Male 
+ 167.37 :79.48 : Male 
+ 160.01 :55.58 :Female
+ 153.25 :59.43 :Female
+ 172.94 :84.95 : Male 
+ 166.78 :65.28 :Female
+ 170.53 :82.98 : Male 
+ 168.44 :65.61 :Female
+ 180.51 :83.57 : Male 
+ 172.49 :74.56 :Female
+ 175.94 :78.15 : Male 
+ 176.68 :82.23 : Male 
+ 165.62 :65.11 :Female
+ 180.96 :99.89 : Male 
+ 154.72 :56.16 :Female
+ 171.28 :77.53 :Female
+ 164.19 :54.12 :Female
+ 171.15 :73.01 :Female
+ 174.00 :83.32 : Male 
+ 184.86 :91.24 : Male 
+ 181.55 :97.50 : Male 
+ 150.64 :49.17 :Female
+ 169.20 :67.39 :Female
+ 168.05 :71.73 :Female
+ 167.64 :70.34 :Female
+ 176.08 :94.78 : Male 
+ 165.83 :65.97 :Female
+ 182.97 :95.21 : Male 
+ 172.10 :73.88 :Female
+ 185.73 :100.43: Male 
+ 169.87 :79.53 : Male 
+ 167.08 :64.92 :Female
+ 168.77 :74.06 : Male 
+ 151.21 :56.60 :Female
+ 137.83 :29.34 :Female
+ 158.42 :62.91 :Female
+ 176.31 :80.49 : Male 
+ 159.45 :55.22 :Female
+ 181.48 :86.70 : Male 
+ 164.67 :64.89 :Female
+ 179.56 :88.09 : Male 
+ 161.96 :71.43 : Male 
+ 158.34 :58.62 :Female
+ 167.44 :79.56 : Male 
+ 161.15 :61.18 :Female
+ 172.76 :67.90 :Female
+ 170.04 :82.71 : Male 
+ 186.02 :91.20 : Male 
+ 181.40 :94.89 : Male 
  166.65 :68.56 :Female
+ 177.09 :92.62 : Male 
+ 180.93 :89.83 : Male 
+ 179.78 :87.87 : Male 
+ 163.96 :60.46 :Female
+ 175.08 :85.98 : Male 
+ 169.96 :65.65 :Female
+ 168.35 :65.71 :Female
+ 166.91 :73.60 : Male 
+ 179.01 :89.36 : Male 
+ 161.10 :69.47 :Female
+ 180.25 :80.98 : Male 
+ 164.01 :62.36 :Female
+ 166.62 :63.44 :Female
+ 155.98 :63.45 :Female
+ 159.82 :59.67 :Female
+ 173.98 :81.60 : Male 
+ 170.40 :80.52 : Male 
+ 169.17 :73.72 : Male 
+ 172.16 :74.02 :Female
+ 177.01 :80.72 : Male 
+ 158.19 :60.43 :Female
+ 151.26 :60.31 :Female
+ 157.01 :53.66 :Female
+ 167.95 :78.24 : Male 
+ 154.16 :40.90 :Female
+ 172.60 :82.36 : Male 
+ 161.23 :57.67 :Female
+ 147.48 :51.27 :Female
+ 157.26 :61.90 :Female
+ 180.17 :79.80 :Female
+ 172.06 :80.80 : Male 
+ 167.14 :72.31 :Female
+ 164.21 :58.04 :Female
+ 172.09 :85.48 : Male 
+ 160.37 :53.20 :Female
+ 178.33 :90.09 : Male 
+ 160.57 :57.60 :Female
+ 176.72 :86.87 : Male 
+ 179.16 :82.47 : Male 
+ 158.20 :59.91 :Female
+ 166.86 :76.30 : Male 
+ 180.78 :84.00 : Male 
+ 170.63 :79.17 : Male 
+ 175.70 :88.54 : Male 
+ 172.60 :77.65 : Male 
+ 161.54 :58.98 :Female
+ 155.73 :55.23 :Female
+ 160.88 :65.63 :Female
+ 157.95 :59.71 :Female
+ 157.17 :46.04 :Female
+ 168.22 :71.06 : Male 
+ 170.62 :79.07 : Male 
+ 180.93 :91.06 : Male 
+ 167.81 :80.99 : Male 
+ 169.67 :79.36 : Male 
+ 165.37 :67.62 : Male 
+ 161.57 :61.97 :Female
+ 168.18 :64.81 :Female
+ 178.64 :95.05 : Male 
+ 175.46 :79.09 : Male 
+ 147.60 :43.66 :Female
+ 165.59 :59.19 :Female
+ 163.87 :63.04 :Female
+ 154.48 :62.48 : Male 
+ 163.39 :71.11 :Female
+ 172.17 :82.82 : Male 
+ 180.47 :86.62 : Male 
+ 164.83 :66.49 :Female
+ 172.33 :69.40 : Male 
+ 161.37 :59.61 :Female
+ 174.03 :85.22 : Male 
+ 156.60 :58.52 :Female
+ 175.06 :88.11 : Male 
+ 166.76 :65.09 :Female
+ 173.24 :91.05 : Male 
+ 161.00 :68.05 :Female
+ 153.08 :57.35 : Male 
+ 153.86 :45.03 :Female
+ 153.25 :37.28 :Female
+ 166.12 :65.65 :Female
+ 176.66 :89.83 : Male 
+ 169.14 :66.92 :Female
+ 168.14 :75.25 : Male 
+ 170.82 :81.99 : Male 
+ 170.51 :70.53 : Male 
+ 171.56 :77.05 : Male 
+ 174.00 :70.62 :Female
+ 171.15 :74.47 : Male 
+ 168.32 :77.21 : Male 
+ 176.12 :89.97 : Male 
+ 165.61 :67.16 :Female
+ 166.42 :80.86 : Male 
+ 186.76 :91.75 : Male 
+ 173.67 :74.29 :Female
+ 154.43 :50.75 :Female
+ 170.11 :75.46 :Female
+ 171.79 :74.77 :Female
+ 165.64 :72.04 : Male 
+ 164.46 :67.72 :Female
+ 177.59 :99.49 : Male 
+ 173.12 :82.11 : Male 
+ 185.12 :88.07 : Male 
+ 165.62 :56.78 :Female
+ 174.73 :89.65 : Male 
+ 172.13 :70.70 :Female
+ 180.78 :87.85 : Male 
+ 173.39 :83.03 : Male 
+ 165.93 :60.63 :Female
+ 162.41 :67.68 :Female
+ 161.01 :65.55 :Female
+ 156.41 :55.58 :Female
+ 162.26 :63.13 :Female
+ 156.45 :53.59 :Female
+ 185.82 :104.76: Male 
+ 174.99 :81.95 : Male 
+ 146.15 :43.62 :Female
+ 151.73 :56.62 :Female
+ 181.89 :87.56 : Male 
+ 173.66 :89.32 : Male 
+ 171.02 :85.13 : Male 
+ 174.87 :84.82 : Male 
+ 188.13 :103.59: Male 
+ 171.37 :77.32 : Male 
+ 163.52 :64.24 :Female
+ 177.20 :86.09 : Male 
+ 166.31 :67.63 :Female
+ 152.89 :43.70 :Female
+ 164.20 :67.43 :Female
+ 188.51 :101.06: Male 
+ 176.38 :81.70 : Male 
+ 170.90 :78.31 : Male 
+ 157.74 :65.96 :Female
+ 167.73 :68.48 :Female
+ 155.34 :57.37 :Female
+ 179.43 :86.08 : Male 
+ 172.58 :76.60 :Female
+ 191.86 :96.15 : Male 
+ 175.71 :89.16 : Male 
+ 175.67 :86.55 : Male 
+ 175.28 :72.15 :Female
+ 156.29 :48.21 :Female
+ 165.66 :72.10 : Male 
+ 173.43 :82.63 : Male 
+ 171.75 :86.50 : Male 
+ 162.19 :62.74 :Female
+ 180.82 :83.38 : Male 
+ 171.53 :74.38 : Male 
+ 165.40 :69.45 : Male 
+ 181.40 :81.57 : Male 
+ 180.21 :84.34 : Male 
+ 178.75 :81.35 : Male 
+ 183.56 :94.14 : Male 
+ 167.77 :63.00 :Female
+ 154.34 :56.70 :Female
+ 182.17 :95.70 : Male 
+ 175.62 :84.72 :Female
+ 162.46 :63.84 :Female
+ 148.79 :49.46 :Female
+ 185.40 :86.58 : Male 
+ 166.78 :68.77 : Male 
+ 164.16 :70.39 :Female
+ 188.03 :95.13 : Male 
+ 167.26 :76.92 : Male 
+ 160.30 :61.59 :Female
+ 172.03 :70.01 :Female
+ 171.75 :79.56 : Male 
+ 183.51 :98.58 : Male 
+ 175.33 :81.95 : Male 
+ 168.06 :66.52 :Female
+ 161.59 :73.78 : Male 
+ 174.94 :87.00 : Male 
+ 168.40 :72.22 : Male 
+ 160.57 :63.20 :Female
+ 183.10 :93.15 : Male 
+ 168.85 :89.64 : Male 
+ 153.72 :60.56 :Female
+ 158.80 :58.44 :Female
+ 184.87 :91.46 : Male 
+ 161.97 :65.18 :Female
+ 182.54 :92.29 : Male 
+ 178.29 :89.86 : Male 
+ 156.15 :55.05 :Female
+ 153.63 :55.24 :Female
+ 170.48 :70.99 :Female
+ 164.45 :75.80 :Female
+ 170.13 :72.04 :Female
+ 174.90 :84.15 : Male 
+ 163.82 :63.41 :Female
+ 157.66 :51.00 :Female
+ 165.54 :63.49 :Female
+ 160.23 :60.89 :Female
+ 165.27 :69.65 :Female
+ 173.31 :76.16 : Male 
+ 173.01 :77.76 : Male 
+ 164.05 :71.45 : Male 
+ 177.19 :85.18 : Male 
+ 164.58 :69.35 :Female
+ 166.36 :68.73 :Female
+ 165.69 :76.53 : Male 
+ 164.25 :75.72 : Male 
+ 174.18 :69.53 :Female
+ 175.56 :80.12 : Male 
+ 167.52 :65.69 :Female
+ 180.52 :82.58 :Female
+ 164.50 :64.52 :Female
+ 153.92 :48.51 :Female
+ 174.82 :89.68 : Male 
+ 154.32 :49.95 :Female
+ 155.53 :46.78 :Female
+ 175.97 :78.58 : Male 
+ 169.00 :62.43 :Female
+ 144.12 :46.96 :Female
+ 167.23 :72.68 :Female
+ 175.34 :85.38 : Male 
+ 172.56 :94.19 : Male 
+ 172.07 :73.61 :Female
+ 163.49 :61.50 :Female
+ 164.03 :57.77 :Female
+ 171.40 :72.96 :Female
+ 173.88 :87.42 : Male 
+ 165.28 :60.05 :Female
+ 190.87 :100.38: Male 
+ 176.23 :76.30 :Female
+ 174.73 :76.04 : Male 
+ 159.11 :52.07 :Female
+ 174.06 :78.24 : Male 
+ 167.65 :66.52 :Female
+ 183.35 :97.90 : Male 
+ 171.13 :85.61 : Male 
+ 167.75 :65.96 :Female
+ 177.25 :81.69 : Male 
+ 145.18 :42.75 :Female
+ 158.53 :62.16 :Female
+ 172.36 :86.94 : Male 
+ 171.23 :72.37 :Female
+ 167.63 :64.35 :Female
+ 180.30 :82.60 : Male 
+ 161.71 :60.00 :Female
+ 169.60 :57.31 :Female
+ 167.91 :77.22 : Male 
+ 163.26 :55.92 :Female
+ 164.66 :68.97 :Female
+ 173.97 :78.65 : Male 
+ 167.25 :85.06 : Male 
+ 176.95 :75.70 :Female
+ 156.98 :56.79 :Female
+ 169.31 :78.43 : Male 
+ 163.98 :60.86 :Female
+ 166.40 :76.80 :Female
+ 170.88 :70.59 :Female
+ 173.07 :76.64 :Female
+ 152.41 :51.90 :Female
+ 181.88 :87.27 : Male 
+ 169.56 :64.25 : Male 
+ 176.61 :85.05 : Male 
+ 176.10 :81.16 : Male 
+ 156.10 :53.07 :Female
+ 173.57 :79.43 :Female
+ 177.03 :89.37 : Male 
+ 165.55 :61.08 :Female
+ 175.19 :82.68 : Male 
+ 183.54 :87.49 : Male 
+ 164.40 :71.64 :Female
+ 162.13 :67.54 : Male 
+ 175.89 :76.29 :Female
+ 149.29 :51.05 :Female
+ 151.99 :48.24 :Female
+ 169.24 :74.40 : Male 
+ 167.49 :64.78 :Female
+ 176.60 :73.46 : Male 
+ 175.48 :88.27 : Male 
+ 173.86 :87.00 : Male 
+ 183.08 :96.68 : Male 
+ 170.36 :74.13 :Female
+ 164.45 :64.88 :Female
+ 170.73 :75.94 :Female
+ 179.34 :89.50 : Male 
+ 162.42 :69.82 : Male 
+ 160.38 :62.88 :Female
+ 153.11 :52.82 :Female
+ 160.84 :58.87 :Female
+ 179.34 :89.73 : Male 
+ 159.53 :52.94 :Female
+ 189.89 :95.11 : Male 
+ 147.97 :53.29 :Female
+ 167.79 :74.59 : Male 
+ 169.17 :66.97 :Female
+ 164.73 :61.23 :Female
+ 156.99 :55.03 :Female
+ 164.26 :72.65 : Male 
+ 179.75 :88.60 : Male 
+ 164.18 :73.65 : Male 
+ 163.11 :76.44 :Female
+ 160.95 :61.63 :Female
+ 146.79 :46.85 :Female
+ 165.70 :61.52 :Female
+ 169.03 :71.24 :Female
+ 191.91 :99.27 : Male 
+ 162.04 :66.42 :Female
+ 162.71 :59.55 :Female
+ 161.02 :65.33 :Female
+ 180.01 :91.58 : Male 
+ 157.25 :53.85 :Female
+ 159.27 :64.76 :Female
+ 165.75 :70.37 :Female
+ 155.58 :55.70 :Female
+ 163.85 :74.60 : Male 
+ 167.18 :71.43 :Female
+ 169.87 :70.62 :Female
+ 175.10 :70.61 :Female
+ 174.90 :84.99 : Male 
+ 167.27 :73.72 :Female
+ 186.51 :101.22: Male 
+ 161.07 :70.81 : Male 
+ 184.90 :97.27 : Male 
+ 153.46 :57.46 :Female
+ 180.46 :86.75 : Male 
+ 163.61 :71.92 : Male 
+ 185.10 :86.32 : Male 
+ 162.41 :67.96 :Female
+ 182.48 :89.12 : Male 
+ 169.13 :79.39 : Male 
+ 184.64 :101.95: Male 
+ 172.82 :73.42 :Female
+ 182.78 :95.14 : Male 
+ 162.83 :62.92 :Female
+ 163.90 :59.47 :Female
+ 166.69 :69.76 :Female
+ 182.75 :94.42 : Male 
+ 163.46 :70.01 :Female
+ 167.70 :75.72 : Male 
+ 166.20 :63.36 :Female
+ 159.68 :55.68 :Female
+ 173.13 :71.70 :Female
+ 184.55 :94.11 : Male 
+ 163.19 :63.15 :Female
+ 160.04 :68.64 : Male 
+ 173.68 :76.64 : Male 
+ 169.32 :83.66 : Male 
+ 184.00 :91.09 : Male 
+ 178.52 :83.35 : Male 
+ 175.47 :83.18 : Male 
+ 177.41 :90.08 : Male 
+ 166.58 :70.72 :Female
+ 172.47 :78.87 : Male 
+ 171.23 :66.83 :Female
+ 160.08 :63.15 :Female
+ 178.27 :85.26 : Male 
+ 180.21 :87.63 :Female
+ 161.34 :58.56 :Female
+ 166.31 :62.64 :Female
+ 168.43 :76.36 : Male 
+ 183.69 :96.04 : Male 
+ 166.45 :54.81 :Female
+ 154.24 :47.02 :Female
+ 165.06 :65.42 :Female
+ 154.78 :53.80 :Female
+ 156.21 :57.18 :Female
+ 156.77 :54.53 :Female
+ 153.56 :53.71 :Female
+ 167.41 :67.60 :Female
+ 180.64 :91.91 : Male 
+ 162.01 :67.73 :Female
+ 175.22 :71.35 :Female
+ 183.42 :93.15 : Male 
+ 164.42 :75.33 : Male 
+ 187.88 :102.96: Male 
+ 180.98 :93.13 : Male 
+ 185.61 :95.74 : Male 
+ 187.87 :97.53 : Male 
+ 165.38 :58.54 :Female
+ 162.17 :73.33 : Male 
+ 163.80 :59.25 :Female
+ 178.75 :81.77 : Male 
+ 153.82 :54.18 :Female
+ 164.15 :61.63 : Male 
+ 165.24 :68.08 :Female
+ 179.60 :90.14 : Male 
+ 171.80 :68.95 :Female
+ 194.31 :98.81 : Male 
+ 172.05 :78.36 : Male 
+ 176.69 :90.47 : Male 
+ 167.76 :65.00 :Female
+ 161.90 :63.70 :Female
+ 155.24 :45.85 :Female
+ 157.77 :65.91 :Female
+ 181.41 :90.55 : Male 
+ 185.51 :96.02 : Male 
+ 161.28 :63.96 :Female
+ 179.10 :79.31 : Male 
+ 166.27 :66.55 :Female
+ 176.78 :80.09 : Male 
+ 160.04 :67.08 : Male 
+ 165.92 :66.55 :Female
+ 171.89 :87.79 : Male 
+ 168.13 :79.83 : Male 
+ 182.33 :93.05 : Male 
+ 169.25 :86.38 : Male 
+ 147.27 :41.78 :Female
+ 171.92 :80.98 : Male 
+ 163.41 :56.21 :Female
+ 174.08 :71.07 :Female
+ 163.66 :73.71 :Female
+ 171.34 :75.99 : Male 
+ 151.27 :52.69 :Female
+ 182.38 :99.95 : Male 
+ 187.50 :88.57 : Male 
+ 158.02 :61.84 :Female
+ 173.74 :92.00 : Male 
+ 179.13 :94.12 : Male 
  151.23 :54.99 :Female
- 154.83 :43.40 :Female
- 160.48 :64.07 :Female
- 159.10 :46.65 :Female
- 157.68 :62.90 :Female
- 152.48 :44.30 :Female
+ 175.04 :91.94 : Male 
+ 160.69 :63.07 :Female
+ 177.45 :87.04 : Male 
+ 184.84 :95.54 : Male 
+ 163.16 :62.36 :Female
+ 160.52 :63.64 :Female
+ 154.11 :51.12 :Female
+ 155.68 :53.66 :Female
+ 160.13 :54.39 :Female
+ 177.24 :79.86 : Male 
+ 187.57 :103.53: Male 
+ 169.82 :76.81 : Male 
+ 160.26 :64.66 :Female
+ 163.99 :64.78 :Female
+ 175.24 :88.63 : Male 
+ 183.59 :89.21 : Male 
+ 155.84 :58.94 :Female
+ 164.37 :64.10 :Female
+ 171.71 :69.10 :Female
+ 146.44 :44.84 :Female
+ 166.91 :63.20 :Female
+ 180.58 :90.17 : Male 
+ 158.51 :52.88 :Female
+ 176.03 :85.06 : Male 
+ 182.56 :95.84 : Male 
+ 158.69 :60.10 :Female
+ 180.61 :93.65 : Male 
+ 173.43 :80.56 : Male 
+ 163.70 :58.14 :Female
+ 182.48 :91.68 : Male 
+ 188.85 :93.43 : Male 
+ 162.96 :57.54 :Female
+ 176.97 :87.12 : Male 
+ 194.90 :109.61: Male 
+ 159.31 :62.69 :Female
+ 151.99 :58.03 :Female
+ 160.97 :59.14 :Female
+ 161.33 :54.79 :Female
+ 168.13 :80.08 : Male 
+ 164.61 :66.83 : Male 
+ 163.77 :76.84 : Male 
+ 150.57 :39.41 :Female
+ 167.82 :73.56 : Male 
+ 169.36 :76.76 : Male 
+ 173.98 :87.23 : Male 
+ 164.13 :76.65 : Male 
+ 161.92 :62.20 :Female
+ 183.52 :87.75 : Male 
+ 172.22 :71.81 : Male 
+ 172.11 :86.87 : Male 
+ 175.80 :83.04 : Male 
+ 160.31 :65.88 :Female
+ 170.39 :76.14 : Male 
+ 185.06 :97.99 : Male 
+ 176.81 :77.23 : Male 
+ 177.80 :81.06 :Female
+ 161.88 :64.94 :Female
+ 167.31 :76.09 : Male 
+ 152.35 :51.20 : Male 
+ 163.00 :67.72 :Female
+ 164.39 :65.67 :Female
+ 182.41 :93.39 : Male 
+ 192.99 :102.71: Male 
+ 161.73 :73.28 : Male 
+ 157.14 :56.24 :Female
+ 170.77 :80.76 : Male 
+ 183.32 :94.82 : Male 
+ 168.61 :78.34 : Male 
+ 157.94 :61.66 :Female
+ 173.07 :70.14 :Female
+ 193.72 :112.19: Male 
+ 164.27 :59.10 :Female
+ 183.79 :96.73 : Male 
+ 176.73 :81.96 : Male 
+ 145.20 :48.07 :Female
+ 165.41 :70.92 : Male 
+ 167.83 :70.84 :Female
+ 161.39 :65.02 :Female
+ 160.28 :69.62 :Female
+ 166.82 :73.99 : Male 
+ 150.07 :45.05 :Female
+ 168.19 :64.70 :Female
+ 166.07 :63.53 :Female
+ 169.44 :79.36 : Male 
+ 182.96 :94.65 : Male 
+ 163.43 :57.20 :Female
+ 172.05 :69.25 :Female
+ 176.54 :84.97 : Male 
+ 173.70 :81.47 : Male 
+ 173.89 :82.25 : Male 
+ 181.78 :89.81 : Male 
+ 179.25 :79.00 : Male 
+ 172.76 :88.11 : Male 
+ 174.91 :91.52 : Male 
+ 166.46 :67.24 :Female
+ 168.83 :68.95 :Female
+ 161.49 :65.33 :Female
+ 167.23 :65.22 :Female
+ 159.10 :58.76 :Female
+ 171.14 :84.66 : Male 
+ 169.69 :80.08 : Male 
+ 178.66 :78.93 :Female
+ 153.52 :53.62 :Female
+ 175.59 :93.80 : Male 
+ 168.39 :79.93 : Male 
+ 164.35 :66.60 :Female
+ 173.42 :79.90 : Male 
+ 172.39 :80.23 : Male 
+ 160.04 :71.80 : Male 
+ 157.94 :50.73 :Female
+ 167.08 :66.60 :Female
+ 168.03 :68.43 :Female
+ 158.16 :62.76 :Female
+ 181.33 :89.48 : Male 
+ 185.09 :100.57: Male 
+ 153.86 :52.98 :Female
+ 169.73 :85.82 : Male 
+ 157.90 :54.11 :Female
+ 177.93 :84.62 : Male 
+ 168.11 :71.51 :Female
+ 171.95 :85.00 : Male 
+ 179.18 :88.94 :Female
+ 177.75 :87.85 : Male 
+ 155.48 :51.21 :Female
+ 174.09 :81.44 : Male 
+ 164.59 :65.23 :Female
+ 176.62 :74.28 :Female
+ 166.41 :69.30 :Female
+ 166.98 :69.41 :Female
+ 168.26 :70.11 : Male 
+ 179.93 :91.34 : Male 
+ 178.91 :89.42 : Male 
+ 152.78 :45.69 :Female
+ 174.83 :73.92 :Female
+ 183.83 :95.32 : Male 
+ 152.12 :43.37 :Female
+ 167.32 :63.95 :Female
+ 178.03 :100.01: Male 
+ 195.18 :96.02 : Male 
+ 171.00 :66.66 :Female
+ 180.49 :85.86 : Male 
+ 183.46 :92.24 : Male 
+ 175.59 :74.75 :Female
+ 158.75 :60.12 :Female
+ 165.63 :68.19 :Female
+ 173.74 :77.70 : Male 
+ 160.27 :61.65 :Female
+ 176.70 :79.57 : Male 
+ 162.17 :66.02 :Female
+ 167.73 :59.98 :Female
+ 174.49 :83.54 : Male 
+ 158.58 :56.37 :Female
+ 167.73 :78.07 : Male 
+ 166.88 :72.94 :Female
+ 168.47 :75.56 : Male 
+ 172.91 :84.96 : Male 
+ 143.37 :43.83 :Female
+ 173.94 :84.25 : Male 
+ 166.32 :65.60 :Female
+ 183.29 :94.27 : Male 
+ 159.64 :65.90 :Female
+ 156.77 :55.15 :Female
+ 181.24 :92.23 : Male 
+ 176.17 :91.13 : Male 
+ 193.02 :104.92: Male 
+ 181.35 :89.98 : Male 
+ 168.36 :60.21 :Female
+ 167.44 :73.35 :Female
+ 149.85 :48.91 :Female
+ 193.34 :109.13: Male 
+ 187.93 :98.68 : Male 
+ 175.01 :87.37 :Female
+ 175.55 :85.59 : Male 
+ 178.82 :87.48 : Male 
+ 165.42 :64.22 :Female
+ 156.83 :50.78 :Female
+ 160.80 :57.95 :Female
+ 160.87 :68.89 :Female
+ 156.24 :61.87 :Female
+ 169.81 :73.12 : Male 
+ 171.36 :82.68 : Male 
+ 156.98 :59.16 :Female
+ 159.51 :63.41 :Female
+ 157.85 :59.21 :Female
+ 171.86 :78.63 : Male 
+ 167.10 :75.41 : Male 
+ 181.80 :94.25 : Male 
+ 175.59 :81.18 : Male 
+ 188.82 :94.89 : Male 
+ 170.24 :87.02 : Male 
+ 166.81 :67.83 :Female
+ 167.47 :83.42 : Male 
+ 149.02 :44.68 :Female
+ 173.03 :74.08 :Female
+ 164.52 :64.78 :Female
+ 166.64 :70.77 :Female
+ 173.94 :82.05 :Female
+ 153.60 :57.45 :Female
+ 181.24 :94.93 : Male 
+ 151.16 :48.36 :Female
+ 181.94 :91.38 : Male 
+ 174.03 :84.52 : Male 
+ 186.13 :91.74 : Male 
+ 178.40 :89.10 : Male 
+ 171.19 :81.44 : Male 
+ 169.05 :71.96 :Female
+ 167.85 :76.92 : Male 
+ 183.76 :96.66 : Male 
+ 176.56 :90.23 : Male 
+ 166.63 :65.54 :Female
+ 149.05 :41.52 :Female
+ 167.50 :65.80 :Female
+ 177.29 :83.58 : Male 
+ 165.73 :62.21 :Female
+ 160.71 :64.97 : Male 
+ 153.03 :47.60 :Female
+ 169.56 :75.28 : Male 
+ 151.73 :58.51 :Female
+ 180.62 :83.51 : Male 
+ 160.68 :56.33 :Female
+ 169.23 :72.62 : Male 
+ 165.69 :80.24 : Male 
+ 181.67 :88.02 : Male 
+ 166.86 :63.77 :Female
+ 157.95 :59.98 :Female
+ 155.54 :50.57 :Female
+ 155.93 :63.09 :Female
+ 158.80 :58.63 :Female
+ 173.45 :67.96 :Female
+ 156.51 :56.70 :Female
+ 181.15 :95.36 : Male 
+ 182.15 :90.29 : Male 
+ 163.58 :59.58 :Female
+ 174.57 :86.90 : Male 
+ 172.06 :75.12 : Male 
+ 171.27 :70.78 :Female
+ 182.44 :90.24 : Male 
+ 157.29 :67.64 : Male 
+ 154.63 :58.99 :Female
+ 157.65 :52.12 :Female
+ 160.25 :57.08 :Female
+ 168.51 :70.85 :Female
+ 146.78 :48.46 :Female
+ 166.45 :67.14 :Female
+ 162.19 :66.97 :Female
+ 159.58 :55.81 :Female
+ 186.85 :94.50 : Male 
+ 185.33 :92.60 : Male 
+ 156.45 :49.64 :Female
+ 181.50 :81.38 : Male 
+ 179.09 :86.78 : Male 
+ 160.91 :61.76 :Female
+ 169.65 :84.78 : Male 
+ 169.23 :81.20 : Male 
+ 170.62 :80.79 : Male 
+ 150.90 :45.90 :Female
+ 189.50 :113.35: Male 
+ 185.64 :104.62: Male 
+ 165.59 :84.06 : Male 
+ 159.58 :50.62 :Female
+ 159.39 :67.17 : Male 
+ 157.04 :56.16 :Female
+ 174.09 :81.93 : Male 
+ 149.26 :46.47 :Female
+ 172.43 :78.73 : Male 
+ 162.78 :62.35 :Female
+ 173.96 :87.86 : Male 
+ 176.89 :88.45 : Male 
+ 154.91 :51.53 :Female
+ 156.45 :58.95 :Female
+ 161.81 :60.33 :Female
+ 169.86 :76.93 : Male 
+ 169.68 :68.96 :Female
+ 183.75 :93.29 : Male 
+ 185.90 :91.26 : Male 
+ 154.91 :55.79 :Female
+ 172.76 :81.70 : Male 
+ 175.40 :79.88 : Male 
+ 176.53 :89.55 : Male 
+ 150.72 :54.96 :Female
+ 154.75 :54.67 :Female
+ 165.15 :71.08 :Female
+ 173.39 :83.90 : Male 
+ 165.84 :76.51 : Male 
+ 171.44 :81.97 : Male 
+ 177.89 :87.88 : Male 
+ 166.02 :60.35 :Female
+ 159.31 :55.73 :Female
+ 172.94 :80.44 : Male 
+ 165.74 :67.81 :Female
+ 157.04 :55.00 :Female
+ 158.69 :53.16 :Female
+ 171.21 :73.22 :Female
+ 161.84 :65.42 :Female
+ 180.08 :97.53 : Male 
+ 187.19 :105.54: Male 
+ 192.27 :113.18: Male 
+ 176.80 :83.74 : Male 
+ 175.53 :83.18 : Male 
+ 167.90 :67.41 :Female
+ 164.60 :67.86 :Female
+ 188.74 :95.36 : Male 
+ 150.74 :51.44 :Female
+ 169.54 :75.68 :Female
+ 168.39 :76.26 :Female
+ 158.46 :61.13 :Female
+ 162.61 :64.03 :Female
+ 175.59 :78.80 :Female
+ 163.74 :71.34 : Male 
+ 174.98 :87.27 : Male 
+ 165.20 :69.89 : Male 
+ 171.62 :84.38 : Male 
+ 179.48 :88.72 : Male 
+ 177.40 :85.49 : Male 
+ 159.69 :60.18 :Female
+ 178.61 :86.19 : Male 
+ 173.38 :78.98 :Female
+ 177.15 :84.67 : Male 
+ 161.85 :59.00 :Female
+ 149.06 :46.19 :Female
+ 158.51 :54.56 :Female
+ 174.13 :85.73 : Male 
+ 157.76 :62.07 :Female
+ 165.01 :78.24 : Male 
+ 189.66 :103.16: Male 
+ 190.86 :101.64: Male 
+ 185.52 :95.00 : Male 
+ 169.76 :74.87 :Female
+ 177.91 :91.40 : Male 
+ 158.24 :63.04 :Female
+ 168.63 :75.06 : Male 
+ 168.24 :66.92 :Female
+ 175.89 :85.02 : Male 
+ 187.57 :93.19 : Male 
+ 170.60 :71.87 : Male 
+ 154.99 :51.88 :Female
+ 173.65 :87.97 : Male 
+ 153.17 :54.70 :Female
+ 170.86 :81.65 : Male 
+ 181.67 :88.10 : Male 
+ 180.16 :85.58 : Male 
+ 167.25 :66.65 :Female
+ 172.03 :79.80 : Male 
+ 175.83 :76.07 : Male 
+ 176.30 :84.85 : Male 
+ 155.05 :51.33 :Female
+ 172.50 :76.51 :Female
+ 185.69 :99.68 : Male 
+ 187.32 :89.62 : Male 
+ 175.61 :75.14 :Female
+ 174.81 :79.38 :Female
+ 172.97 :83.13 : Male 
+ 168.84 :78.36 : Male 
+ 183.19 :90.30 : Male 
+ 167.48 :81.86 : Male 
+ 153.87 :46.34 :Female
+ 158.52 :57.60 :Female
+ 176.31 :83.40 : Male 
+ 175.54 :79.84 : Male 
+ 181.38 :85.81 : Male 
+ 157.94 :69.29 : Male 
+ 164.40 :65.01 : Male 
+ 180.05 :87.02 : Male 
+ 175.28 :77.18 : Male 
+ 181.32 :91.31 : Male 
+ 177.53 :91.06 : Male 
+ 148.62 :51.60 :Female
+ 166.61 :73.60 : Male 
+ 171.31 :73.85 : Male 
+ 180.26 :96.52 : Male 
+ 160.41 :64.17 :Female
+ 170.84 :68.59 :Female
+ 165.93 :66.00 :Female
+ 157.00 :62.28 :Female
+ 179.90 :89.76 : Male 
+ 171.48 :79.86 : Male 
+ 167.02 :62.35 :Female
+ 182.10 :87.03 : Male 
+ 180.09 :90.91 : Male 
+ 157.24 :51.96 :Female
+ 153.96 :59.12 :Female
+ 169.29 :78.15 : Male 
+ 170.90 :79.35 : Male 
+ 165.20 :62.80 :Female
+ 162.34 :76.12 : Male 
+ 176.22 :80.59 :Female
+ 180.01 :93.36 : Male 
+ 181.37 :95.77 : Male 
+ 175.99 :89.43 : Male 
+ 160.11 :63.17 :Female
+ 172.90 :74.54 :Female
+ 177.01 :86.59 : Male 
+ 169.55 :75.45 : Male 
+ 166.48 :78.00 : Male 
+ 176.40 :86.37 : Male 
+ 167.84 :65.57 :Female
+ 170.79 :80.16 : Male 
+ 172.42 :84.58 : Male 
+ 161.96 :61.78 :Female
+ 154.59 :50.02 :Female
+ 163.91 :65.35 :Female
+ 183.74 :98.28 : Male 
+ 149.64 :52.80 :Female
+ 167.10 :72.28 :Female
+ 185.56 :92.73 : Male 
+ 161.71 :55.40 :Female
+ 168.15 :72.29 : Male 
+ 157.30 :52.97 :Female
+ 179.53 :88.88 : Male 
+ 162.03 :55.38 :Female
+ 148.35 :55.03 : Male 
+ 167.17 :67.34 :Female
+ 181.48 :87.49 : Male 
+ 188.30 :92.68 : Male 
+ 152.12 :49.26 :Female
+ 163.55 :66.16 :Female
+ 174.35 :81.10 : Male 
+ 178.90 :85.60 : Male 
+ 145.37 :45.07 :Female
+ 168.78 :71.17 :Female
+ 163.23 :66.85 :Female
+ 171.96 :70.37 : Male 
+ 165.74 :65.26 :Female
+ 185.61 :94.36 : Male 
+ 185.72 :94.59 : Male 
+ 168.74 :78.91 : Male 
+ 181.82 :87.40 : Male 
+ 168.19 :64.87 :Female
+ 178.42 :89.89 : Male 
+ 179.88 :83.84 :Female
+ 173.06 :86.89 : Male 
+ 177.40 :86.29 : Male 
+ 160.25 :63.73 : Male 
+ 169.47 :67.31 :Female
+ 168.08 :68.04 : Male 
+ 174.00 :93.37 : Male 
+ 179.52 :92.19 : Male 
+ 163.19 :69.44 : Male 
+ 160.36 :59.19 :Female
+ 178.44 :86.46 : Male 
+ 161.76 :59.68 :Female
+ 160.87 :61.71 :Female
+ 172.01 :79.65 : Male 
+ 163.40 :63.57 :Female
+ 185.62 :95.33 : Male 
+ 165.38 :64.13 :Female
+ 163.66 :72.26 :Female
+ 178.07 :85.68 : Male 
+ 172.86 :79.93 : Male 
+ 161.47 :63.12 :Female
+ 159.99 :64.65 :Female
+ 155.97 :55.79 :Female
+ 153.31 :57.98 :Female
+ 151.66 :49.85 :Female
+ 166.11 :67.99 :Female
+ 160.48 :67.12 :Female
+ 152.06 :53.43 : Male 
+ 158.81 :57.66 :Female
+ 179.21 :93.42 : Male 
+ 163.01 :58.78 :Female
+ 154.22 :54.68 :Female
+ 177.87 :91.12 : Male 
+ 154.22 :59.25 :Female
+ 179.44 :91.28 : Male 
+ 166.21 :80.93 : Male 
+ 180.28 :90.62 : Male 
+ 156.03 :59.49 :Female
+ 174.72 :79.75 : Male 
+ 159.78 :47.19 :Female
+ 177.04 :89.50 : Male 
+ 173.88 :83.23 : Male 
+ 151.00 :50.85 :Female
+ 152.89 :52.17 :Female
+ 171.22 :77.22 :Female
+ 174.87 :80.84 : Male 
+ 174.88 :80.86 :Female
+ 169.28 :70.94 :Female
+ 172.13 :86.31 : Male 
+ 175.07 :89.01 : Male 
+ 173.63 :88.19 : Male 
+ 173.95 :79.12 : Male 
+ 165.44 :62.88 : Male 
+ 159.27 :64.50 :Female
+ 176.14 :84.20 : Male 
+ 183.42 :85.69 : Male 
+ 169.49 :73.74 :Female
+ 170.32 :77.01 : Male 
+ 181.45 :79.38 :Female
+ 168.83 :84.21 : Male 
+ 161.90 :59.72 :Female
+ 157.04 :58.81 :Female
+ 154.86 :52.26 :Female
+ 174.22 :81.15 : Male 
+ 157.05 :65.72 :Female
+ 156.49 :56.48 :Female
+ 170.10 :76.82 : Male 
+ 171.92 :68.61 :Female
+ 153.37 :52.17 :Female
+ 164.00 :64.96 :Female
+ 157.76 :66.11 : Male 
+ 171.52 :75.83 : Male 
+ 154.45 :53.14 :Female
+ 181.72 :96.35 : Male 
+ 172.73 :84.52 : Male 
+ 162.24 :69.19 : Male 
+ 167.83 :77.68 : Male 
+ 188.82 :99.95 : Male 
+ 188.98 :109.27: Male 
+ 171.91 :76.92 : Male 
+ 191.16 :103.15: Male 
+ 171.29 :78.56 : Male 
+ 177.17 :92.60 : Male 
+ 182.48 :94.31 : Male 
+ 165.59 :70.88 : Male 
+ 169.90 :86.67 : Male 
+ 164.60 :84.02 : Male 
+ 181.70 :93.97 : Male 
+ 171.50 :71.75 :Female
+ 169.05 :83.92 : Male 
+ 165.43 :71.16 :Female
+ 158.58 :52.68 :Female
+ 160.47 :62.33 :Female
+ 150.47 :50.42 :Female
+ 165.66 :68.74 :Female
+ 166.75 :70.14 :Female
+ 181.40 :95.17 : Male 
+ 168.62 :65.74 :Female
+ 160.90 :66.00 :Female
+ 178.50 :96.02 : Male 
+ 176.78 :78.70 :Female
+ 161.88 :73.57 : Male 
+ 161.06 :58.59 :Female
+ 175.86 :72.22 : Male 
+ 156.62 :51.05 :Female
+ 155.39 :57.69 :Female
+ 172.55 :75.48 : Male 
+ 174.31 :72.50 : Male 
+ 183.88 :94.53 : Male 
+ 163.58 :63.51 :Female
+ 172.45 :85.54 : Male 
+ 190.03 :105.31: Male 
+ 169.01 :67.95 :Female
+ 148.90 :47.93 :Female
+ 156.78 :60.89 :Female
+ 173.38 :75.21 :Female
+ 176.06 :70.06 :Female
+ 176.99 :92.21 : Male 
+ 160.71 :67.63 :Female
+ 168.62 :72.30 :Female
+ 176.20 :85.07 : Male 
+ 155.53 :56.43 :Female
+ 156.72 :53.06 :Female
+ 179.20 :86.33 : Male 
+ 165.42 :77.12 : Male 
+ 169.97 :79.46 : Male 
+ 169.76 :70.75 :Female
+ 159.97 :59.91 :Female
+ 169.56 :80.90 : Male 
+ 171.67 :68.89 :Female
+ 155.28 :49.66 :Female
+ 169.46 :83.32 : Male 
+ 181.62 :93.37 : Male 
+ 153.08 :60.29 : Male 
+ 179.31 :98.70 : Male 
+ 167.30 :71.73 :Female
+ 168.51 :73.17 :Female
+ 160.26 :70.24 : Male 
+ 166.50 :79.77 : Male 
+ 177.24 :87.06 : Male 
+ 186.80 :97.21 : Male 
+ 162.44 :74.73 : Male 
+ 177.15 :90.65 : Male 
+ 154.32 :50.98 :Female
+ 166.60 :68.32 :Female
+ 182.09 :91.98 : Male 
+ 185.01 :94.98 : Male 
+ 174.02 :79.56 : Male 
+ 169.65 :73.48 :Female
+ 189.57 :96.63 : Male 
+ 173.68 :81.47 : Male 
+ 165.48 :55.67 :Female
+ 168.16 :78.18 :Female
+ 163.08 :65.14 :Female
+ 145.47 :42.86 :Female
+ 177.61 :96.03 : Male 
+ 171.60 :87.51 : Male 
+ 156.20 :56.88 :Female
+ 176.66 :83.67 : Male 
+ 171.88 :81.26 : Male 
+ 183.61 :85.80 : Male 
+ 159.32 :71.78 :Female
+ 163.55 :62.80 :Female
+ 153.43 :55.43 :Female
+ 155.98 :57.36 :Female
+ 157.04 :55.68 :Female
+ 177.56 :83.12 : Male 
+ 176.21 :71.86 :Female
+ 182.80 :94.26 : Male 
+ 158.11 :62.05 :Female
+ 164.86 :61.14 :Female
+ 166.03 :70.79 :Female
+ 183.73 :95.68 : Male 
+ 186.28 :92.09 : Male 
+ 158.75 :58.31 :Female
+ 163.11 :62.41 :Female
+ 154.48 :60.72 :Female
+ 167.45 :69.36 : Male 
+ 166.05 :62.13 :Female
+ 168.48 :67.00 :Female
+ 162.42 :59.60 :Female
+ 159.90 :55.24 :Female
+ 175.22 :84.51 : Male 
+ 173.33 :66.61 :Female
+ 178.38 :88.50 : Male 
+ 168.83 :74.52 : Male 
+ 182.86 :95.70 : Male 
+ 194.20 :108.65: Male 
+ 165.17 :71.12 :Female
+ 170.40 :65.03 :Female
+ 170.76 :84.34 : Male 
+ 174.22 :80.75 : Male 
+ 170.00 :74.48 : Male 
+ 145.31 :45.12 :Female
+ 167.18 :70.72 :Female
+ 167.59 :78.86 : Male 
+ 182.80 :93.80 : Male 
+ 156.07 :57.87 :Female
+ 167.12 :79.78 : Male 
+ 148.40 :47.96 :Female
+ 159.63 :68.14 :Female
+ 157.90 :59.97 :Female
+ 182.25 :89.85 : Male 
+ 179.79 :99.97 : Male 
+ 180.82 :91.96 : Male 
+ 174.71 :85.10 : Male 
+ 162.65 :65.53 :Female
+ 172.66 :77.88 : Male 
+ 155.22 :51.29 :Female
+ 154.79 :57.47 :Female
+ 176.45 :83.13 : Male 
+ 179.16 :96.34 : Male 
+ 183.30 :92.78 : Male 
+ 169.22 :69.06 :Female
+ 171.31 :72.69 :Female
+ 165.98 :73.78 : Male 
+ 155.25 :56.05 :Female
+ 161.06 :73.96 : Male 
+ 174.85 :83.31 : Male 
+ 168.50 :73.92 : Male 
+ 177.48 :81.48 : Male 
+ 179.74 :85.62 : Male 
+ 168.61 :78.34 : Male 
+ 170.70 :84.11 : Male 
+ 179.15 :80.27 : Male 
+ 164.68 :61.87 :Female
+ 181.52 :94.23 : Male 
+ 165.83 :73.21 : Male 
+ 185.44 :87.57 : Male 
+ 158.47 :50.25 :Female
+ 159.88 :62.03 :Female
+ 153.12 :57.58 :Female
+ 164.87 :75.39 : Male 
+ 186.45 :87.41 : Male 
+ 156.19 :52.45 :Female
+ 174.91 :87.09 : Male 
+ 161.00 :63.12 :Female
+ 163.70 :63.53 :Female
+ 173.09 :89.56 : Male 
+ 162.65 :61.85 :Female
+ 159.35 :64.10 :Female
+ 173.72 :81.58 : Male 
+ 173.15 :90.71 : Male 
+ 159.26 :58.07 :Female
+ 176.14 :81.76 : Male 
+ 164.18 :60.49 :Female
+ 180.08 :87.73 : Male 
+ 161.85 :60.87 :Female
+ 165.87 :64.98 :Female
+ 186.95 :99.55 : Male 
+ 159.94 :57.23 :Female
+ 174.41 :93.66 : Male 
+ 186.86 :93.13 : Male 
+ 177.60 :89.46 : Male 
+ 173.44 :84.14 : Male 
+ 153.39 :56.68 :Female
+ 162.00 :67.98 :Female
+ 168.40 :81.72 : Male 
+ 182.06 :90.80 : Male 
+ 164.47 :64.12 :Female
+ 149.24 :50.64 :Female
+ 164.84 :71.75 :Female
+ 163.56 :60.46 :Female
+ 171.48 :72.54 :Female
+ 177.25 :85.29 : Male 
+ 169.35 :73.61 :Female
+ 168.84 :73.73 :Female
+ 183.97 :94.40 : Male 
+ 163.65 :64.49 :Female
+ 162.95 :60.38 :Female
+ 176.59 :77.11 : Male 
+ 169.51 :87.86 : Male 
+ 174.59 :86.24 : Male 
+ 171.97 :80.39 : Male 
+ 177.57 :90.25 : Male 
+ 166.90 :62.11 :Female
+ 173.53 :81.35 : Male 
+ 165.07 :76.83 : Male 
+ 167.29 :67.97 :Female
+ 160.47 :63.10 : Male 
+ 175.39 :88.29 : Male 
+ 172.67 :83.62 : Male 
+ 177.74 :89.76 : Male 
+ 166.43 :68.19 :Female
+ 162.18 :68.93 : Male 
+ 176.49 :85.65 : Male 
+ 181.43 :91.54 : Male 
+ 185.14 :100.19: Male 
+ 188.95 :98.48 : Male 
+ 177.64 :85.14 : Male 
+ 167.12 :63.57 :Female
+ 159.66 :55.69 :Female
+ 157.29 :63.45 : Male 
+ 170.52 :80.72 : Male 
+ 171.43 :77.83 : Male 
+ 164.13 :54.28 :Female
+ 161.95 :68.95 :Female
+ 157.31 :56.59 :Female
+ 167.34 :62.99 :Female
+ 168.44 :77.37 : Male 
+ 152.51 :58.57 :Female
+ 177.24 :83.83 : Male 
  150.11 :50.13 :Female
- 168.08 :62.03 :Female
- 170.35 :77.49 :Female
- 162.22 :58.27 :Female
- 175.35 :74.31 :Female
+ 154.08 :53.48 :Female
+ 157.98 :62.26 :Female
+ 170.99 :69.62 :Female
+ 169.53 :69.90 : Male 
+ 163.64 :68.74 :Female
+ 165.42 :65.55 :Female
+ 168.99 :72.40 :Female
+ 158.84 :58.21 :Female
+ 166.45 :71.93 :Female
+ 175.08 :82.01 : Male 
+ 159.27 :63.13 :Female
+ 176.63 :85.96 : Male 
+ 182.96 :95.04 : Male 
+ 168.36 :70.24 :Female
+ 174.14 :86.66 : Male 
+ 180.91 :95.12 : Male 
+ 164.45 :64.14 :Female
+ 161.82 :61.61 :Female
+ 155.75 :44.04 :Female
+ 158.09 :60.95 :Female
+ 182.61 :92.16 : Male 
+ 155.97 :56.69 :Female
+ 188.98 :101.51: Male 
+ 171.61 :77.67 : Male 
+ 172.09 :81.23 : Male 
+ 169.14 :88.96 : Male 
+ 164.79 :73.29 : Male 
+ 178.71 :84.29 :Female
+ 170.26 :85.47 : Male 
+ 168.01 :91.67 : Male 
+ 148.45 :41.00 :Female
+ 168.72 :69.39 :Female
+ 158.26 :60.82 :Female
+ 147.54 :43.06 :Female
+ 163.74 :63.27 :Female
+ 168.20 :65.62 :Female
+ 173.34 :84.55 : Male 
+ 159.60 :62.55 :Female
+ 152.71 :51.43 :Female
+ 160.61 :59.82 :Female
+ 159.64 :57.83 :Female
+ 170.95 :84.96 : Male 
+ 166.55 :62.59 :Female
+ 169.38 :79.25 : Male 
+ 165.82 :74.36 : Male 
+ 169.31 :83.07 : Male 
+ 177.93 :91.07 : Male 
+ 182.09 :85.56 : Male 
+ 157.07 :50.07 :Female
+ 170.36 :80.23 : Male 
+ 165.96 :59.87 :Female
+ 156.42 :63.76 :Female
+ 177.38 :85.28 : Male 
+ 165.68 :64.08 :Female
+ 162.72 :62.25 :Female
+ 170.05 :70.20 :Female
+ 152.19 :53.72 :Female
+ 157.96 :56.51 :Female
+ 180.70 :86.82 : Male 
+ 170.94 :73.31 :Female
+ 170.41 :76.34 : Male 
+ 179.43 :83.12 :Female
+ 177.73 :96.51 : Male 
+ 178.51 :84.77 : Male 
+ 183.64 :96.17 : Male 
+ 162.40 :64.85 :Female
+ 180.41 :84.46 : Male 
+ 168.39 :61.05 :Female
+ 184.24 :93.23 : Male 
+ 156.60 :64.17 :Female
+ 154.43 :57.11 :Female
+ 162.29 :67.56 :Female
+ 157.24 :61.13 :Female
+ 177.04 :82.86 : Male 
+ 157.48 :64.95 :Female
+ 176.15 :88.51 : Male 
+ 141.40 :31.28 :Female
+ 167.40 :57.27 :Female
+ 147.12 :45.60 :Female
+ 174.50 :94.36 : Male 
+ 160.89 :63.77 :Female
+ 161.85 :71.10 : Male 
+ 164.41 :65.28 :Female
+ 170.84 :74.10 : Male 
+ 153.83 :54.51 :Female
+ 196.76 :114.54: Male 
+ 179.49 :73.60 :Female
+ 173.51 :83.69 : Male 
+ 168.49 :75.00 : Male 
+ 161.52 :63.35 :Female
+ 156.79 :53.23 :Female
+ 164.88 :67.53 : Male 
+ 169.22 :75.57 : Male 
+ 156.93 :53.58 :Female
+ 149.77 :50.26 :Female
+ 150.80 :53.86 :Female
+ 172.48 :78.95 : Male 
+ 181.11 :101.75: Male 
+ 167.53 :64.97 :Female
+ 171.26 :71.34 :Female
+ 170.62 :81.03 : Male 
+ 172.81 :78.20 : Male 
+ 157.61 :54.36 :Female
+ 154.32 :44.84 :Female
+ 186.86 :99.50 : Male 
+ 172.20 :77.66 : Male 
+ 160.96 :58.10 :Female
+ 194.49 :104.24: Male 
+ 166.63 :74.47 :Female
+ 181.76 :97.04 : Male 
+ 180.66 :93.26 : Male 
+ 159.33 :60.13 :Female
+ 165.66 :69.59 :Female
+ 186.47 :99.21 : Male 
+ 165.95 :66.71 :Female
+ 156.29 :58.03 :Female
+ 164.05 :71.82 : Male 
+ 154.11 :58.33 :Female
+ 166.73 :70.07 : Male 
+ 156.22 :55.46 :Female
+ 166.57 :70.21 :Female
+ 164.65 :75.34 : Male 
+ 168.09 :71.56 :Female
+ 167.18 :62.91 :Female
+ 179.04 :85.62 : Male 
+ 165.30 :68.97 :Female
+ 168.83 :69.30 :Female
+ 175.10 :71.45 :Female
+ 154.26 :54.41 :Female
+ 161.10 :58.92 :Female
+ 166.46 :66.27 :Female
+ 153.78 :53.69 :Female
+ 180.21 :98.11 : Male 
+ 170.12 :85.27 : Male 
+ 155.31 :47.79 :Female
+ 157.60 :64.05 :Female
+ 171.69 :73.97 : Male 
+ 169.76 :81.94 : Male 
+ 157.60 :63.09 :Female
+ 164.48 :63.74 :Female
+ 162.17 :67.07 : Male 
+ 167.47 :68.66 : Male 
+ 174.85 :73.31 :Female
+ 166.44 :83.64 : Male 
+ 173.95 :82.04 : Male 
+ 162.12 :67.74 :Female
+ 181.41 :85.70 : Male 
+ 164.61 :71.66 : Male 
+ 174.00 :88.46 : Male 
+ 161.94 :71.99 : Male 
+ 173.91 :78.27 :Female
+ 183.24 :97.44 : Male 
+ 176.32 :88.57 : Male 
+ 166.14 :68.72 :Female
+ 154.10 :50.21 :Female
+ 181.88 :95.39 : Male 
+ 153.21 :50.81 :Female
+ 190.43 :107.74: Male 
+ 160.07 :64.13 :Female
+ 146.91 :47.95 :Female
+ 171.01 :85.42 : Male 
+ 173.16 :88.43 : Male 
+ 159.21 :57.09 :Female
+ 160.95 :70.10 :Female
+ 181.11 :87.46 : Male 
+ 178.11 :82.73 : Male 
+ 182.09 :92.32 : Male 
+ 175.51 :80.28 :Female
+ 171.21 :74.64 : Male 
+ 162.76 :58.56 :Female
+ 170.53 :70.30 :Female
+ 152.77 :50.43 :Female
+ 183.50 :100.18: Male 
+ 152.93 :50.36 :Female
+ 157.22 :48.71 :Female
+ 148.60 :46.31 :Female
+ 177.93 :93.97 : Male 
+ 181.89 :92.74 : Male 
+ 174.41 :72.75 :Female
+ 149.99 :50.81 :Female
+ 159.17 :59.41 :Female
+ 157.66 :65.67 :Female
+ 157.13 :60.14 :Female
+ 163.38 :58.30 :Female
+ 165.85 :68.14 :Female
+ 160.34 :67.45 :Female
+ 151.76 :46.42 :Female
+ 177.45 :81.48 : Male 
+ 175.26 :77.74 : Male 
+ 158.88 :53.92 :Female
+ 167.92 :82.94 : Male 
+ 156.41 :53.47 :Female
+ 161.03 :68.27 :Female
+ 163.36 :65.24 :Female
+ 168.87 :62.86 :Female
+ 169.39 :73.73 : Male 
+ 173.38 :77.94 :Female
+ 177.64 :77.18 : Male 
+ 183.63 :94.55 : Male 
+ 167.27 :70.28 : Male 
+ 161.82 :60.21 :Female
+ 160.73 :61.15 :Female
+ 176.89 :82.54 : Male 
+ 158.49 :55.11 :Female
+ 165.71 :70.48 :Female
+ 157.63 :55.42 :Female
+ 160.83 :58.64 :Female
+ 141.58 :49.03 :Female
+ 156.73 :56.60 :Female
+ 160.16 :58.23 :Female
+ 184.60 :98.27 : Male 
+ 164.70 :65.06 :Female
+ 168.06 :84.95 : Male 
+ 168.40 :74.84 :Female
+ 167.13 :64.47 :Female
+ 174.33 :84.14 : Male 
+ 177.38 :89.05 : Male 
+ 163.42 :79.67 : Male 
+ 163.73 :62.83 :Female
+ 171.70 :72.55 :Female
+ 174.24 :81.73 : Male 
+ 166.38 :68.16 :Female
+ 166.97 :63.33 :Female
+ 168.76 :66.06 :Female
+ 181.82 :87.57 : Male 
+ 154.81 :52.06 :Female
+ 170.01 :79.38 : Male 
+ 175.37 :83.46 : Male 
+ 164.66 :66.65 : Male 
+ 168.72 :67.27 :Female
+ 166.15 :56.14 :Female
+ 156.10 :46.17 :Female
+ 161.42 :59.55 :Female
+ 150.54 :45.65 :Female
+ 168.92 :73.36 : Male 
+ 160.88 :62.57 :Female
+ 165.01 :57.06 :Female
+ 158.89 :65.44 :Female
+ 163.79 :60.46 :Female
+ 158.95 :64.12 :Female
+ 161.77 :60.30 :Female
+ 177.53 :88.22 : Male 
+ 168.07 :70.11 : Male 
+ 168.57 :70.94 :Female
+ 151.79 :47.14 :Female
+ 166.64 :69.95 :Female
+ 149.94 :48.84 :Female
+ 162.04 :56.53 :Female
+ 164.87 :64.65 :Female
+ 163.23 :59.99 :Female
+ 163.86 :60.15 :Female
+ 169.06 :70.13 : Male 
+ 170.26 :70.97 : Male 
+ 177.36 :88.88 : Male 
+ 178.48 :87.39 : Male 
+ 158.97 :69.65 :Female
+ 171.89 :77.01 : Male 
+ 181.49 :92.27 : Male 
+ 178.59 :89.23 : Male 
+ 156.34 :56.47 :Female
+ 154.00 :55.07 :Female
+ 164.02 :64.44 :Female
+ 177.76 :93.61 : Male 
+ 181.80 :97.64 : Male 
+ 171.16 :69.45 :Female
+ 182.23 :85.25 : Male 
+ 160.19 :59.48 :Female
+ 173.13 :83.10 : Male 
+ 155.39 :53.98 :Female
+ 182.30 :90.86 : Male 
+ 160.44 :54.85 :Female
+ 157.12 :60.22 :Female
+ 183.77 :91.57 : Male 
+ 185.61 :92.43 : Male 
+ 176.04 :95.45 : Male 
+ 158.43 :61.17 :Female
+ 178.16 :82.92 : Male 
+ 180.31 :97.41 : Male 
+ 172.31 :75.35 : Male 
+ 161.48 :55.58 :Female
+ 163.48 :70.78 : Male 
+ 154.79 :50.99 :Female
+ 157.66 :60.16 :Female
+ 169.97 :82.35 :Female
+ 164.36 :73.32 :Female
+ 183.19 :91.11 : Male 
+ 180.12 :93.14 : Male 
+ 162.35 :61.54 :Female
+ 166.86 :68.46 : Male 
+ 168.62 :69.27 :Female
+ 179.86 :88.99 : Male 
+ 163.32 :62.86 :Female
+ 155.45 :64.58 :Female
+ 159.94 :46.65 :Female
+ 162.00 :57.13 :Female
+ 180.36 :88.02 : Male 
+ 176.10 :81.80 : Male 
+ 166.89 :72.65 : Male 
+ 185.88 :94.71 : Male 
+ 165.61 :66.83 : Male 
+ 146.66 :42.47 :Female
+ 154.72 :59.73 :Female
+ 183.99 :96.12 : Male 
+ 179.78 :87.06 : Male 
+ 151.22 :51.77 :Female
+ 165.28 :64.69 :Female
+ 169.38 :64.83 :Female
+ 158.44 :52.41 :Female
+ 154.83 :43.40 :Female
+ 167.25 :74.50 : Male 
+ 193.65 :103.99: Male 
+ 176.72 :87.29 : Male 
+ 160.50 :66.99 :Female
+ 177.28 :82.74 :Female
+ 164.09 :75.04 : Male 
+ 167.52 :74.19 :Female
+ 166.42 :73.49 :Female
+ 181.93 :87.69 : Male 
+ 158.50 :65.55 : Male 
+ 171.59 :70.04 :Female
+ 176.34 :90.40 : Male 
+ 186.75 :96.54 : Male 
+ 159.39 :54.67 :Female
+ 175.15 :92.71 : Male 
+ 195.60 :114.02: Male 
+ 173.04 :70.49 :Female
+ 163.47 :79.40 : Male 
+ 171.83 :81.13 : Male 
+ 162.69 :65.61 :Female
+ 159.97 :70.04 :Female
+ 167.21 :75.10 : Male 
+ 168.51 :66.82 :Female
+ 166.06 :69.07 : Male 
+ 189.56 :102.90: Male 
+ 178.87 :93.18 : Male 
+ 178.27 :85.50 : Male 
+ 162.45 :67.29 :Female
+ 164.43 :62.48 :Female
+ 163.21 :64.63 :Female
+ 172.60 :81.04 : Male 
+ 159.91 :59.37 :Female
+ 155.11 :47.76 :Female
+ 169.61 :73.27 : Male 
+ 173.79 :86.53 : Male 
+ 178.94 :83.10 : Male 
+ 168.55 :78.62 : Male 
+ 167.88 :59.48 :Female
+ 168.84 :79.54 : Male 
+ 173.31 :80.08 : Male 
+ 176.32 :77.38 :Female
+ 155.79 :52.03 :Female
+ 170.54 :65.80 :Female
+ 181.53 :92.79 : Male 
+ 164.75 :72.37 :Female
+ 174.29 :74.23 :Female
+ 162.78 :64.10 :Female
+ 175.32 :90.08 : Male 
+ 186.66 :95.23 : Male 
+ 166.15 :54.32 :Female
+ 167.48 :68.99 :Female
+ 164.45 :57.04 :Female
+ 156.63 :54.70 :Female
+ 177.20 :85.69 : Male 
+ 183.55 :92.71 : Male 
+ 172.24 :73.30 :Female
+ 160.05 :73.78 : Male 
+ 179.93 :87.15 :Female
+ 165.35 :81.99 : Male 
+ 161.89 :66.65 :Female
+ 170.90 :92.13 : Male 
+ 170.71 :77.63 :Female
+ 156.64 :61.10 :Female
+ 150.21 :51.46 :Female
+ 183.59 :90.18 : Male 
+ 170.47 :79.72 : Male 
+ 153.72 :63.38 :Female
+ 182.19 :92.35 : Male 
+ 169.40 :69.64 :Female
+ 155.73 :68.17 : Male 
+ 168.13 :66.02 :Female
+ 169.70 :63.40 :Female
+ 160.11 :57.89 :Female
+ 164.34 :70.60 : Male 
+ 173.40 :89.27 : Male 
+ 167.05 :77.73 : Male 
+ 170.52 :79.43 : Male 
+ 158.07 :60.40 :Female
+ 165.20 :63.58 :Female
+ 168.05 :70.71 :Female
+ 168.12 :57.31 :Female
+ 158.98 :56.07 :Female
+ 178.42 :87.44 : Male 
+ 175.29 :80.30 : Male 
+ 156.49 :58.11 :Female
+ 173.60 :90.21 : Male 
+ 157.51 :55.65 :Female
+ 181.40 :89.82 : Male 
+ 180.75 :89.46 : Male 
+ 155.22 :53.87 :Female
+ 169.25 :75.04 : Male 
+ 175.68 :89.29 : Male 
+ 169.39 :72.68 :Female
+ 177.38 :79.82 : Male 
+ 155.78 :63.40 :Female
+ 184.17 :98.06 : Male 
+ 177.21 :85.64 : Male 
+ 184.29 :100.84: Male 
+ 174.69 :80.43 : Male 
+ 148.30 :38.91 :Female
+ 182.70 :97.53 : Male 
+ 171.49 :71.62 : Male 
+ 158.41 :59.92 :Female
+ 167.63 :83.21 : Male 
+ 181.98 :90.83 : Male 
+ 181.09 :103.76: Male 
+ 159.76 :59.67 :Female
+ 162.84 :63.15 :Female
+ 162.16 :58.68 :Female
+ 167.49 :71.27 :Female
+ 164.96 :67.85 :Female
+ 161.97 :65.94 :Female
+ 173.46 :79.82 : Male 
+ 168.11 :81.68 : Male 
+ 183.39 :91.55 : Male 
+ 181.73 :89.71 : Male 
+ 146.99 :42.42 :Female
+ 152.81 :52.66 :Female
+ 160.65 :59.70 :Female
+ 175.80 :82.18 : Male 
+ 160.40 :56.32 :Female
+ 164.89 :60.41 :Female
+ 172.49 :78.87 : Male 
+ 163.79 :59.78 :Female
+ 174.34 :70.94 :Female
+ 160.26 :62.18 :Female
+ 162.81 :74.60 : Male 
+ 167.00 :63.42 :Female
+ 165.02 :61.10 :Female
+ 162.17 :66.39 :Female
+ 161.13 :64.21 :Female
+ 161.80 :76.99 : Male 
+ 149.45 :53.19 :Female
+ 173.52 :84.64 : Male 
+ 174.22 :88.97 : Male 
+ 179.03 :86.40 : Male 
+ 162.03 :59.92 :Female
+ 164.00 :62.37 :Female
+ 180.65 :87.89 : Male 
+ 160.94 :61.20 :Female
+ 171.07 :85.98 : Male 
  157.34 :51.54 :Female
+ 160.33 :60.15 :Female
+ 166.26 :78.83 : Male 
+ 161.11 :60.03 :Female
+ 170.23 :71.00 : Male 
+ 156.91 :58.21 :Female
+ 184.63 :88.09 : Male 
+ 169.34 :65.92 :Female
+ 159.33 :54.60 :Female
+ 158.74 :62.37 :Female
+ 171.97 :77.16 : Male 
+ 165.12 :57.67 :Female
+ 172.80 :85.88 : Male 
+ 156.09 :55.32 :Female
+ 157.28 :52.55 :Female
+ 176.08 :71.28 :Female
+ 164.13 :67.88 :Female
+ 194.24 :111.67: Male 
+ 175.61 :85.55 : Male 
+ 167.63 :68.28 :Female
+ 179.16 :92.41 : Male 
+ 176.57 :84.06 : Male 
+ 162.29 :57.55 :Female
+ 161.09 :62.78 :Female
+ 162.00 :75.33 :Female
+ 173.98 :70.00 : Male 
+ 167.49 :80.40 : Male 
+ 169.39 :77.42 : Male 
+ 175.76 :86.87 : Male 
+ 175.18 :79.62 : Male 
+ 158.66 :57.73 :Female
+ 164.90 :71.84 : Male 
+ 172.53 :78.62 : Male 
+ 164.00 :64.89 :Female
+ 174.45 :85.38 : Male 
+ 144.85 :45.90 :Female
+ 166.34 :66.24 :Female
+ 157.44 :53.61 :Female
+ 150.69 :45.56 :Female
+ 170.19 :86.42 : Male 
+ 185.58 :97.98 : Male 
+ 168.17 :70.99 :Female
+ 183.18 :83.76 : Male 
+ 173.71 :84.10 : Male 
+ 173.34 :78.96 : Male 
+ 166.02 :66.18 :Female
+ 172.53 :76.50 : Male 
+ 172.56 :69.89 :Female
+ 177.35 :86.08 : Male 
+ 176.16 :88.19 : Male 
+ 162.56 :53.72 :Female
+ 150.29 :48.14 :Female
+ 182.25 :97.93 : Male 
+ 158.89 :61.53 :Female
+ 179.15 :88.12 : Male 
+ 169.68 :79.06 : Male 
+ 168.02 :78.65 : Male 
+ 164.77 :67.79 :Female
+ 172.64 :76.27 :Female
+ 169.57 :67.56 :Female
+ 163.78 :58.13 :Female
+ 179.37 :89.97 : Male 
+ 158.11 :52.88 :Female
+ 176.95 :80.36 : Male 
+ 173.09 :69.13 :Female
+ 174.16 :81.54 : Male 
+ 163.59 :58.02 :Female
+ 170.18 :86.12 : Male 
+ 176.24 :77.70 : Male 
+ 178.17 :88.36 : Male 
+ 165.43 :59.89 :Female
+ 176.66 :84.76 : Male 
+ 153.58 :51.18 :Female
+ 165.22 :66.97 : Male 
+ 156.29 :63.94 :Female
+ 149.12 :54.54 :Female
+ 166.24 :68.18 :Female
+ 158.95 :64.66 :Female
+ 160.29 :61.95 :Female
+ 176.25 :88.09 : Male 
+ 156.69 :53.35 :Female
+ 171.34 :75.46 : Male 
+ 177.69 :86.85 : Male 
+ 161.20 :57.46 :Female
+ 170.32 :65.46 :Female
+ 158.15 :67.10 :Female
+ 179.36 :85.02 : Male 
+ 168.73 :79.92 : Male 
+ 177.67 :85.40 : Male 
+ 148.08 :43.14 :Female
+ 151.44 :48.70 :Female
+ 156.39 :46.86 :Female
+ 160.51 :57.29 :Female
+ 166.39 :74.58 :Female
+ 172.71 :83.96 : Male 
+ 169.41 :70.35 : Male 
+ 157.84 :53.19 :Female
+ 169.08 :62.86 :Female
+ 175.11 :77.96 : Male 
+ 168.62 :73.48 : Male 
+ 175.13 :88.91 : Male 
+ 155.72 :55.28 :Female
+ 175.07 :87.95 : Male 
+ 179.25 :84.34 : Male 
+ 181.85 :94.24 : Male 
+ 181.27 :97.51 : Male 
+ 152.90 :57.99 :Female
+ 170.38 :65.69 :Female
+ 163.97 :61.02 :Female
+ 172.97 :69.02 :Female
+ 161.96 :60.14 :Female
+ 151.40 :49.61 :Female
+ 150.83 :61.86 : Male 
+ 160.63 :63.10 :Female
+ 157.71 :51.13 :Female
+ 158.92 :64.57 :Female
+ 159.69 :63.63 :Female
+ 157.43 :62.17 :Female
+ 186.72 :95.42 : Male 
+ 165.82 :68.38 :Female
+ 173.78 :85.31 : Male 
+ 174.63 :79.53 : Male 
+ 154.23 :55.88 :Female
+ 173.48 :83.83 : Male 
+ 170.24 :72.22 :Female
+ 162.07 :75.90 : Male 
+ 159.90 :61.10 :Female
+ 155.75 :48.74 :Female
+ 167.84 :79.61 : Male 
+ 156.47 :56.77 :Female
+ 195.75 :112.98: Male 
+ 175.85 :78.83 : Male 
+ 155.45 :46.34 :Female
+ 166.08 :71.14 : Male 
+ 172.83 :76.84 : Male 
+ 194.40 :110.33: Male 
+ 162.16 :63.50 :Female
+ 151.30 :59.01 :Female
+ 171.57 :88.83 : Male 
+ 172.77 :78.25 : Male 
+ 182.89 :85.89 : Male 
+ 174.01 :83.26 : Male 
+ 165.27 :70.06 :Female
+ 171.66 :81.19 :Female
+ 153.89 :56.40 :Female
+ 186.94 :104.11: Male 
+ 150.65 :41.74 :Female
+ 153.98 :54.60 :Female
+ 153.10 :48.46 :Female
+ 171.16 :76.25 :Female
+ 159.77 :68.73 :Female
+ 180.00 :90.55 : Male 
+ 161.17 :66.87 : Male 
+ 158.98 :60.01 :Female
+ 164.90 :69.34 :Female
+ 173.26 :87.44 : Male 
+ 168.29 :81.29 : Male 
+ 183.88 :93.73 : Male 
+ 170.60 :82.85 : Male 
+ 174.09 :86.23 : Male 
+ 173.15 :84.02 : Male 
+ 153.53 :61.48 :Female
+ 164.63 :72.54 : Male 
+ 186.59 :96.05 : Male 
+ 171.99 :71.30 :Female
+ 158.20 :59.14 :Female
+ 156.85 :64.08 :Female
+ 164.96 :61.98 :Female
+ 159.90 :64.36 :Female
+ 174.72 :76.62 :Female
+ 169.00 :75.45 : Male 
+ 164.57 :63.67 :Female
+ 176.96 :98.29 : Male 
+ 172.45 :69.59 :Female
+ 173.01 :76.14 : Male 
+ 164.15 :62.64 :Female
+ 162.20 :66.96 :Female
+ 171.86 :77.24 : Male 
+ 169.23 :72.62 :Female
+ 169.68 :79.38 : Male 
+ 174.22 :82.58 : Male 
+ 142.51 :39.59 :Female
+ 180.76 :90.12 : Male 
+ 161.23 :59.25 :Female
+ 163.79 :63.50 :Female
+ 159.55 :61.59 :Female
+ 157.98 :49.90 :Female
+ 177.50 :93.58 : Male 
+ 164.43 :73.31 : Male 
+ 170.06 :78.43 : Male 
+ 169.56 :62.42 :Female
+ 162.59 :58.03 :Female
+ 148.65 :47.06 :Female
+ 179.20 :89.74 : Male 
+ 185.06 :91.15 : Male 
+ 172.04 :79.62 : Male 
+ 160.13 :55.37 :Female
+ 175.81 :83.87 : Male 
+ 174.25 :84.79 : Male 
+ 161.77 :55.16 :Female
+ 179.05 :92.19 : Male 
+ 152.08 :59.50 :Female
+ 179.45 :87.76 : Male 
+ 165.30 :80.60 : Male 
+ 165.45 :69.57 :Female
+ 147.80 :47.38 :Female
+ 170.91 :90.25 : Male 
+ 157.81 :60.23 :Female
+ 169.86 :72.04 :Female
+ 154.89 :59.96 :Female
+ 156.02 :53.81 :Female
+ 160.55 :63.70 :Female
+ 172.58 :73.54 :Female
+ 167.45 :76.55 :Female
+ 168.24 :67.76 :Female
+ 161.44 :67.33 :Female
+ 175.03 :83.73 : Male 
+ 181.90 :94.64 : Male 
+ 183.95 :92.84 : Male 
+ 175.66 :70.44 : Male 
+ 188.49 :92.86 : Male 
+ 169.41 :71.10 :Female
+ 160.12 :59.43 :Female
+ 186.97 :99.79 : Male 
+ 178.70 :83.91 : Male 
+ 179.61 :92.86 : Male 
+ 166.91 :76.11 : Male 
+ 181.71 :94.02 : Male 
+ 164.99 :65.65 :Female
+ 168.54 :70.11 :Female
+ 164.30 :65.49 :Female
+ 175.69 :82.46 : Male 
+ 161.79 :59.19 :Female
+ 169.34 :80.22 : Male 
+ 145.58 :42.57 :Female
+ 158.97 :60.74 :Female
+ 175.77 :85.31 : Male 
+ 172.21 :82.63 : Male 
+ 164.71 :71.53 : Male 
+ 176.70 :92.16 : Male 
+ 176.02 :89.51 : Male 
+ 168.87 :76.92 : Male 
+ 184.78 :92.80 : Male 
+ 178.43 :86.57 : Male 
+ 156.10 :49.53 :Female
+ 146.83 :48.85 :Female
+ 157.13 :57.60 :Female
+ 177.45 :89.94 : Male 
+ 181.99 :83.89 : Male 
+ 178.11 :85.84 : Male 
+ 181.78 :88.31 : Male 
+ 173.55 :80.72 : Male 
+ 179.59 :92.15 : Male 
+ 188.98 :103.32: Male 
+ 149.59 :47.36 :Female
+ 156.64 :50.62 :Female
+ 162.47 :50.15 :Female
+ 184.59 :93.87 : Male 
+ 176.48 :88.26 : Male 
+ 171.26 :73.42 :Female
+ 171.69 :84.69 : Male 
+ 174.22 :80.20 : Male 
+ 175.29 :94.57 : Male 
+ 181.97 :96.93 : Male 
+ 186.91 :97.85 : Male 
+ 167.93 :72.48 :Female
+ 172.07 :89.76 : Male 
+ 176.79 :84.19 : Male 
+ 161.84 :65.20 :Female
+ 160.84 :59.35 :Female
+ 156.86 :52.42 :Female
+ 168.86 :67.37 :Female
+ 163.49 :67.87 :Female
+ 175.09 :90.54 : Male 
+ 152.68 :44.48 :Female
+ 176.16 :91.76 : Male 
+ 175.90 :87.50 : Male 
+ 183.32 :84.44 : Male 
+ 158.31 :65.73 :Female
+ 164.12 :69.52 : Male 
+ 163.65 :64.04 :Female
+ 176.62 :91.01 : Male 
+ 169.01 :78.67 : Male 
+ 167.34 :71.41 : Male 
+ 188.34 :95.80 : Male 
+ 157.44 :62.98 :Female
+ 164.19 :63.98 :Female
+ 154.85 :49.86 :Female
+ 160.11 :65.00 :Female
+ 166.52 :73.93 : Male 
+ 162.30 :62.67 :Female
+ 163.81 :57.92 :Female
+ 174.97 :89.63 : Male 
+ 161.64 :59.60 :Female
+ 162.54 :60.93 :Female
+ 186.53 :102.60: Male 
+ 167.72 :76.59 : Male 
+ 169.06 :74.81 : Male 
+ 168.52 :71.37 :Female
+ 175.95 :78.35 : Male 
+ 167.57 :85.11 : Male 
+ 176.72 :75.19 : Male 
+ 152.43 :51.27 :Female
+ 180.61 :93.53 : Male 
+ 169.55 :79.86 : Male 
+ 180.80 :94.75 : Male 
+ 164.05 :58.68 :Female
+ 177.07 :91.23 : Male 
+ 169.05 :78.63 : Male 
+ 162.70 :63.27 :Female
+ 167.29 :79.62 : Male 
+ 156.62 :55.65 :Female
+ 174.00 :87.34 : Male 
+ 171.16 :70.97 :Female
+ 159.10 :60.96 :Female
+ 174.54 :75.65 :Female
+ 165.99 :66.55 : Male 
+ 172.70 :78.24 : Male 
+ 158.71 :56.53 :Female
+ 156.88 :67.10 :Female
+ 167.37 :68.56 : Male 
+ 175.01 :87.00 : Male 
+ 174.25 :87.06 : Male 
+ 161.09 :61.22 :Female
+ 180.03 :84.51 : Male 
+ 146.81 :50.95 :Female
+ 174.14 :81.04 : Male 
+ 152.77 :54.82 :Female
+ 179.71 :96.44 : Male 
+ 158.60 :57.38 :Female
+ 164.11 :63.00 :Female
+ 166.91 :66.76 :Female
+ 168.75 :69.42 :Female
+ 157.18 :60.67 :Female
+ 145.98 :43.68 :Female
+ 165.88 :71.84 :Female
+ 174.05 :85.28 : Male 
+ 165.46 :77.83 : Male 
+ 173.41 :76.15 : Male 
+ 157.80 :62.03 :Female
+ 152.01 :50.86 :Female
+ 173.89 :77.15 :Female
+ 172.42 :80.39 : Male 
+ 168.72 :69.54 :Female
+ 170.78 :79.78 : Male 
+ 153.88 :46.14 :Female
+ 175.66 :86.48 : Male 
+ 172.17 :89.94 : Male 
+ 156.46 :52.00 :Female
+ 170.05 :74.58 : Male 
+ 165.44 :74.10 :Female
+ 165.99 :71.15 :Female
+ 167.32 :67.82 :Female
+ 158.38 :56.27 :Female
+ 165.27 :70.82 :Female
+ 157.99 :57.70 :Female
+ 158.84 :57.22 :Female
+ 172.18 :74.53 : Male 
+ 168.48 :79.68 : Male 
+ 170.93 :73.71 :Female
+ 159.03 :56.73 :Female
+ 164.60 :68.50 :Female
+ 161.89 :64.62 :Female
+ 178.56 :96.81 : Male 
+ 176.88 :89.61 : Male 
+ 163.48 :64.04 :Female
+ 181.90 :93.50 : Male 
+ 178.37 :89.32 : Male 
+ 161.58 :70.49 : Male 
+ 164.13 :66.46 :Female
+ 152.43 :49.46 :Female
+ 154.37 :51.90 :Female
+ 170.40 :80.01 : Male 
+ 177.58 :85.42 : Male 
+ 176.78 :84.76 : Male 
+ 172.00 :79.44 : Male 
+ 155.99 :48.21 :Female
+ 161.98 :61.81 :Female
+ 159.72 :67.85 :Female
+ 171.32 :87.34 : Male 
+ 183.19 :90.86 : Male 
+ 175.98 :86.14 : Male 
+ 155.39 :52.69 :Female
+ 179.98 :86.53 : Male 
+ 167.49 :71.21 :Female
+ 157.92 :61.80 :Female
+ 181.26 :96.41 : Male 
+ 160.85 :61.86 :Female
+ 180.98 :89.03 : Male 
+ 172.15 :84.88 : Male 
+ 166.40 :78.54 : Male 
+ 180.22 :89.21 : Male 
+ 156.58 :60.99 :Female
+ 163.95 :64.94 :Female
+ 178.85 :87.38 : Male 
+ 162.50 :61.32 :Female
+ 172.13 :78.31 : Male 
+ 166.77 :63.25 :Female
+ 160.40 :56.86 :Female
+ 175.67 :79.50 : Male 
+ 171.59 :77.49 :Female
+ 174.27 :79.36 :Female
+ 180.29 :86.68 : Male 
+ 185.51 :89.19 : Male 
+ 159.10 :61.72 :Female
+ 177.08 :91.37 : Male 
+ 177.04 :82.19 : Male 
+ 174.39 :85.53 : Male 
+ 173.07 :84.84 : Male 
+ 170.22 :85.70 : Male 
+ 160.17 :55.39 :Female
+ 177.99 :93.15 : Male 
+ 172.16 :82.82 : Male 
+ 181.25 :88.86 : Male 
+ 154.88 :56.74 :Female
+ 176.78 :78.88 : Male 
+ 168.30 :72.80 :Female
+ 163.20 :68.67 :Female
+ 184.82 :100.08: Male 
+ 177.21 :88.26 : Male 
+ 178.69 :85.18 : Male 
+ 164.54 :71.73 : Male 
+ 174.98 :87.02 : Male 
+ 164.79 :66.52 :Female
+ 163.22 :63.60 :Female
+ 172.52 :80.28 : Male 
+ 181.49 :88.68 : Male 
+ 150.13 :56.71 :Female
+ 162.45 :53.92 :Female
+ 168.27 :63.85 :Female
+ 158.19 :65.41 :Female
+ 151.79 :48.15 :Female
+ 158.91 :56.03 :Female
+ 154.52 :56.15 :Female
+ 158.63 :68.35 : Male 
+ 167.90 :72.62 :Female
+ 162.45 :62.85 : Male 
+ 173.33 :74.21 : Male 
+ 170.49 :78.31 : Male 
+ 170.34 :80.96 : Male 
+ 185.94 :92.07 : Male 
+ 164.77 :74.01 : Male 
+ 174.13 :88.11 : Male 
+ 163.50 :69.84 : Male 
+ 149.48 :54.17 :Female
+ 168.82 :60.21 :Female
+ 151.07 :55.40 :Female
+ 167.15 :75.22 : Male 
+ 177.20 :88.90 : Male 
+ 175.18 :80.64 : Male 
+ 167.72 :78.94 : Male 
+ 178.53 :87.41 : Male 
+ 153.90 :49.57 :Female
+ 161.62 :71.97 : Male 
+ 166.72 :64.05 :Female
+ 181.37 :98.38 : Male 
+ 171.01 :71.91 :Female
+ 158.11 :62.76 :Female
+ 168.07 :69.73 :Female
+ 159.86 :59.34 :Female
+ 152.40 :43.93 :Female
+ 155.90 :58.25 :Female
+ 166.97 :61.52 :Female
+ 170.92 :84.29 : Male 
+ 180.60 :91.54 : Male 
+ 178.07 :90.45 : Male 
+ 170.04 :78.99 : Male 
+ 176.97 :80.54 : Male 
+ 167.15 :70.24 : Male 
+ 166.50 :63.21 :Female
+ 164.44 :76.94 : Male 
+ 158.41 :59.75 :Female
+ 178.11 :84.70 : Male 
+ 173.47 :77.97 : Male 
+ 162.96 :59.24 :Female
+ 184.76 :84.91 : Male 
+ 172.09 :78.29 : Male 
+ 162.18 :65.65 :Female
+ 180.84 :83.28 : Male 
+ 176.26 :92.78 : Male 
+ 170.68 :88.09 : Male 
+ 174.03 :87.13 : Male 
+ 169.91 :68.72 :Female
+ 178.55 :87.07 : Male 
+ 173.16 :79.31 : Male 
+ 160.20 :66.15 :Female
+ 157.23 :59.42 :Female
+ 160.87 :57.46 :Female
+ 161.41 :61.59 :Female
+ 168.70 :67.22 :Female
+ 161.35 :58.92 :Female
+ 159.31 :61.74 :Female
+ 174.01 :91.10 : Male 
+ 155.00 :54.90 :Female
+ 168.29 :80.04 : Male 
+ 158.30 :63.18 :Female
+ 175.40 :77.90 : Male 
+ 144.96 :42.52 :Female
+ 161.15 :59.10 :Female
+ 164.65 :64.72 :Female
+ 151.39 :52.26 :Female
+ 156.44 :56.92 :Female
+ 168.27 :86.91 : Male 
+ 163.36 :61.29 :Female
+ 144.18 :35.91 :Female
+ 168.27 :70.03 :Female
+ 153.89 :52.63 :Female
+ 187.15 :101.41: Male 
+ 159.53 :62.39 :Female
+ 162.11 :69.68 :Female
+ 169.26 :70.64 : Male 
+ 170.60 :87.71 : Male 
+ 179.04 :78.93 : Male 
+ 162.87 :65.51 :Female
+ 170.36 :72.75 :Female
+ 171.89 :78.27 :Female
+ 154.51 :57.84 :Female
+ 168.37 :82.05 : Male 
+ 185.10 :99.33 : Male 
+ 155.46 :49.11 :Female
+ 171.07 :74.99 :Female
+ 162.34 :59.42 :Female
+ 173.86 :85.22 : Male 
+ 148.95 :41.33 :Female
+ 196.71 :105.51: Male 
+ 177.72 :92.19 : Male 
+ 166.07 :64.80 :Female
+ 171.79 :77.01 :Female
+ 167.42 :72.21 :Female
+ 172.38 :72.98 :Female
+ 163.33 :60.71 :Female
+ 169.59 :71.20 :Female
+ 165.55 :65.91 :Female
+ 174.52 :74.88 :Female
+ 166.78 :77.52 : Male 
+ 184.27 :92.35 : Male 
+ 166.67 :72.84 :Female
+ 160.29 :60.38 :Female
+ 175.80 :91.40 : Male 
+ 176.30 :80.99 : Male 
+ 156.12 :62.27 :Female
+ 152.32 :52.37 :Female
+ 158.05 :60.71 :Female
+ 181.48 :95.33 : Male 
+ 157.56 :48.19 :Female
+ 149.86 :46.48 :Female
+ 154.16 :58.97 :Female
+ 169.67 :66.93 :Female
+ 162.97 :62.73 :Female
+ 167.47 :79.13 : Male 
+ 178.91 :84.72 : Male 
+ 153.21 :52.05 :Female
+ 159.09 :55.32 :Female
+ 158.77 :59.92 :Female
+ 159.58 :53.90 :Female
+ 177.93 :88.42 : Male 
+ 171.90 :84.58 : Male 
+ 176.82 :83.54 : Male 
+ 178.59 :94.56 : Male 
+ 155.53 :53.00 :Female
+ 160.12 :54.41 :Female
+ 191.49 :99.14 : Male 
+ 178.57 :88.98 : Male 
+ 172.88 :85.43 : Male 
+ 171.54 :79.37 :Female
+ 178.65 :86.35 : Male 
+ 158.21 :63.28 :Female
+ 178.51 :84.92 : Male 
+ 171.14 :78.60 : Male 
+ 182.52 :89.05 : Male 
+ 166.04 :61.89 :Female
+ 147.22 :50.90 :Female
+ 162.06 :66.24 :Female
+ 156.90 :67.81 : Male 
+ 159.87 :57.71 :Female
+ 172.58 :73.14 :Female
+ 161.88 :54.00 :Female
+ 165.19 :66.08 :Female
+ 173.41 :78.43 : Male 
+ 182.65 :92.53 : Male 
+ 163.97 :66.40 :Female
+ 167.80 :66.65 :Female
+ 177.22 :82.90 : Male 
+ 187.79 :99.12 : Male 
+ 170.48 :80.85 : Male 
+ 166.02 :72.05 : Male 
+ 165.66 :84.11 : Male 
+ 161.90 :66.59 :Female
+ 154.10 :45.61 :Female
+ 179.82 :87.21 : Male 
+ 165.66 :68.23 :Female
+ 172.02 :79.94 : Male 
+ 168.31 :67.61 :Female
+ 164.02 :72.64 : Male 
+ 163.50 :63.01 :Female
+ 168.57 :62.26 :Female
+ 177.95 :102.05: Male 
+ 161.07 :54.97 :Female
+ 158.07 :68.52 :Female
+ 176.03 :68.62 :Female
+ 155.15 :55.53 :Female
+ 167.46 :73.93 : Male 
+ 170.94 :79.52 : Male 
+ 154.55 :44.32 :Female
+ 162.71 :73.02 : Male 
+ 170.50 :66.10 :Female
+ 159.05 :69.32 : Male 
+ 183.50 :92.23 : Male 
+ 169.32 :78.01 : Male 
+ 176.50 :85.19 : Male 
+ 156.95 :58.86 :Female
+ 169.47 :66.62 :Female
+ 164.95 :61.40 :Female
+ 171.11 :75.87 : Male 
+ 152.25 :56.01 :Female
+ 160.46 :58.65 :Female
+ 161.20 :57.30 :Female
+ 181.57 :95.20 : Male 
+ 171.16 :83.24 : Male 
+ 168.12 :67.84 :Female
+ 180.90 :92.68 : Male 
+ 154.13 :54.06 :Female
+ 156.68 :53.85 :Female
+ 175.22 :83.10 : Male 
+ 148.26 :51.65 :Female
+ 157.31 :46.47 :Female
+ 161.13 :75.09 :Female
+ 182.35 :90.66 : Male 
+ 172.44 :73.90 : Male 
+ 171.90 :81.31 : Male 
+ 174.88 :87.87 : Male 
+ 167.19 :74.19 : Male 
+ 178.73 :93.69 : Male 
+ 172.74 :72.79 :Female
+ 187.32 :92.52 : Male 
+ 174.58 :84.80 : Male 
+ 162.67 :62.93 :Female
+ 187.02 :97.76 : Male 
+ 162.60 :62.03 :Female
+ 169.58 :81.09 : Male 
+ 171.42 :74.51 : Male 
+ 177.46 :84.23 : Male 
+ 170.73 :69.84 :Female
+ 160.69 :67.57 :Female
+ 179.40 :88.78 :Female
+ 167.83 :80.88 : Male 
+ 171.22 :72.44 :Female
+ 175.83 :70.73 :Female
+ 161.30 :69.25 :Female
+ 177.53 :90.76 : Male 
+ 153.73 :56.57 :Female
+ 169.36 :79.25 : Male 
+ 177.79 :96.17 : Male 
+ 158.93 :57.56 :Female
+ 172.88 :76.43 : Male 
+ 183.88 :94.98 : Male 
+ 156.49 :50.83 :Female
+ 173.54 :80.91 : Male 
+ 157.79 :55.34 :Female
+ 175.45 :78.62 : Male 
+ 172.55 :83.63 : Male 
+ 168.36 :74.30 : Male 
+ 188.54 :99.64 : Male 
+ 164.73 :71.81 : Male 
+ 159.35 :66.83 :Female
+ 170.09 :75.48 : Male 
+ 180.87 :92.63 : Male 
+ 172.26 :86.04 : Male 
+ 161.88 :51.82 :Female
+ 173.32 :84.69 : Male 
+ 181.06 :90.54 : Male 
+ 159.19 :75.33 : Male 
+ 175.53 :86.26 : Male 
+ 176.38 :89.67 : Male 
+ 169.68 :82.89 : Male 
+ 182.62 :92.27 : Male 
+ 175.57 :81.45 : Male 
+ 171.29 :67.95 :Female
+ 172.69 :82.44 : Male 
+ 176.70 :91.02 : Male 
+ 168.45 :62.83 :Female
+ 173.66 :74.79 : Male 
+ 164.67 :70.23 :Female
+ 170.04 :77.60 : Male 
+ 186.71 :95.10 : Male 
+ 181.44 :93.69 : Male 
+ 163.03 :59.95 :Female
+ 152.53 :52.45 :Female
+ 184.33 :104.56: Male 
+ 180.69 :90.17 : Male 
+ 164.44 :69.38 :Female
+ 178.90 :90.28 : Male 
+ 174.01 :83.29 : Male 
+ 185.01 :96.24 : Male 
+ 160.04 :63.22 :Female
+ 171.84 :82.76 : Male 
+ 160.41 :54.05 :Female
+ 179.03 :87.69 : Male 
+ 173.36 :84.83 : Male 
+ 190.60 :101.72: Male 
+ 164.06 :70.26 :Female
+ 187.57 :100.96: Male 
+ 180.05 :86.42 : Male 
+ 184.70 :93.99 : Male 
+ 166.10 :66.31 :Female
+ 180.64 :79.16 : Male 
+ 178.15 :87.43 : Male 
+ 153.39 :57.46 :Female
+ 175.03 :87.27 : Male 
+ 170.27 :79.57 : Male 
+ 154.15 :56.95 :Female
+ 158.82 :53.36 :Female
+ 165.30 :74.23 : Male 
+ 178.82 :92.31 : Male 
+ 169.22 :66.32 : Male 
+ 168.97 :81.28 : Male 
+ 164.91 :55.55 :Female
+ 166.81 :72.51 :Female
+ 154.67 :58.10 :Female
+ 171.71 :67.83 : Male 
+ 162.56 :70.57 :Female
+ 164.70 :73.10 : Male 
+ 174.68 :85.06 : Male 
+ 166.88 :78.55 : Male 
+ 156.21 :53.88 :Female
+ 160.01 :63.98 :Female
+ 165.19 :74.37 : Male 
+ 170.66 :80.01 :Female
+ 159.35 :62.70 :Female
+ 164.73 :66.53 :Female
+ 161.03 :63.58 :Female
+ 183.40 :88.38 : Male 
+ 167.64 :72.08 :Female
+ 153.63 :47.36 :Female
+ 166.18 :75.21 : Male 
+ 180.34 :85.63 : Male 
+ 173.40 :70.56 :Female
+ 171.36 :79.74 :Female
+ 184.48 :92.86 : Male 
+ 184.25 :96.92 : Male 
+ 165.34 :54.80 :Female
+ 166.49 :68.06 :Female
+ 156.28 :56.64 :Female
+ 156.51 :58.81 :Female
+ 159.92 :62.24 :Female
+ 153.02 :69.76 : Male 
+ 164.73 :63.60 :Female
+ 170.14 :78.76 : Male 
+ 165.34 :75.22 : Male 
+ 167.02 :81.57 : Male 
+ 175.72 :74.95 :Female
+ 158.12 :60.67 :Female
+ 174.51 :83.57 : Male 
+ 161.41 :55.64 :Female
+ 159.52 :57.15 :Female
+ 168.83 :81.98 : Male 
+ 173.47 :82.41 : Male 
+ 169.48 :74.60 :Female
+ 164.56 :67.32 :Female
+ 169.61 :71.15 : Male 
+ 176.47 :92.07 : Male 
+ 157.98 :54.43 :Female
+ 188.14 :99.06 : Male 
+ 166.32 :61.20 :Female
+ 178.99 :89.43 : Male 
+ 187.16 :96.85 : Male 
+ 180.91 :88.41 : Male 
+ 155.79 :48.73 :Female
+ 157.14 :61.85 :Female
+ 170.88 :79.96 : Male 
+ 152.13 :52.95 :Female
+ 176.21 :92.96 : Male 
+ 189.73 :94.95 : Male 
+ 180.26 :87.94 : Male 
+ 182.10 :89.22 : Male 
+ 175.04 :78.43 : Male 
+ 157.53 :61.68 :Female
+ 165.66 :73.34 : Male 
+ 164.18 :71.16 :Female
+ 179.92 :89.52 : Male 
+ 180.76 :88.01 : Male 
+ 185.40 :93.27 : Male 
+ 160.15 :58.15 :Female
+ 176.91 :90.18 : Male 
+ 162.20 :56.87 :Female
+ 166.89 :77.14 : Male 
+ 165.39 :69.79 :Female
+ 161.26 :56.26 :Female
+ 160.23 :58.27 :Female
+ 164.96 :56.34 :Female
+ 153.41 :52.34 :Female
+ 165.13 :61.01 :Female
+ 155.40 :53.98 :Female
+ 171.24 :71.06 :Female
+ 181.44 :90.45 : Male 
+ 158.71 :52.82 :Female
+ 167.82 :67.01 :Female
+ 181.98 :86.20 : Male 
+ 186.88 :93.97 : Male 
+ 176.47 :80.43 : Male 
+ 175.66 :93.66 : Male 
+ 173.43 :83.19 : Male 
+ 172.90 :80.52 : Male 
+ 164.17 :60.58 :Female
+ 177.73 :85.54 : Male 
+ 169.39 :76.74 : Male 
+ 180.45 :92.80 : Male 
+ 189.40 :106.49: Male 
+ 157.52 :60.61 :Female
+ 154.14 :53.55 :Female

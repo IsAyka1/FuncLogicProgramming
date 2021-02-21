@@ -12,8 +12,11 @@ def site_parser():
     with open(outputFileName, 'w') as file:
         list = []
         for tag in soup.find_all("td", {"class": "blob-code blob-code-inner js-file-line"}):
-	    list.append(tag.text)
-        file.write(random.shuffle(list))
+            list.append(tag.text)
+        file.write(list.pop(0) + '\n')
+        random.shuffle(list)
+        for elem in list:
+            file.write(elem + '\n')
     return outputFileName
 
 
