@@ -26,7 +26,7 @@ int main(int argc, char* argv[])
 
     data = network.TranslationAndNormalization(data);
 
-    network.train(data, all_y_trues, 0.00001, 4010);
+    network.train(data, all_y_trues, 0.0001, 4010);
 
     std::ofstream weightsFile("trainingsWeights"), biasFile("trainingsBias");
 
